@@ -1,0 +1,108 @@
+/*
+ * VERSION 2.1-SNAPSHOT
+ * Original version: 1.0 © 2010 Andrew Valums ( andrew(at)valums.com )
+ * Current Maintainer (2.0+): 2012, Ray Nicholus ( fineuploader(at)garstasio.com )
+ *
+ * Licensed under MIT license, GNU GPL 2 or later, GNU LGPL 2 or later, see license.txt.
+ */
+.qq-uploader {
+    position: relative;
+    width: 568px;
+    margin-bottom:10px;
+    padding:5px 0;
+}
+.qq-upload-button {
+    display: block;
+    /*or inline-block*/
+    width: 255px;
+    margin:0 auto;
+    padding: 8px 0 8px 24px;
+    font-size:1.063em;
+    text-align: center;
+    background:#ff6840 url('upload.png') no-repeat 12px center;
+    border-width:1px;
+    border-style:solid;
+    border-color:#989692;
+    border-radius:3px;
+    color: #fff;
+}
+.qq-upload-button-hover {
+    border-color:#2b2b2b;
+    background-color:#294159;
+    color:#fff;
+    text-decoration:underline;
+}
+.qq-upload-button-focus {
+    outline: 1px dotted #000000;
+}
+.qq-upload-list {
+    margin: 5px 0 0;
+    padding: 0;
+    list-style: none;
+}
+.qq-upload-list li {
+    margin:2px 0 0;
+    padding: 5px;
+    line-height: 15px;
+    background-color: #fafafa;
+    border:1px solid #f5f5f5;
+}
+.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-failed-text, .qq-upload-finished {
+    margin-right: 20px;
+}
+.qq-upload-file {
+}
+.qq-upload-spinner {
+    display: inline-block;
+    background: url("loading.gif");
+    width: 15px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+.qq-upload-finished {
+    display:none;
+    width:15px;
+    height:15px;
+    vertical-align:text-bottom;
+}
+.qq-upload-size, .qq-upload-cancel {
+    font-size: 12px;
+    font-weight: normal;
+}
+.qq-upload-failed-text {
+    display: none;
+    font-style: italic;
+    font-weight: bold;
+}
+.qq-upload-failed-icon {
+    display:none;
+    width:15px;
+    height:15px;
+    vertical-align:text-bottom;
+}
+.qq-upload-fail .qq-upload-failed-text {
+    display: inline;
+}
+.qq-upload-list li.qq-upload-success {
+    padding-left:35px;
+    background:#fafafa url('../../templates/admin/img/ok.png') no-repeat 10px center;
+    /*background-image:url('ok.png');
+    background-repeat:no-repeat;
+    background-position:10px center;*/
+    border-color:#6e9c37;
+    color:#446122;
+}
+.qq-upload-list li.qq-upload-fail {
+    border-color:#bb4c2e;
+    background-color:#ff6840;
+    color:#fff;
+}
+.qq-progress-bar {
+    display: none;
+}
+.qq-upload-list li.qq-upload-maxdimension {
+}
+.qq-upload-list li.qq-upload-maxdimension .qq-upload-warning{
+  font-weight:bold;
+  color:#ff6840;
+}

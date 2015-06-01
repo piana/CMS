@@ -1,0 +1,13 @@
+1"title"Dawid Pianka
+2"description"Sklep motoryzacyjny
+3"keywords"Motoryzacja
+4"admin_lang"pl_polski
+5"site_lang"pl_polski
+6"theme"default
+7"pepper"zOp3mK
+8"advanced_pages"1
+9"wysiwyg"1
+10"start_page"1
+11"footer"Copyright by Pianka
+12"lcms_footer"Powered by &lt;a href=&quot;http://lekki.sruu.pl&quot;&gt;LekkiCMS&lt;/a&gt;
+13"seo-friendly"0

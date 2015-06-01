@@ -1,0 +1,5 @@
+id:auto_increment
+login
+pass
+mail
+allowed

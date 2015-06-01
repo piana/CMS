@@ -1,0 +1,429 @@
+/* LCMS2 DEFAULT THEME */
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=latin,latin-ext);
+body {
+	font-family: 'PT Sans Narrow', sans-serif; 
+	font-size: 14px;
+	background-color: #a34334;
+	background-image: -moz-linear-gradient(-45deg,  #22282a 0%, #22282a 26%, #262d30 26%, #262d30 100%);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#22282a), color-stop(21%,#22282a), color-stop(21%,#262d30), color-stop(100%,#262d30));
+	background-image: -webkit-linear-gradient(-45deg,  #22282a 0%,#22282a 26%,#262d30 26%,#262d30 100%);
+	background-image: -o-linear-gradient(-45deg,  #22282a 0%,#22282a 26%,#262d30 26%,#262d30 100%);
+	background-image: -ms-linear-gradient(-45deg,  #22282a 0%,#22282a 26%,#262d30 26%,#262d30 100%);
+	background-image: linear-gradient(135deg,  #22282a 0%,#22282a 26%,#262d30 26%,#262d30 100%);
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+}
+
+a { color: #a34334; text-decoration: none;}
+a:hover { color: #3494a3; }
+
+
+#wrap { 
+	width: 960px;
+	margin: 70px auto;
+	background: #fff;
+	padding: 0px;
+}
+
+/***************************
+**** Begin #header
+***************************/
+
+#header {
+	background: #161a1c;
+	height: 190px;
+}
+/*** #header -> h1 */ 
+#header h1 {
+	font-size: 24px;
+	font-weight: normal;
+	background: #40adba; 
+	padding: 10px 15px;
+	margin: 70px 0px 0px 40px;
+	float: left;
+	position: relative;
+	color: #fff;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+}
+#header h1:before { 
+	content: ""; 
+	position: absolute; 
+	left: 100%; 
+	top: 14px; 
+	width: 0; 
+	height: 0; 
+	border-top: 13px solid transparent; 
+	border-left: 16px solid #40adba; 
+	border-bottom: 13px solid transparent; 
+}
+/*** #header -> h2 */ 
+#header h2 {
+	font-size: 20px;
+	font-weight: normal;
+	float: left;
+	margin: 82px 0px 0px 30px;
+	color: #4c5a5f;
+}
+
+/***************************
+**** Begin #menu
+***************************/
+
+#menu {
+	background: #1b2021;
+	height: 50px;
+}
+/*** #menu -> ul */ 
+#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 30px;
+	position: relative;
+}
+#menu ul li {
+	display: block;
+	float: left;
+	padding: 0;
+	margin-right: 12px;
+}
+#menu ul li a {
+	display: block;
+	padding: 14px 10px 15px 10px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	font-weight: normal;
+}
+#menu ul li a:hover {
+	color: #8fd9e4;
+}
+#menu ul li.active > a:first-of-type {
+	color: #40b0c1;
+}
+/*** #menu -> ul.submenu */ 
+#menu ul li:hover > ul.submenu {
+	display: block;
+}
+#menu ul li > ul.submenu {
+	float: none;
+	background: #2C2D2F;
+	position: absolute;
+	z-index: 11;
+	margin-top: -2px;
+	padding: 4px 4px;
+	display: none;
+	box-shadow: 0px 2px 0px #22282a;
+}
+#menu ul li > ul.submenu li {
+	display: block;
+	float: none;
+	background: none;
+	text-shadow: none;
+	padding: 0; margin: 0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+#menu ul li > ul.submenu li a { 
+	display: block; 
+	padding: 0px 6px; 
+	color: #eee; 
+	min-width: 140px; 
+	border-top: 0;
+	/* border-left: 3px solid #4e5054;  */
+	font-size: 14px !important;
+}
+#menu ul li > ul.submenu li a:hover { 
+	background: #40b0c1; 
+	color: #eee; 
+	border-top: 0;  
+	/* border-left: 3px solid #40b0c1; */
+}
+
+/***************************
+**** Begin #content
+***************************/
+
+#content {
+	float: right;
+	width: 630px;
+	margin: 30px 30px 0px 0px;
+	color: #82878a;
+	font-size: 15px;
+	position: relative;
+	min-height: 200px;
+}
+#content h1 {
+	margin: 0;
+	color: #3a3a3a;
+	font-size: 26px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+#content h2 {
+	margin: 0;
+	color: #3a3a3a;
+	font-size: 21px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+/*** #content -> img */ 
+#content img {
+	background: #fff;
+	padding: 1px;
+	margin: 4px;
+	border: 2px solid #e1e3e4;
+}
+/*** #content -> selection */ 
+#content::selection {
+	background: #b7e9ef;
+	}
+#content::-moz-selection {
+	background: #b7e9ef;
+}
+#content p { padding: 0 10px 10px 10px; }
+#content ul { padding: 0 20px 10px 30px; }
+
+/***************************
+**** Begin .sidebar
+***************************/
+
+.sidebar {
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 230px;
+	background: #f8f9f9;
+	border-bottom: 2px solid #262d30;
+	box-shadow: 0px -2px 7px rgba(0, 0, 0, 0.2);
+	color: #82878a;
+}
+.sidebar h1 {
+	background: #262d30;
+	height: 22px;
+	font-weight: normal;
+	font-size: 21px;
+	margin: 0; 
+	padding: 8px 10px 15px 10px; 
+	color: #F9F7ED;
+}
+.sidebar p { padding: 0 10px 10px 10px; }
+
+.sidebar ul {
+	padding: 10px 0px 10px 30px;
+	margin: 0;
+	list-style-type: square;
+	color: #227885;
+}
+.sidebar ul li {
+	padding: 0;
+	margin: 0;
+}
+.sidebar ul li a {
+	font-size: 15px;
+}
+
+.sidebar ul li > ul.submenu { 
+	padding: 2px 0 2px 20px; 
+	list-style-type: circle;
+}
+
+/***************************
+**** Begin #footer
+***************************/
+
+#footer { 
+	background: #f8f9f9;
+	border-top: 1px solid #e8eaec;
+	padding: 10px 10px 30px 10px;
+	text-align: center;
+	color: #82878a;
+	margin-top: 30px;
+}
+#footer span.right {
+	float: right;
+	display: block;
+}
+#footer span.left {
+	float: left;
+	display: block;
+}
+#footer form select {
+	float: none;
+	font-size: 14px;
+	padding: 0px 3px;
+	border: solid 1px #e8eaec;
+	margin: 0px 0px 0px 0px;
+	outline: 0;
+	width: 100%;
+	color: #82878a;
+}
+#footer a { color: #82878a; }
+#footer a:hover { text-decoration: underline; }
+
+/***************************
+**** Begin #notify
+***************************/
+#notify {
+	border-left: 2px solid #82878a;
+	padding: 0px 0px 0px 10px;
+	margin-bottom: 12px;
+	text-transform: uppercase;
+}
+
+/***************************
+**** Begin .news
+***************************/
+.news {  }
+.news h2 {
+	padding-bottom: 0px !important;
+}
+.news h2 a {
+	color: #3a3a3a;
+}
+.news .date {
+	font-size: 12px;
+	display: block;
+	padding-bottom: 5px;
+}
+.news .more:after {
+	content: ' »';
+}
+.news p {
+	padding: 0 !important;
+	margin: 0;
+}
+
+/***************************
+**** Begin .pagination
+***************************/
+.pagination {
+	margin-top: 15px;
+}
+.pagination a {
+	padding: 1px 4px;
+	border: 1px solid #e8eaec;
+	background: #f8f9f9;
+	margin-right: 2px;
+}
+.pagination a.current {
+	font-weight: bold;
+}
+
+/***************************
+**** Begin .gallery
+***************************/
+.gallery {  }
+/* thumbnail */
+.gallery .thumb {
+	display: inline-block;
+	background: #fff;
+	padding: 2px;
+	margin: 4px;
+	border: 2px solid #e1e3e4;
+}
+/* title */
+.gallery .thumb  span {
+	display: block;
+	text-align: center;
+	font-size: 14px;
+}
+.gallery .thumb  a {
+	padding: 0;
+	margin: 0;
+	display: block;
+	font-size: 0px;
+}
+.gallery .thumb img {
+	float: none !important;
+	max-width: none !important;
+	max-height: none !important;
+	background: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	border: 0 !important;;
+}
+
+/***************************
+**** Begin form
+***************************/
+form {
+	margin: 0;
+}
+form label{
+	display: block;
+	font-weight: normal;
+	text-align: right;
+	width: 20%;
+	float: left;
+	margin-top: 4px;
+}
+form label span{
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: right;
+}
+form div.radio {
+	float: left;	
+	padding: 5px 3px;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+}
+form input[type="text"], form input[type="password"] {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #227885;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+	color: #454545;
+}
+form input[type="text"]:focus, form input[type="password"]:focus, form textarea:focus {
+	box-shadow: 0px 0px 5px #40b0c1;
+}
+form textarea {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #227885;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+	height: 104px;
+	color: #454545;
+}
+form select {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #227885;
+	width: 71%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+}
+form input[type="radio"] {
+	margin-right: 2px;
+	margin-left: 5px;
+}
+form input[type="submit"], form button {
+	clear: both;
+	margin-left: 22%;
+	width: 125px;
+	height: 31px;
+	background: #227885;
+	text-align: center;
+	line-height: 31px;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	border: 0;
+}
+form input[type="submit"]:hover, form button:hover {
+	background: #3494a3;
+}
+form input[type="submit"]:active, form button:active {
+	line-height: 33px;
+}

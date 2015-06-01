@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<title>LekkiCMS 2</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="../themes/admin/style/style.css" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="../themes/admin/style/scripts.js"></script>
+</head>
+<body>
+	<!-- Begin #header -->
+	<div id="header">
+		<div class="centered">
+			<div class="left">
+				<h1>LekkiCMS<sup>2</sup></h1>
+			</div>
+			<div class="right">
+				<ul>
+					<li>{{notify}}</li>
+					<li><a href="../" target="_blank">H</a></li>
+					<li><a href="?logout=true">0</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- End #header -->
+	<!-- Begin #nav -->
+	<div id="nav">
+		<div class="centered">
+			{{navigation}}	
+			<span class="prevItem icon">W</span> 
+			<span class="nextItem icon">X</span>
+		</div>
+	</div>
+	<!-- End #nav -->
+	<!-- Begin #content -->
+	<div id="content" class="LCMS">
+		<div class="left">
+			<h2>{{module.name}}</h2>
+			{{module.content}}
+		</div>
+		
+		<div class="sidebar">
+			{{module.pages}}
+		</div>
+		<Div class="clear"></div>
+	</div>
+	<!-- End #content -->
+	<!-- Begin #footer -->
+	<div id="footer">
+		<p>LekkiCMS napisał <a href="http://klocus.pl">Klocek</a></p>
+	</div>
+	<!-- End #footer -->
+</body>
+</html>

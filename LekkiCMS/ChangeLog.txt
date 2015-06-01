@@ -1,0 +1,117 @@
+﻿LekkiCMS 2.0.5 ----------------------------------------------
+
+	Poprawa działania sesji
+		• admin/index.php
+		• admin/login.php
+		• inc/engine/core.admin.php
+
+	Dodanie pliku behave.min.js do edycji kodu HTML/CSS
+		• inc/jscripts/behave.min.js
+		• inc/modules/pages/pages.admin.php
+		• inc/modules/settings/settings.admin.php
+
+	Dodanie pliku JavaScript do szablonu administracji
+		• themes/admin/template.html
+		• themes/admin/style/scripts.js
+		• themes/admin/style/style.css
+
+	Poprawa działania modułu galerii
+		• inc/modules/gallery/gallery.site.php
+		• inc/modules/gallery/gallery.admin.php
+
+	Poprawa działania funkcji $core->replace()
+		• inc/engine/core.site.php
+		• inc/engine/core.admin.php
+
+	Poprawa skracania aktualności
+		• inc/modules/news/news.site.php
+
+	Dodanie pliku robots.txt
+		• robots.txt
+
+LekkiCMS 2.0.4 ----------------------------------------------
+
+	Dodanie opcji wyboru schematu szablonu dla podstron
+		• install.php
+		• inc/engine/core.site.php
+		• inc/modules/pages/pages.admin.php
+		• inc/modules/pages/pages.site.php
+		• inc/lang/pl_polski/admin/pages.php
+
+	Poprawa opcji opisów i kluczy podstron
+		• inc/modules/pages/pages.admin.php
+		• inc/modules/settings/settings.site.php
+
+	Drobne zmiany w funkcjach językowych
+		• inc/modules/pages/pages.site.php
+		• inc/engine/core.site.php
+
+	Drobne zmiany w module kontaktu
+		• inc/modules/contact/contact.site.php
+	
+	Dodanie klasy .single do pojedynczego newsa
+		• inc/modules/news/news.site.php
+
+	Optymalizacja modułu ustawień
+		• inc/modules/settings/settings.site.php
+		
+	Dodanie tagu {{theme.path}}
+		• inc/modules/settings/settings.site.php
+		• themes/default/template.html
+
+LekkiCMS 2.0.3 ----------------------------------------------
+
+	Implementacja lokalnego edytora WYSIWYG
+		• inc/modules/pages/pages.admin.php
+		• inc/modules/news/news.admin.php
+
+	Dodanie lokalnego edytora WYSIWYG
+		• inc/jscripts/CLEditor/
+
+LekkiCMS 2.0.2 ----------------------------------------------
+
+	Dodanie biblioteki jQuery jako standardu
+		• themes/admin/template.html
+		• themes/default/template.html
+
+	Dodanie funkcji append()
+		• inc/engine/core.admin.php
+		• inc/engine/core.site.php
+		• inc/modules/gallery/gallery.admin.php
+		• inc/modules/gallery/gallery.site.php
+		• inc/modules/pages/pages.admin.php
+
+	Dodanie funkcji odpowiedzialnych za bufor
+		• index.php
+
+LekkiCMS 2.0.1 ----------------------------------------------
+
+	Zamiana oddzielnych języków podstron na ogólne
+		• inc/engine/core.site.php
+		• inc/modules/settings/settings.admin.php
+		• inc/modules/settings/settings.site.php
+		• inc/modules/pages/pages.admin.php
+		• inc/modules/pages/pages.site.php
+		• inc/lang/pl_polski/admin/pages.php
+		• install.php
+	
+	Zmiana nazwy katalogów z językami na xx_yyy
+		• xx - skrócona nazwa języka, np. pl
+		• yyy - pełna nazwa języka, np. polski
+
+LekkiCMS 2.0.0 ----------------------------------------------
+
+	Informacja o dostępnych aktualizacjach
+		• inc/modules/settings/settings.admin.php
+		• inc/lang/polish/admin/settings.php
+
+	Zmiany w szablonie administracyjnym
+		• themes/admin/style.css
+
+	Możliwość nadania uprawnień dostępu do modułów użytkownikom
+		• inc/engine/core.admin.php
+		• inc/modules/users/users.admin.php
+		• inc/modules/users/users.info.php
+		• inc/lang/polish/admin/users.php
+		• admin/index.php
+		• admin/login.php

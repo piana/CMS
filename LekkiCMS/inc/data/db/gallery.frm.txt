@@ -1,0 +1,6 @@
+id:auto_increment
+name
+namec
+thumbs_size
+img_on_page
+titles

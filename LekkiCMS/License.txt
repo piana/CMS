@@ -1,0 +1,27 @@
+I. Postanowienia ogólne
+
+    1. Ka¿dy u¿ytkownik skryptu LekkiCMS zobowi¹zany jest do przestrzegania niniejszych warunków u¿ytkowania.
+    2. Niniejszy skrypt jest wolnym oprogramowaniem, co oznacza, ¿e mo¿na go rozprowadzaæ dalej oraz modyfikowaæ na w³asne potrzeby przestrzegaj¹c przy tym postanowieñ z rozdzia³u “Zakres u¿ytkowania”.
+
+II. Prawa w³asnoœci
+
+    1. Skrypt LekkiCMS jest chroniony prawem autorskim, zgodnie z ustaw¹ z dnia 4 lutego 1994 roku o prawach autorskich i prawach pokrewnych.
+    2. Autor skryptu zezwala na jego u¿ytkowanie pod zawartymi w tym dokumencie warunkami.
+
+III. Odpowiedzialnoœæ i jej ograniczenia
+
+    1. Autor nie bierze odpowiedzialnoœci za wadliwe u¿ytkowanie skryptu, oraz:
+        a. nadmierne obci¹¿enie zasobów serwera,
+        b. utratê danych wynikaj¹c¹ z b³êdów skryptu,
+        c. treœci umieszczone w serwisie,
+        d. straty finansowe, szkody oraz roszczenia stron trzecich.
+    2. Autor nie udziela ¿adnej gwarancji odnoœnie dzia³ania oraz poprawnego funkcjonowania skryptu.
+
+IV. Zakres u¿ytkowania
+
+    1. U¿ytkownik skryptu mo¿e wykorzystaæ go do w³asnych potrzeb, ale zgodnie z aktualnie panuj¹cym prawem.
+    2. Dopuszczalne jest modyfikowanie przez u¿ytkownika kodu Ÿród³owego skryptu, zgodnie z poni¿szymi wytycznymi:
+        a. nale¿y zachowaæ wszelkie informacje o autorze oraz skrypcie w takim stanie, w jakim je zasta³,
+        b. w ramach wniesionej przez u¿ytkownika op³aty, zezwala siê na usuniêcie informacji o autorze i skrypcie, zaznaczaj¹c przy tym, ¿e autor skryptu nie traci do niego praw,
+        c. autor modyfikacji mo¿e je udostêpniæ, ale wy³¹cznie na oficjalnym serwisie/forum skryptu.
+    3. U¿ytkownikowi zakazuje siê sprzeda¿y skryptu (nie dotyczy to stron wykonanych na bazie skryptu).

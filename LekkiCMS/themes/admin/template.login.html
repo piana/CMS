@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<title>LekkiCMS 2 - Logowanie</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="../themes/admin/style/style.css" />
+</head>
+<body>
+	<!-- Begin #top_error -->
+		{{error}}
+	<!-- End #top_error -->
+	<!-- Begin #login -->
+	<div id="login" class="LCMS">
+		<h2>LekkiCMS<span>Logowanie</span></h2>
+		<form name="login_form" method="post" action="login.php">
+			<label>Login</label>
+			<input type="text" name="username"/>
+
+			<label>Hasło</label>
+			<input type="password" name="password" />
+
+			<button type="submit" name="login">Zaloguj się</button>
+			</form>
+		<div class="clear"></div>
+	</div>
+	<!-- End #login -->
+</body>
+</html>

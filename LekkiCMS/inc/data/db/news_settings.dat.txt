@@ -1,0 +1,2 @@
+1"max_chars"320
+2"posts_on_page"5

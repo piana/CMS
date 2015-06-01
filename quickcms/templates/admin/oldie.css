@@ -1,0 +1,19 @@
+#closeLayer{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";} /* IE 8 */
+#closeLayer{filter:alpha(opacity=50);} /* IE 5-7 */
+
+.main-form .buttons .options > input{background-position:right 10px;}
+
+.main-form .tabs{clear:both;}
+
+.tabs{clear:both;}
+
+.forms.list li{overflow:hidden;}
+
+table.list a.preview{display:none;}
+table.list tr:hover a.preview{display:inline-block;}
+table.list tr:hover a.preview:hover{background-image:url('img/preview2.png');}
+.custom > input{position:relative;left:auto;float:none;width:auto;height:auto;opacity:1;}
+td.custom > label{width:auto;}
+
+/* PLUGINS */
+

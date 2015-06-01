@@ -1,0 +1,10 @@
+id:auto_increment
+title
+content
+parent
+menu
+lang
+order
+desc
+keys
+tpl

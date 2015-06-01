@@ -1,0 +1,3 @@
+1"Klasa A"klasa-a"160x120"3"0
+2"Klasa B"klasa-b"160x120"3"0
+3"Klasa C"klasa-c"160x120"4"0

@@ -1,0 +1,613 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=latin,latin-ext);
+@font-face {
+    font-family: 'pulsarjsregular';
+    src: url('pulsarjs.eot');
+    src: url('pulsarjs.eot?#iefix') format('embedded-opentype'),
+         url('pulsarjs.woff') format('woff'),
+         url('pulsarjs.ttf') format('truetype'),
+         url('pulsarjs.svg#pulsarjsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* { margin:0; padding: 0; }
+
+body {
+	font-family: 'PT Sans Narrow', Arial, sans-serif;
+	background: #ededed;
+}
+
+
+.centered {	margin: 0 auto; width: 940px; }
+.clear { clear: both; }
+.icon { font-family: 'pulsarjsregular'; -webkit-font-smoothing: antialiased; }
+
+
+/***************************
+**** Begin #header
+***************************/
+
+#header {
+	background: #262626;
+	height: 90px;
+	padding-top: 20px;
+}
+/*** #header -> .left */ 
+#header .left {
+	float: left;
+}
+#header .left h1 {
+	color: #4daee2;
+	font-size: 56px;
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+#header .left h1 sup {
+	font-size: 28px;
+}
+/*** #header -> .right */ 
+#header .right {
+	float: right;
+}
+#header .right ul {
+	list-style: none;
+	margin-top: 9px;
+}
+#header .right ul li {
+	float: left;
+	margin-left: 4px;
+}
+#header .right ul li:first-child {
+	height: 48px;
+}
+
+#header .right ul li a {
+	display: block;
+	height: 43px;
+	width: 48px;
+	background: #3a9cd6;
+	font-family: 'pulsarjsregular';
+	color: #fff;
+	font-size: 42px;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px 0px 0px 0px;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+	-webkit-font-smoothing: antialiased;
+}
+#header .right ul li a:hover {
+	background: #2f88bd;
+}
+/*** #header -> .right -> div.notify */ 
+#header .right ul li div.notify {
+	display: block;
+	height: 35px;
+	padding: 13px 15px 0px 0px;
+	color: #fff;
+	opacity: 0;
+	animation:showNotify 15s;
+	-moz-animation:showNotify 15s;
+	-webkit-animation:showNotify 15s;
+	-o-animation:showNotify 15s;
+}
+#header .right ul li div.error:before {
+	content: "S";
+	font-family: 'pulsarjsregular';
+	font-size: 48px;
+	float: left;
+	position: relative;
+	top: -12px;
+	left: 2px;
+	overflow: hidden;
+}
+#header .right ul li div.success:before {
+	content: "X";
+	font-family: 'pulsarjsregular';
+	font-size: 48px;
+	float: left;
+	position: relative;
+	top: -12px;
+	left: 2px;
+	overflow: hidden;
+}
+#header .right ul li div.success {
+	background: #8cc63f;
+}
+#header .right ul li div.error {
+	background: #BA3C46;
+}
+/* showNotify animation */
+@keyframes showNotify
+{
+	0%   {opacity: 0;}
+	15%  {opacity: 1;}
+	80%  {opacity: 1;}
+	100% {opacity: 0;}
+}
+@-webkit-keyframes showNotify
+{
+	0%   {opacity: 0;}
+	15%  {opacity: 1;}
+	80%  {opacity: 1;}
+	100% {opacity: 0;}
+}
+@-moz-keyframes showNotify
+{
+	0%   {opacity: 0;}
+	15%  {opacity: 1;}
+	80%  {opacity: 1;}
+	100% {opacity: 0;}
+}
+@-o-keyframes showNotify
+{
+	0%   {opacity: 0;}
+	15%  {opacity: 1;}
+	80%  {opacity: 1;}
+	100% {opacity: 0;}
+}
+
+
+/***************************
+**** Begin #nav
+***************************/
+
+#nav {
+	background: #3a9cd6;
+}
+#nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#nav ul li {
+	display: inline-block;
+	margin-right: 2px;
+	padding: 0;
+}
+#nav ul li a {
+	text-transform: lowercase;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 10px 14px;
+	background: none;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+}
+#nav ul li a:hover {
+	background: rgba(255, 255, 255, 0.1);
+}
+#nav ul li a.active {
+	background: rgba(255, 255, 255, 0.1);
+}
+#nav ul li a:before { 
+	content: ".";
+}
+#nav .centered {
+	position: relative;
+}
+#nav .nextItem, #nav .prevItem  {
+	position: absolute;
+	top: 10px;
+	color: #fff;
+	font-size: 24px;
+	cursor: pointer;
+	transition: all 0.2s;
+	display: none;
+}
+#nav .nextItem.unActive, 
+#nav .prevItem.unActive  {
+	opacity: 0.5;
+	cursor: default;
+}
+#nav .nextItem.unActive:hover, 
+#nav .prevItem.unActive:hover  {
+	color: #fff;
+}
+#nav .nextItem:hover, 
+#nav .prevItem:hover  {
+	color: #262626;
+}
+#nav .prevItem {
+	left: -35px;
+}
+#nav .nextItem {
+	right: -35px;
+}
+
+/***************************
+**** Begin #content
+***************************/
+#content {
+	margin: 30px auto 10px auto;
+	background: #f6f6f6;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+	border-left: 6px solid #4daee2;
+	color: #666666;
+	font-size: 14px;
+	width: 934px;
+}
+/*** #content -> .left */ 
+#content .left {	
+	width: 73%;
+	background: #fff;
+	float: left;
+	box-shadow: 1px 0px 0px #ededed;
+	padding: 1%;
+	min-height: 100px;
+}
+#content .left h2 {	
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 10px;
+	font-size: 21px;
+	text-transform: lowercase;
+}
+#content .left h2 span {	
+	color: #cdcdcd;
+	text-transform: lowercase;
+}
+#content .left h2 span:before {	
+	content: ".";
+}
+#content .left h3 {	
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+#content .left h3 a {	
+	text-decoration: none;
+}
+#content .left h3 .icon {	
+	position: relative;
+	top: 3px;
+}
+#content .left a {
+	color: #666666;
+}
+#content .left a:hover {
+	color: #3a9cd6;
+}
+/*** #content -> .sidebar */
+#content .sidebar {
+	float: left;
+	width: 25%;
+} 
+#content .sidebar ul {
+	padding: 0;
+	margin: 0px 0px 0px 1px;
+	list-style: none;
+	width: 100%;
+}
+#content .sidebar ul li {
+	padding: 0px 0px 2px 0px;
+	margin: 0;
+	width: 100%;
+}
+#content .sidebar ul li a {
+	display: block;
+	background: #ededed;
+	color: #7e7e7e;
+	text-decoration: none;
+	padding: 6px 5px;
+	border-right: 3px solid #4daee2;
+	-webkit-transition: border 0.2s ease-out;
+	-moz-transition: border 0.2s ease-out;
+	-o-transition: border 0.2s ease-out;
+	transition: border 0.2s ease-out;
+}
+#content .sidebar ul li.active a {
+	background: #4daee2;
+	color: #fff;
+}
+#content .sidebar ul li a:hover {
+	border-right: 6px solid #4daee2;
+}
+#content .info:before {
+	content: 'P';
+	font-size: 20px;
+	position: relative;
+	top: 6px;
+	margin-right: 5px;
+	font-family: 'pulsarjsregular';
+}
+
+/***************************
+**** Begin #footer
+***************************/
+#footer {
+	margin: 0px auto;
+	width: 940px;
+	color: #939393;
+	text-shadow: 1px 1px 0px #fff;
+	font-size: 14px;
+}
+#footer a {
+	text-decoration: none;
+	color: #939393;
+}
+
+/***************************
+**** Begin #login
+***************************/
+#login {
+	width: 440px;
+	height: 200px;
+	background: #FFF;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+	border-left: 6px solid #4daee2;
+	color: #666666;
+	position: absolute;
+    left: 49%;
+    top: 49%; 
+    margin-left: -220px;
+    margin-top: -100px;
+    padding: 10px;
+}
+#login h2 {	
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 10px;
+	font-size: 21px;
+}
+#login h2 span {	
+	color: #cdcdcd;
+	text-transform: lowercase;
+}
+#login h2 span:before {	
+	content: ".";
+}
+#login form {	
+	margin-top: 30px;
+}
+#login form label {	
+	margin-top: 4px;
+	width: 11%;
+}
+#login form input[type="text"], #login form input[type="password"] {
+	width: 80%;
+}
+#login form button {
+	margin-left: 59px;
+}
+
+#top_error {
+	display: block;
+	height: 35px;
+	width: 235px;
+	padding: 13px 15px 0px 0px;
+	color: #fff;
+	background: #BA3C46;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	opacity: 0;
+	animation:showNotify 15s;
+	-moz-animation:showNotify 15s;
+	-webkit-animation:showNotify 15s;
+	-o-animation:showNotify 15s;
+}
+#top_error:before {
+	content: "S";
+	font-family: 'pulsarjsregular';
+	font-size: 48px;
+	float: left;
+	position: relative;
+	top: -12px;
+	left: 2px;
+	overflow: hidden;
+}
+
+/***************************
+**** Begin #install
+***************************/
+#install {
+	width: 440px;
+	height: 386px;
+	background: #FFF;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+	border-left: 6px solid #4daee2;
+	color: #666666;
+	position: absolute;
+    left: 49%;
+    top: 49%; 
+    margin-left: -220px;
+    margin-top: -177px;
+    padding: 10px;
+}
+#install h2 {	
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 10px;
+	font-size: 21px;
+}
+#install h2 span {	
+	color: #cdcdcd;
+	text-transform: lowercase;
+}
+#install h2 span:before {	
+	content: ".";
+}
+#install .info {
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell; 
+	height: 346px;
+	width: 420px;
+}
+#install a {
+	padding: 8px 15px;
+	background: #3a9cd6;
+	line-height: 31px;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 0px 5px;
+}
+#install a:hover {
+	background: #4daee2;
+}
+#install form {	
+	margin-top: 30px;
+}
+#install form label {	
+	margin-top: 0px;
+	width: 21%;
+}
+#install form input[type="text"], #install form input[type="password"] {
+	width: 74%;
+}
+#install form button {
+	float: right;
+	margin-right: 5px;
+}
+
+/***************************
+**** Begin Content GUI
+***************************/
+
+/*** Content GUI -> table */ 
+.LCMS table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 4px 0px;
+}
+.LCMS table a{
+	color: #666666;
+	text-decoration: none;
+}
+.LCMS table thead td {
+	border-bottom: 1px solid #ddd;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+.LCMS table thead td:first-child {
+	text-align: left;
+}
+.LCMS table tbody tr td {
+	border-bottom: 1px solid #ededed;
+	text-align: center;
+	font-size: 14px;
+	height: 32px;
+}
+.LCMS table tbody tr td:first-child {
+	text-align: left;
+}
+.LCMS table tbody tr:hover td, table tbody tr:hover td {
+	background: #f6f6f6;
+}
+.LCMS table .icon {
+	font-size: 24px;
+	position: relative;
+	top: 3px;
+}
+.LCMS table .unactive {
+	color: #8f8e8e;
+}
+.LCMS table input[type="text"] {
+	width: 90%;
+	height: 14px !important;
+	font-size: 11px !important;
+	margin: 4px 0px !important;
+}
+
+/**** Content GUI -> form */
+.LCMS form {
+	margin: 0;
+}
+.LCMS form label{
+	display: block;
+	font-weight: bold;
+	text-align: right;
+	width: 20%;
+	float: left;
+}
+.LCMS form label span{
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: right;
+}
+.LCMS form div.radio {
+	float: left;	
+	padding: 5px 3px;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+}
+.LCMS form input[type="text"], .LCMS form input[type="password"] {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #3a9cd6;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+	color: #383737;
+}
+.LCMS form input[type="text"]:focus, .LCMS form input[type="password"]:focus, .LCMS form textarea:focus {
+	box-shadow: 0px 0px 5px #4daee2;
+}
+.LCMS form textarea {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #3a9cd6;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+	height: 104px;
+	color: #383737;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+}
+.LCMS form select {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	border: solid 1px #3a9cd6;
+	width: 71%;
+	margin: 2px 0 20px 10px;
+	outline: 0;
+	color: #383737;
+}
+.LCMS form input[type="radio"] {
+	margin-right: 2px;
+	margin-left: 5px;
+}
+.LCMS form input[type="file"] {
+	float: left;
+	font-size: 14px;
+	padding: 5px 3px;
+	width: 70%;
+	margin: 2px 0 20px 10px;
+	color: #383737;
+}
+.LCMS form input[type="submit"], .LCMS form button {
+	clear: both;
+	margin-left: 21.7%;
+	width: 125px;
+	height: 31px;
+	background: #3a9cd6;
+	text-align: center;
+	line-height: 31px;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	border: 0;
+}
+.LCMS form input[type="submit"]:hover, .LCMS form button:hover {
+	background: #4daee2;
+}
+.LCMS form input[type="submit"]:active, .LCMS form button:active {
+	line-height: 33px;
+}
