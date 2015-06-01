@@ -1,0 +1,1387 @@
+//Windu CMS admin lang file//
+
+lang = EN
+facebook.page.key = cmswindu
+defaultTimezone = "欧洲/伦敦"
+
+admin.help.main = zbqtbgbwgrrh
+admin.help.content = pszbwpsacrsk
+admin.help.users = drdytkxgkkhg
+admin.help.themes = asrhkzzsybpa
+admin.help.tools = gmyyyvjczhdy
+admin.help.config = jqythydwfqxx
+admin.help.system = wwahajwpbcqx
+admin.help.forum = wttxffcsnkgs
+
+form.button.title.default = 提交
+form.button.title.cancel = 取消
+form.button.title.save = 保存
+form.button.title.add = 添加
+form.button.title.backup = 备份
+form.button.title.images = 图片
+form.button.title.files = 文件
+form.button.title.widgets = 组件
+form.button.title.next = 下一个
+form.button.title.import = 输入
+form.button.title.merge = 合并
+form.button.title.activate.license = 激活许可证
+
+validator.required = "字段不能为空"
+validator.email = "请填入有效邮箱"
+validator.number = "请填入一个数字"
+validator.captcha = "请输入图片中的文字"
+validator.captcha.error = "请输入图像中正确的文字"
+
+admin.menu.content = 内容
+admin.menu.forum = 论坛
+admin.menu.users = 用户
+admin.menu.config = 配置
+admin.menu.themes = 图表
+admin.menu.tools = 工具
+admin.menu.trash = 垃圾箱
+admin.menu.system = 系统
+admin.menu.forum = 论坛
+admin.menu.custom = 自定义面板
+
+admin.message.success = 替换成功
+admin.message.success.autosave = 自动保存
+admin.message.operation.success = 成功完成操作
+admin.message.error = "错误, 没有保存更改"
+admin.message.save = 元素成功保存
+admin.message.add = 元素成功添加
+admin.message.delete = 元素成功删除
+admin.message.negative.wrongvaluetype = 错误的输入值
+admin.message.receive.email = 接收邮件并点击链接设置新密码
+admin.message.user.not.exist = 用户不存在
+admin.message.loginerror = 登录错误, 输入正确的数据!
+admin.message.loginsuccess = 登录成功
+admin.message.password.changed = 密码已更改
+admin.message.wrong.licence.key = 输入的许可证密钥无效.
+admin.message.errordbimport = 数据库错误, 检查连接数据
+admin.message.negative.wrongvaluetype = 错误值, 输入正确的值
+admin.message.error.mysql.conection = 无法连接数据库
+
+admin.common.seo.tpl.activepages = 活跃网站
+admin.common.seo.tpl.Name = 名字
+admin.common.seo.tpl.url = Url
+admin.common.seo.tpl.downloads = 下载
+admin.common.seo.tpl.added = 添加
+admin.common.seo.tpl.url = "大小 (KB)"
+admin.common.seo.tpl.PageMap = 网站地图
+admin.common.seo.tpl.pagelist = 网站清单
+admin.common.seo.tpl.verificationcode = 验证码谷歌网站管理员工具
+admin.common.seo.tpl.analcode = 编码
+admin.common.seo.tpl.robots = "robots.txt文件的内容"
+admin.common.seo.tpl.parameters = 参数
+
+admin.common.tpl.addfile = 添加文件
+admin.common.tpl.editfile = 编辑文件
+admin.common.tpl.list = 文件清单
+admin.common.tpl.downstats = 下载统计
+
+admin.common.files_list.ctpl.name = 名字
+admin.common.files_list.ctpl.type = 类型
+admin.common.files_list.ctpl.link = 链接
+admin.common.files_list.ctpl.downloads = 下载
+admin.common.files_list.ctpl.added = 添加
+admin.common.files_list.ctpl.size = "大小 (MB)"
+admin.common.files_list.ctpl.size.numberimg = "文件数"
+
+admin.common.images.tpl.photolist = "图片列表"
+admin.common.images.tpl.editimage = "编辑图片"
+admin.common.images.tpl.numberimg = "图片数量"
+admin.common.images.tpl.gennumber = "生成的缩率图数"
+admin.common.images.tpl.clear = "清理缩率图"
+admin.common.images.tpl.operations = "运行"
+admin.common.images.tpl.addwatermark = "加水印"
+
+
+
+admin.images_all_list.tpl.name = 名字
+admin.images_all_list.tpl.basket = 购物车
+admin.images_all_list.tpl.link = Link
+admin.images_all_list.tpl.created = Created
+admin.images_all_list.tpl.type = Type
+
+admin.common.conservation.tpl.warning = 警告
+admin.common.conservation.tpl.recupdate = "建议更新!"
+admin.common.conservation.tpl.systemuptodate = 系统更新
+admin.common.conservation.tpl.yoursystemuptodate = "你的系统是最新的!"
+admin.common.conservation.tpl.widgetuptodate = 部件更新
+admin.common.conservation.tpl.yourwidgetmuptodate = 所有部件都是最新的
+admin.common.conservation.tpl.updateallwidgets = "更新所有部件!"
+admin.common.conservation.tpl.systemcleaningxxx = 清理系统
+admin.common.conservation.tpl.cleancache = 清除缓存
+admin.common.conservation.tpl.cleandatabase = 清理数据库
+admin.common.conservation.tpl.systemcleaning = 清理提示
+admin.common.conservation.tpl.subpages = 页面
+admin.common.conservation.tpl.files = 文件
+admin.common.conservation.tpl.pictures = 图像
+admin.common.conservation.tpl.logs = 日志
+admin.common.conservation.tpl.clearallnotifications = 清理所有提示
+admin.common.conservation.tpl.nots = 提示
+admin.common.conservation.tpl.close = 关闭
+admin.common.conservation.tpl.recommendact = "建议更新!"
+admin.common.conservation.tpl.thumbnailclear = 清理每月缩略图
+admin.system.tpl.systemclear = 系统清理
+admin.system.tpl.strongsystemclear = 系统深层清理
+
+admin.common.statistics.tpl.avg = 平均
+admin.common.statistics.tpl.today = 今天
+admin.common.statistics.tpl.24 = 24小时
+admin.common.statistics.tpl.7days = 7天
+admin.common.statistics.tpl.30days = 30天
+admin.common.statistics.tpl.all = 全部
+admin.common.statistics.tpl.visits = 访问
+admin.common.statistics.tpl.avg24 = "平均, 24小时"
+admin.common.statistics.tpl.avg7 = "平均, 7天"
+admin.common.statistics.tpl.avg30 = "平均, 30 days"
+admin.common.statistics.tpl.logs = 日志
+admin.common.statistics.tpl.subpages = 页面
+admin.common.statistics.tpl.users = 用户
+admin.common.statistics.tpl.files = 文件
+admin.common.statistics.tpl.graphics = 图像
+admin.common.statistics.tpl.views = 点击
+admin.common.statistics.tpl.mostviewed = 查看最多的
+admin.common.statistics.tpl.comments = 评论
+admin.common.statistics.tpl.mostcommented = 评论最多的
+admin.common.statistics.tpl.positiveratings = 正面评价
+admin.common.statistics.tpl.toprated = 最受好评的
+admin.common.statistics.tpl.negativeratings = 负面评价
+admin.common.statistics.tpl.versions = 版本
+admin.common.statistics.tpl.mailessent = 发送的邮件
+admin.common.statistics.tpl.filesdownloads = 文件下载
+admin.common.statistics.tpl.logs = 日志
+admin.common.statistics.tpl.alex = 亚历克斯监控
+admin.common.statistics.tpl.google = 谷歌监控
+admin.common.statistics.tpl.deactivate = 系统被停用
+admin.common.statistics.tpl.activate = 启动系统
+admin.common.statistics.tpl.warning = "警告! 子系统被停用! 没有数据收集! 在开发模式上激活系统."
+admin.common.statistics.tpl.stats = 统计
+admin.common.statistics.tpl.last90 = "过去90天"
+admin.common.statistics.tpl.increases = "过去90天的增长"
+admin.common.statistics.tpl.last3 = 过去3天
+admin.common.statistics.tpl.last7 = 过去7天
+admin.common.statistics.tpl.range = 全程
+admin.common.statistics.tpl.visitsacc = 符合计数法的访问
+admin.common.statistics.tpl.requests = 请求
+
+
+admin.common.log.tpl.logs = 日志
+admin.common.log.tpl.types = 类型
+admin.common.log.tpl.clearinglogs = 清理日志
+admin.common.log.tpl.last3days = 过去3天
+admin.common.log.tpl.all = 所有
+admin.common.log.tpl.loglist = 日志列表
+admin.common.log.tpl.error = 错误404
+admin.common.log.tpl.syserror = 系统错误
+admin.common.log.tpl.logerror = 日志
+admin.common.log.tpl.deact = 系统无效
+admin.common.log.tpl.act = 激活系统
+admin.common.log.tpl.warn = "警告! 子系统被停用! 没有数据收集!"
+
+admin.controller.pro.cron.tpl.last24 = 过去24小时
+admin.controller.pro.cron.tpl.last7 = 过去7天
+admin.controller.pro.cron.tpl.last30 = 过去30天
+admin.controller.pro.cron.tpl.hour = 每小时
+admin.controller.pro.cron.tpl.day = 每天
+admin.controller.pro.cron.tpl.week = 每周
+admin.controller.pro.cron.tpl.month = 每月
+admin.controller.pro.cron.tpl.all = 所有
+
+admin.filesmodal.tpl.name = 名字
+admin.filesmodal.tpl.size = 大小(KB)
+
+admin.common.log_list.tpl.type = 类型
+admin.common.log_list.tpl.info = 信息
+admin.common.log_list.tpl.date = 日期
+admin.common.log_list.tpl.quant = 号码
+
+admin.common.backup.tpl.warning = "警告"
+admin.common.backup.tpl.createbackupcopy = "我们建议您创建备份副本."
+admin.common.backup.tpl.allok = "一切都正常"
+admin.common.backup.tpl.recomendedcopy = "我们建议您创建备份副本, 因为过去30天内没有备份."
+admin.common.backup.tpl.copyexists = "过去30天内有创建过备份"
+
+
+admin.common.update.tpl.doupadate = "我们建议您进行更新."
+admin.common.update.tpl.systemuptodate = "系统已是最新"
+admin.common.update.tpl.systemisuptodate = "您的系统已是最新."
+admin.common.update.tpl.updatehistory = 更新记录
+
+admin.mail.base.termsbottom = "邮件已发送到windu"
+
+admin.mail.registeradminuser.tpl.welcome = "欢迎来到"
+admin.mail.registeradminuser.tpl.yourusername = "输入用户名"
+admin.mail.registeradminuser.tpl.yourpassword = "输入密码"
+admin.mail.registeradminuser.tpl.loginlink = "登陆链接"
+admin.mail.registeradminuser.tpl.reminder = "提醒一下，每个发布的页面必须在页脚或者其他显眼的地方添加链接www.windu.org"
+admin.mail.registeradminuser.tpl.resetpass = "重设密码请点击链接: "
+admin.mail.registeradminuser.tpl.systemsend = "系统会把密码发送到您邮箱"
+
+
+admin.content.tpl.languages = 语言
+admin.content.tpl.pages = 页面
+admin.content.tpl.trash = 回收站
+admin.content.tpl.autosave = 自动保存
+admin.content.tpl.settings = 设置
+admin.content.tpl.functions = 功能
+admin.content.tpl.editimages = 编辑相片
+admin.content.tpl.description = 描述
+admin.content.tpl.addlanguage = 添加语言
+admin.content.tpl.edit = 编辑
+admin.content.tpl.help = 帮助
+admin.content.tpl.sort = 下订单
+admin.content.tpl.showall = 扩展
+admin.content.tpl.emptytrash = 清空回收站
+admin.content.tpl.addnews = 添加消息
+admin.content.tpl.newslist = 消息清单
+admin.content.tpl.restore = 恢复点
+admin.content.tpl.choserestorepoint = 选择一个恢复点
+admin.content.tpl.trash.preview = "点击放大镜查看内容"
+admin.content.tpl.deleteallautosaves = "删除所有自动保存"
+admin.content.tpl.chooseelementdisp = 选择要选择的元素
+admin.content.tpl.trash.bucket = 垃圾桶是空的
+
+admin.content_info.controller.lastedited = 最近编辑的
+admin.content_info.controller.active = 有效的
+admin.content_info.controller.hidden = 隐藏的
+admin.content_info.controller.trash = 在回收站
+admin.content_info.controller.pages = 页面
+admin.content_info.controller.news = 消息
+admin.content_info.controller.links = 链接
+admin.content_info.controller.groups = 群
+admin.content_info.controller.gallery = 图库
+admin.content_info.controller.newsgroup = 消息群
+admin.content_info.controller.awaiting = 当前准备发表的
+
+
+admin.content.common.tpl.languages = 语言
+admin.content.common.tpl.pageslist = 页面列表
+admin.content.common.tpl.addimages = 添加图像
+admin.content.common.tpl.addfiles = 添加文件
+admin.content.common.tpl.imagelistingalery = 图库里的图像列表
+admin.content.common.tpl.help = 帮助
+admin.content.common.tpl.addelement = 添加元素
+
+admin.content.common.tpl.trashcontent = 回收站内容
+admin.content.common.tpl.configuration = 配置
+admin.content.common.tpl.edit = 编辑
+admin.content.common.tpl.addwidget = 添加小工具代码
+
+
+admin.config.tpl.constant = 常量
+admin.config.tpl.addconstanttoconfig = 向配置文件中添加常量
+admin.config.tpl.add = 添加
+
+
+admin.users.ctpl.admins = 管理员
+admin.users.ctpl.users = 用户
+admin.users.ctpl.authorization = 许可
+admin.users.tpl.adduser = 添加用户
+admin.users.ctpl.settings = 设置
+admin.users.tpl.addtypeofauth = 添加权限的类型
+admin.users.tpl.addtypeofauthpanels = 添加面板的权限
+admin.users.tpl.edit = 编辑
+admin.users.tpl.help = 帮助
+admin.users.ctpl.add = 添加
+admin.users.ctpl.comments = 评论
+admin.users.ctpl.review = 回顾
+admin.users.ctpl.history = 历史
+admin.users.common.tpl.typesofauth = 权限类型
+admin.users.common.tpl.extension = 扩展
+admin.users.common.tpl.regexp = 规则
+admin.users.hist.action = 的历史
+admin.users.hist.type = 类型
+admin.users.hist.user = 用户
+admin.users.hist.data = 数据
+admin.users.hist.time = 时间
+admin.users.hist.add = 加法
+admin.users.hist.edit = 版
+admin.users.hist.del = 消除
+admin.users.hist.other = 其他
+admin.users.hist.hide = 隐藏
+admin.users.hist.show = 节目
+admin.users.hist.tabel = 表
+
+admin.themes.tpl.graphictemplates = "模板"
+admin.themes.tpl.widgets = 窗口小部件
+admin.themes.tpl.settings = 设置
+admin.themes.tpl.edit = 编辑
+admin.themes.tpl.help = Help
+admin.themes.tpl.noelements = "无元素"
+
+admin.themes.controller.image = 图像
+admin.themes.controller.zip = 压缩文件
+admin.themes.controller.zipdescription = 包括模板或者窗口小部件的压缩文件
+admin.themes.controller.css = CSS文件
+admin.themes.controller.js = JS文件
+admin.themes.controller.doc = TXT分件
+admin.themes.controller.imagedescription = 载入模板的图像随后可以插入图形
+admin.themes.controller.cssdescription = CSS文件自动包括在模板内
+admin.themes.controller.jsdescription = JS文件自动包括在模板内
+admin.themes.controller.txtdescription = TXT文件自动包括在模板内
+admin.themes.controller.add = 添加
+admin.themes.controller.addtemplatezip = "从压缩文件中添加模板"
+admin.themes.controller.addtemp = "添加模板"
+admin.themes.controller.addclean = "添加空的窗口小部件"
+admin.themes.controller.addfromzip = "从压缩文件中添加窗口小部件"
+admin.themes.controller.lang = 语言文件
+
+admin.themes.common.tpl.graphicstyles = 图表样式
+admin.themes.common.tpl.widgets = 窗口小部件
+admin.themes.common.tpl.widgets.deactivated = "无效部件"
+admin.themes.common.tpl.newupdate = "有可用的更新!"
+admin.themes.common.tpl.forupdate = 窗口小部件已是最新
+admin.themes.common.tpl.updateall = 更新全部
+admin.themes.common.tpl.nowidgets = 无窗口小部件
+admin.themes.common.tpl.widgetsnotinst = 小工具准备安装
+
+admin.index.tpl.icons = 图标
+admin.index.tpl.welcome = 欢迎
+
+admin.index.tpl.deleteedit = "在这里，你可以添加，删除并编辑您的网站."
+admin.index.tpl.addusers = 管理您的用户与管理员并控制他们的权限.
+admin.index.tpl.themes = 在这里您可以设置网站的布局.
+admin.index.tpl.tools = 在这里您可以找到不同类型的附加工具，比如电子邮件系统.
+admin.index.tpl.config = 配置面板可以让您管理您的CMS设置.
+admin.index.tpl.system = 关于当前系统的状态，更新等信息.
+
+
+admin.backup.tpl.backup = 备份
+admin.backup.tpl.settings = 设置
+admin.backup.tpl.backupcopy = 执行备份
+admin.backup.tpl.help = 帮助
+admin.backup.tpl.edit = 编辑
+
+admin.backup.common.tpl.backuplist = 备份列表
+admin.system.tpl.system = 系统
+admin.system.tpl.commonsystemerrors = 系统错误
+admin.system.tpl.log = 日志
+admin.system.tpl.cron = 进程
+admin.system.tpl.notifications = 提示
+admin.system.tpl.maintenance = 维修
+admin.system.tpl.stats = 统计
+admin.system.tpl.update = 更新
+admin.system.tpl.settings = 设置
+admin.system.tpl.adminlist = 管理员列表
+admin.system.tpl.systemfolders = 系统文件夹
+admin.system.tpl.refreshdata = 恢复数据
+admin.system.tpl.lastusers = 最近登录
+admin.system.tpl.commonerrors = 最常见的404错误
+admin.system.tpl.cleanlast90 = 清除过去90天
+admin.system.tpl.cleanlast30 = 清除过去30天
+admin.system.tpl.cleanlast7 = 清除过去7天
+admin.system.tpl.cleanall = "清除所有"
+admin.system.tpl.updatesystem = "更新系统"
+admin.system.tpl.systemuptodate = "系统是最新的"
+admin.system.tpl.help = 帮助
+admin.system.tpl.backup = 备份
+admin.system.tpl.backupcopy = 创建备份副本
+admin.system.tpl.license = 许可证
+admin.system.tpl.memory = 存储
+admin.system.tpl.deletecache = 删除缓存
+admin.system.tpl.viewsite = 查看页面
+admin.system.tpl.notepad = 记事本
+admin.system.tpl.addkey = 输入Windu网站系统指定的许可证秘钥.
+admin.system.tpl.gz = "祝贺!"
+admin.system.tpl.licensetype = "许可证类型: "
+admin.system.tpl.amount = "有效许可证数量"
+admin.system.tpl.activelicense = "你有一个有效的许可"
+admin.system.tpl.noelements = "没有可显示的项目"
+admin.system.tpl.main = 主页
+admin.system.tpl.search = 查找管理员面板
+admin.system.tpl.notices = 提示
+admin.system.tpl.add = 添加
+admin.system.tpl.noelements = 没有元素
+admin.system.tpl.listactive = 有效的重定向列表
+admin.system.tpl.groupip = 以IP地址分组
+admin.system.tpl.groupurl = 以URL分组
+admin.system.tpl.lastacceslogs = 上一个请求
+admin.system.tpl.updata = 更新数据
+admin.system.tpl.deactsys = 使系统无效
+admin.system.tpl.actsys = 激活系统
+admin.system.tpl.req = 系统需要统计!
+admin.system.tpl.warn = "警告! 系统被禁用! 数据没有被收集!"
+admin.system.tpl.acceslogwarn = "警告! 子系统日志需求被失活! 数据没有被收集!"
+admin.system.tpl.loglist = 日志列表
+admin.system.tpl.last3 = 过去3天
+admin.system.tpl.last7 = 过去7天
+admin.system.tpl.last30 = 过去30天
+admin.system.tpl.wholer = 整个范围
+admin.system.tpl.polled24 = 过去24小时的调查
+admin.system.tpl.polled7 = 过去7天的调查
+admin.system.tpl.polled30 = 过去30天的调查
+admin.system.tpl.polledgen = 总体调查
+admin.system.tpl.mostfreq = 最频繁的调查网站
+admin.system.tpl.asked = 最常见的查询IP
+admin.system.tpl.panel = 显示面板
+
+
+
+admin.system.common.tpl.backuplist = 备份列表
+
+
+admin.install.tpl.adminpanel = 管理面板
+admin.install.tpl.creator = 创建者
+admin.install.tpl.cantsave = "文件不能被保存"
+admin.install.tpl.continueinstall = 继续安装
+admin.install.tpl.begininstall = 开始安装
+admin.install.tpl.terms = 服务条款
+admin.install.tpl.termslink = <a href="http://en.windu.org/terms-of-service" target="blank">服务条款</a>
+admin.install.tpl.clickaccept = 接受
+
+admin.imgupload.tpl.addfiles = 添加文件 ...
+admin.imgupload.tpl.startup = 开始上传
+admin.imgupload.tpl.cancelup = 取消上传
+admin.imgupload.tpl.delete = 删除
+
+
+admin.main.tpl.editprofile = 编辑简介
+admin.main.tpl.devmode = 管理面板格式
+admin.main.tpl.devmodeallowed = 允许管理面板格式
+admin.main.tpl.logout = 注销
+admin.main.tpl.settings = 设置
+admin.main.tpl.design = 由...设计并创建:
+admin.main.tpl.up = 置顶
+admin.main.tpl.notes = 任务
+admin.main.tpl.notivications = 提示
+admin.main.tpl.buypro = 购买PRO许可证
+admin.main.tpl.allowedothers = 其他认证
+admin.pinit = 夹视图
+
+admin.tools.tpl.tools = 工具
+admin.tools.tpl.addtemplate = 添加模板
+admin.tools.tpl.addcontact = 添加联系人
+admin.tools.tpl.addcontactlist = 添加联系人列表
+admin.tools.tpl.createmailing = 创建邮件
+admin.tools.tpl.cancel = 取消
+admin.tools.tpl.test = 测验
+admin.tools.tpl.moderator = 调节员
+admin.tools.tpl.moderator.description = 调节面板, 在这里你可以看评论及新用户.
+admin.tools.tpl.stats = 统计
+admin.tools.tpl.stats.description = 采用高级站点统计的面板.
+admin.tools.tpl.backup = 备份
+admin.tools.tpl.backup.description = 面板允许您创建整个页面的备份.
+admin.tools.tpl.mailing = 邮件
+admin.tools.tpl.mailing.description = 发送大量邮件.
+admin.tools.tpl.sendallmailings = 发送有效的邮件
+admin.tools.tpl.contact = 联系人
+admin.tools.tpl.contact.description = 管理您的联系人.
+admin.tools.tpl.contact.sendedEmails = 发送邮件
+admin.tools.tpl.contact.contacts = 联系人
+admin.tools.tpl.banners = 横幅
+admin.tools.tpl.banners.description = "网站上的横幅广告管理系统"
+admin.tools.tpl.editbanner = "编辑横幅"
+admin.tools.tpl.firewall.description = 限制黑客攻击的系统
+admin.tools.tpl.firewall = 防火墙
+admin.tools.tpl.requestlog.description = 显示您所要求的网站的智能列表.
+admin.tools.tpl.requestlog = 日志请求
+admin.tools.tpl.sentstats = 已发送邮件的统计
+admin.tools.tpl.rss.description = 管理RSS供稿
+admin.tools.tpl.calendar = 日历
+admin.tools.tpl.addarea = 新增面积
+
+admin.tools.tpl.file = 文件
+admin.tools.tpl.file.description = 在这里管理您的下载文件.
+admin.tools.tpl.images = 图片
+admin.tools.tpl.images.description = 在这里管理您的图片.
+admin.tools.tpl.seo = 搜索引擎优化
+admin.tools.tpl.rss = RSS
+admin.tools.tpl.seo.description = 管理地图, 结合谷歌编码.
+admin.tools.tpl.database = 数据库
+admin.tools.tpl.database.description = 管理数据库并编辑内容
+.
+admin.tools.tpl.database.tables = 表格
+admin.tools.tpl.database.path = "进入表格的通路"
+admin.tools.tpl.database.recordnumber= "档案数量"
+admin.tools.tpl.database.columnnumber = "列数"
+admin.tools.tpl.polls = "民意调查"
+admin.tools.tpl.polls.description = "用于创建和管理的调查工具"
+admin.tools.tpl.monitoring = "监控"
+admin.tools.tpl.monitoring.description = "用于监控网站状态的工具"
+
+admin.common.plus.polls.tpl.add = "添加一个民意调查"
+admin.common.plus.polls.tpl.polls = 民意调查
+admin.common.plus.polls.tpl.questions = 问题
+admin.common.plus.polls.tpl.addansw = 添加解答
+admin.common.plus.polls.tpl.addquest = 添加问题
+admin.common.plus.polls.tpl.votes = 投票
+
+admin.common.pro.firewall.tpl.create = 创建入口
+admin.common.pro.firewall.tpl.deactivate = 禁用系统
+admin.common.pro.firewall.tpl.activate = 激活系统
+admin.common.pro.firewall.tpl.warning = "警告! 系统被禁用! 数据没有被收集!"
+admin.common.pro.firewall.tpl.blocked = 中断
+admin.common.pro.firewall.tpl.activatex = 准许
+admin.common.pro.firewall.tpl.deactivatex = 禁用
+admin.common.pro.firewall.tpl.delete = 删除
+admin.common.pro.firewall.tpl.noelements = 无显示元素
+admin.common.pro.firewall.tpl.settings = 设置
+admin.common.pro.firewall.tpl.frequent = 受访最多的页面
+admin.common.pro.firewall.tpl.graph = IP查询频率图
+admin.common.pro.firewall.tpl.limit = 每小时限制的查阅
+admin.common.pro.firewall.tpl.email = 电子邮件提醒
+
+admin.tools.tpl.emailadress = 电子邮件地址 
+admin.tools.tpl.email = 电子邮件
+
+admin.images_multiuploader.tpl.addfiles = 添加文件
+admin.images_multiuploader.tpl.startupload = 发送开始
+admin.images_multiuploader.tpl.cancelupload = 发送终止
+
+
+admin.notify_closed.tpl.notificationinactive = 禁止提示
+admin.notify_closed.tpl.dateofadding = 日期已添加
+admin.notify_closed.tpl.priority = 优先权
+
+admin.notify.nosystemrun.firewall = 温杜防火墙已经停用，系统更容易遭受DDOS攻击
+admin.notify.nosystemrun.log = 日志收集系统已经停用，温杜不收集有关您网站的访问信息
+admin.notify.nosystemrun.statistic = 统计系统已停用，温杜是不计算访问
+admin.notify.nosystemrun.monitoring = 数据监控系统已停用，温杜是不是采集系统统计
+admin.notify.nosystemrun.requestLog = 该系统收集的每个页面重载的信息已被停用，数据没有被收集
+
+admin.notify_list.tpl.notification = 提示
+admin.notify_list.tpl.dateofading = 添加日期
+admin.notify_list.tpl.priority = 优先权
+admin.notify_list.tpl.type = 类型
+
+admin.content.controller.newlangname = 新语言名字
+admin.content.controller.giveelementname = "添加元素名字"
+admin.content.controller.elementname = 元素名字
+admin.content.controller.elementtype = 元素类型
+admin.content.controller.linkname = 链接名字
+admin.content.controller.adresstaken = "提交的地址已经在使用中"
+admin.content.controller.sitetitle = 未指定标题部分的网页标题若未指定，将自动生成.
+admin.content.controller.descriptioninsection = 描述部分的描述，如果是空白，将自动生成.
+admin.content.controller.keywords = 如果未指定关键字，将自动生成.
+admin.content.controller.sitetags = 网站标签将显示为标签系统.
+admin.content.controller.chosentemplate = 给已选定的模板一个元素.
+admin.content.controller.chosendefaulttemplate = 将选择的模板默认为选定元素组.
+admin.content.controller.defaulttemplate = 默认模板
+admin.content.controller.adresstaken = "此地址已经被使用"
+admin.content.controller.image = 主像
+admin.content.controller.sliderimage = 滑块图像
+admin.content.controller.icon = 主图标
+admin.content.controller.imagedescription = 图像被分配给元素，可显示在滑块或者简单新闻里.
+admin.content.controller.icondescription = 图标指定元素，可显示在边缘菜单里.
+admin.content.controller.name = 命名
+admin.content.controller.description = 描述
+admin.content.controller.newstitle = 新标题
+admin.content.controller.template = 图形模板
+admin.content.controller.addnews = 添加新闻
+admin.content.controller.tags = 标签
+admin.content.controller.date = 日期
+admin.content.controller.datedescription = "提交网站显示的消息日期"
+admin.content.controller.tplfilename = tpl文件名字
+admin.content.controller.url = URL
+admin.content.controller.restorepoint = 恢复点
+admin.content.controller.choserestorepoint = 给该元素选择一个恢复点.
+admin.content.controller.typeconvert = "转换这类元素 (只对元素或者空白组有效)"
+admin.content.controller.menucssclass = "菜单里的CSS类型"
+admin.content.controller.priority = 网站有限显示在站点地图里的.xml文件, 值为0-1
+admin.content.controller.givecorrecturl = "提交正确的链接"
+admin.content.controller.content = 内容
+admin.content.controller.general = 提要
+admin.content.controller.seo = 搜索引擎优化
+admin.content.controller.ver = 版本
+admin.content.controller.imageslider = 滑块
+admin.content.controller.info = 信息
+admin.content.controller.compactversions = 删除重复
+admin.content.controller.codeslider = 滑块编码
+admin.content.controller.customfields = 字段
+admin.tools.controller.beginingtime = 起始时间
+admin.tools.controller.endtime = 终止时间
+admin.content.controller.desc = 描述
+admin.content.controller.maling = 添加邮件模板
+admin.content.controller.status = 状态
+admin.content.controller.pagestatus = 页面状态
+admin.content.controller.login = 登录
+admin.content.controller.pagelogged = 已登录的用户页面
+admin.content.controller.block = 锁定
+admin.content.controller.blockdesc = 低于开发商的用户的安全锁
+admin.content.controller.search = 搜素
+admin.content.controller.searchvis = 搜索的可见性
+admin.content.controller.visable = 可见性
+admin.content.controller.hidden = 隐藏
+admin.content.controller.deleted = 删除
+admin.content.controller.unlocked = 解锁
+admin.content.controller.locked = 锁定
+admin.content.controller.searched = 可搜素
+admin.content.controller.notsearched = 不可搜索
+admin.content.controller.forlogged = 用于登录
+admin.content.controller.forall = 用于所有人
+admin.content.controller.template2 = 模板
+admin.content.controller.title =  标题
+admin.content.controller.desc2 = 描述
+admin.content.controller.keywords2 = 关键词
+admin.content.controller.prior = "优先权(站点地图)"
+admin.content.controller.wrongfiletype = "错误的文件类型"
+
+admin.content.controller.watermark = "水印 (PNG文件)"
+admin.content.controller.width = "宽度"
+admin.content.controller.transparent = "透明度"
+admin.content.controller.position = "位置"
+admin.content.controller.heightlimit = 水印的最低高度
+admin.content.controller.widthlimit = 水印的最低宽度
+admin.content.controller.heightlimit.small = 最低高度
+admin.content.controller.widthlimit.small = 最低宽度
+admin.content.controller.rssfeed = RSS回馈url
+admin.content.controller.parentgroup = 起源组
+admin.content.controller.parentgrptooltip = rss反馈消息组
+
+admin.tools.controller.addtemplate = 添加邮件模板
+admin.tools.controller.edittemplate = 编辑邮件模板
+admin.tools.controller.addmailinggroup = 添加邮件
+admin.tools.controller.editmailinggroup = 编辑联系人组
+admin.tools.controller.addcontact = 添加联系人
+admin.tools.controller.addmasscontact = 添加大量联系人
+admin.tools.controller.addmasscontactusers = 从用户里上传联系人
+
+admin.config.controller.name = "名字"
+admin.config.controller.givename = "输入名字"
+admin.config.controller.value = "值"
+admin.config.controller.addvalue = "输入值"
+admin.config.controller.shortdescription = "简单描述"
+admin.config.controller.adddescription = "输入描述"
+admin.config.controller.description = "描述"
+admin.config.controller.type = "类型"
+admin.config.controller.typedescription = "已输入值的类型"
+admin.config.controller.addcorectvalue = "请输入有效的值"
+admin.config.controller.true = "是"
+admin.config.controller.false = "否"
+
+admin.check.system = "系统检测"
+admin.check.checking = "检测"
+admin.check.cacheOn = "缓存"
+admin.check.update = "系统更新"
+admin.check.widgetUpdate = "窗口小部件跟新"
+admin.check.winduLink = "许可证"
+admin.check.activation = "激活"
+admin.check.backup = "备份"
+
+admin.login.controller.login = "登录"
+admin.login.controller.addusername = "输入用户名"
+admin.login.controller.autogener = "如果未输入会被自动收集"
+admin.login.controller.addpassword = "输入密码"
+admin.login.controller.username = "用户名 (邮箱)"
+admin.login.controller.password = "密码"
+admin.login.controller.rememberme = "7天以内保留"
+admin.login.controller.forgotpassword = "忘记密码"
+admin.login.controller.resetpassword = "重设密码"
+admin.login.controller.cancel = "取消"
+
+admin.mainconfig.controller.addvalue = "输入一个值"
+admin.mainconfig.controller.value = "值"
+
+
+admin.themes.controller.templatename = "模板名字"
+admin.themes.controller.addelementname = "输入元素的名字"
+admin.themes.controller.addvalue = "窗口小部件名字"
+admin.themes.controller.tplfilename = "tpl文件名字"
+
+
+
+
+admin.users.controller.usertype = "用户类型"
+admin.users.controller.login = "登录 (邮箱)"
+admin.users.controller.permits = "给出适当的权限"
+admin.users.controller.email = "电邮地址"
+admin.users.controller.giveemail = "输入电邮"
+admin.users.controller.givecorrectemail = "请输入有效的电邮"
+admin.users.controller.emailtaken = "您的邮件已经被使用."
+admin.users.controller.password = "密码"
+admin.users.controller.autogener = "如果未输入将自动被收集"
+admin.users.controller.toshortpass = "密码太短"
+admin.users.controller.diffpasswords = "密码不匹配."
+admin.users.controller.repeatpassword = "重复密码"
+admin.users.controller.username = "用户名"
+admin.users.controller.shownname = "名字"
+admin.users.controller.kowal = "建红"
+admin.users.controller.name = "名字"
+admin.users.controller.jan = "国"
+admin.users.controller.surname = "姓"
+admin.users.controller.kowalski = "王"
+admin.users.controller.nametype = "名字的类型"
+admin.users.controller.addname = "输入权限的名字"
+admin.users.controller.powersfor = "权限的用途"
+admin.users.controller.powerssetting = "建立用于此CMS系统的设置"
+admin.users.controller.extension = "延期"
+admin.users.controller.powersextension = "设定延期的权限"
+admin.users.controller.expressionregular = "正规表达"
+admin.users.controller.addformula = "输入我们已给的权限的公式"
+admin.users.controller.addregularformula = "输入正规的表达"
+admin.users.controller.youruserdata = "您的用户数据"
+admin.users.controller.empty = "如果您在密码处留空，将不会有任何改动"
+admin.users.controller.usertype = "用户类型"
+
+
+admin.img.upload.controller.imagetobig = "图片太大"
+admin.img.upload.controller.wrongfileformat = "无效的文件格式"
+admin.img.upload.controller.uploadimage = "您必须上传图像"
+
+
+admin.install.controller.next = "下一个"
+admin.install.controller.welcome = "欢迎使用程序安装向导"
+admin.install.controller.selectdb = "选择数据库类型"
+admin.install.controller.setupmysql = "MySQL的设置"
+admin.install.controller.dbinfo = "MySQL - 推荐用于超过10000页的网站，SQLite对于小型网站工作速度更快."
+admin.install.controller.creator = "该向导将帮您迈进WinduCMS第一步!"
+admin.install.controller.setadmin = "设置管理员信息"
+admin.install.controller.installend = "安装完毕"
+admin.install.controller.setbasicconfig = "基本设置"
+admin.install.controller.logo = "网站标志"
+admin.install.controller.timezone = 时区
+
+admin.install.controller.pagename = "网站名字"
+
+
+admin.tools.controller.editmailing = "编辑邮件模板"
+admin.tools.controller.addcontact = "添加联系人"
+admin.tools.controller.editcontact = "编辑联系人"
+admin.tools.controller.file = 文件
+admin.tools.controller.filedescription = 选择要发送的文件
+admin.tools.controller.newimage = "新图像"
+
+admin.tools.controller.telephone = "电话"
+admin.tools.controller.mobile = "手机"
+admin.tools.controller.adress = "地址"
+admin.tools.controller.city = "城市"
+admin.tools.controller.code = "邮编"
+admin.tools.controller.country = "城市"
+admin.tools.controller.taxid = "税号"
+admin.tools.controller.other = "其他"
+admin.tools.controller.csv = CSV文件
+admin.tools.controller.csv.description = CSV文件由微软office和Excel导入.
+admin.tools.controller.statsnew = 新联系人统计
+
+admin.tools.tpl.banners.addarea = 添加区域
+admin.tools.tpl.banners.area = 广告区域 
+admin.tools.tpl.banners.addbanner = "添加横幅"
+admin.tools.tpl.firewall = 防火墙
+admin.tools.tpl.firewall.description = Windu防火墙系统
+
+admin.tools.controller.banners.name = 区域名
+admin.tools.controller.banners.width = 横幅宽度
+admin.tools.controller.banners.height = 横幅高度
+
+admin.tools.controller.banners.bannername = 横幅名字
+admin.tools.controller.banners.link = 目标URL地址
+admin.tools.controller.banners.viewslimit = 有限阅览
+admin.tools.controller.banners.clickslimit = 有限点击
+admin.tools.controller.banners.startdate = 开始日期
+admin.tools.controller.banners.enddate = 结束日期
+
+
+admin.update.controller.checkForUpdates = "查看更新"
+admin.update.controller.downloadupdate = "下载更新"
+admin.update.controller.beginupdate = "制作更新"
+admin.update.controller.flushcache= "刷新缓存"
+admin.update.controller.updatephp = "更新PHP"
+admin.update.controller.checksystem = "检测系统"
+admin.update.controller.finish = "更新完毕"
+admin.update.controller.systemupdate = 系统更新
+
+model.configdb.controller.general = "常规"
+model.configdb.controller.content = "内容"
+model.configdb.controller.users = "用户"
+model.configdb.controller.gfx = "图像"
+model.configdb.controller.tools = "工具"
+model.configdb.controller.system = "系统"
+
+admin.notify.update = "系统有新的更新"
+admin.notify.cache = "允许页面缓存来提高性能"
+admin.notify.cache.resources = "允许CSS与JS文件缓存来提高性能"
+admin.notify.error.mailer = "收件人错误!系统无法发送邮件!"
+admin.notify.nowindulink = "检测到违反许可! 你所在那边没有Windu网站的正确链接!请在安装标准模板以后插入相同的链接"
+admin.notify.activation.filed = "许可证密钥是有效的. 免费版本已被停用，请输入许可证密钥激活专业版."
+admin.notify.backup = "距上一次备份已经7天."
+admin.notify.deactivation = "由于域名更改，免费版本已被停用.用备用的密匙激活PRO/PLUS版"
+admin.notify.widgetupdate = "有小部件更新"
+
+admin.system.controller.licensekey = 许可证密钥
+admin.system.controller.givelicensekey = 请输入许可证密钥
+admin.system.controller.name = 名字
+admin.system.controller.emails = 电子邮件
+admin.system.controller.where = 用户SQL
+
+
+admin.modal.common.tpl.notes = 你的任务
+
+admin.tools.mailing.controller.mailinglist = 邮件发送清单
+admin.tools.mailing.controller.mailingname = 邮件名字
+admin.tools.mailing.controller.template = 图表模板
+admin.tools.mailing.controller.contactsgroup = 联系人组
+admin.tools.mailing.controller.contacts = 联系人
+admin.tools.mailing.controller.sendername = "谁"
+admin.tools.mailing.controller.senderemail = 来自
+admin.tools.mailing.controller.subject = 目标
+
+
+admin.ajax.notes.controller.addnote = 添加注释
+admin.ajax.notes.controller.save = 保存注释
+
+config.long.description.revision = "系统版本号"
+config.short.description.revision = "系统版本"
+config.long.description.install = "系统已经被安装了么?"
+config.short.description.install = "内部不稳定表示系统需要被安装"
+config.long.description.template = "主页的图表式样"
+config.short.description.template = "当前安装的封面"
+config.long.description.language = "运行管理员面板时加载语言"
+config.short.description.language = "系统语言"
+config.long.description.imgGalleryWidth = "默认图库缩略图大小"
+config.short.description.imgGalleryWidth = "缩略图默认宽度"
+config.long.description.imgGalleryHeight = "图库里缩略图的宽度"
+config.short.description.imgGalleryHeight = "缩略图默认高度"
+config.long.description.imgGalleryFit = "图库缩略图类型可选择: 原始,智能，固定"
+config.short.description.imgGalleryFit = "图库剪切缩略图的类型"
+config.long.description.imgQuality = "图像压缩级别, 可设定1 - 100，100表示图片未被压缩"
+config.short.description.imgQuality = "图像压缩级别"
+config.long.description.systemDir = "服务器系统是其子目录"
+config.short.description.systemDir = "服务器上的子目录"
+config.long.description.newsCount = "当你打开新闻标签的时候，显示的新闻数量是默认的."
+config.short.description.newsCount = "新闻数量"
+config.long.description.newsLength = "新闻数量由默认缩短"
+config.short.description.newsLength = "新闻总汇里面的符号数量"
+config.long.description.newsSpan = "跨度是乘以1/12,整个宽度被分为12列，."
+config.short.description.newsSpan = "跨度直接关联宽度"
+config.long.description.pageName = "页面的名字显示在不同的地方，例如邮件注册,头条等等."
+config.short.description.pageName = "站名"
+config.long.description.newsBtnCssClass = "在这里给予przycinkowi在新闻里更多的版面"
+config.short.description.newsBtnCssClass = "CSS类的点击"
+config.long.description.cache = "给编辑者更多站点编辑的地方"
+config.short.description.inPlaceEditor = "就地编辑"
+config.long.description.inPlaceEditor = "可以允许打开编辑器并直接在网站上编辑"
+config.long.description.commentsStatus = "添加评论后的状态设置，0是非活动状态，1是活动状态.评论会随后出现"
+config.short.description.commentsStatus = "默认的评论状态"
+config.long.description.newsLengthTitle = "对于新闻摘要的字符数，如果太长的话会被自动缩短."
+config.short.description.newsLengthTitle = "新闻摘要的字符数"
+config.long.description.tagsCount = "标签数量会被放在列表里面，除非另有插入的编号"
+config.short.description.tagsCount = "列表里标签的最大数量"
+config.long.description.sliderImageFit = "在滑块里默认图像的比配类型"
+config.short.description.sliderImageFit = "滑块里调整的图像的类型"
+config.long.description.sliderImageFilter = "滑块里默认的图像过滤器"
+config.short.description.sliderImageFilter = "图像过滤器"
+config.long.description.sliderContentLenght = "签名后的默认字符数量被省略"
+config.short.description.sliderContentLenght = "签名长度"
+config.long.description.sliderCount = "默认的图像数量显示在滑块里"
+config.short.description.sliderCount = "滑块里的图像数量"
+config.long.description.imgSmallWidth = "小图像的默认宽度"
+config.short.description.imgSmallWidth = "小图标的默认宽度"
+config.long.description.imgSmallHeight = "小图标的默认高度"
+config.short.description.imgSmallHeight = "小图标高度"
+config.long.description.imgMediumWidth = "平均图标的默认宽度"
+config.short.description.imgMediumWidth = "中等图标宽度"
+config.long.description.imgMediumHeight = "中等图标高度"
+config.short.description.imgMediumHeight = "中等图标高度"
+config.long.description.imgBigWidth = "大型图标宽度"
+config.short.description.imgBigWidth = "大型图标宽度"
+config.long.description.imgBigHeight = "大型图标高度"
+config.short.description.imgBigHeight = "大型图标高度"
+config.long.description.sitemap = "站点地图"
+config.short.description.sitemap = "站点地图"
+config.long.description.analiticscode = "分析代码"
+config.short.description.analiticscode = "分析代码"
+config.long.description.googleverifycontent = "谷歌站点确认代码"
+config.short.description.googleverifycontent = "谷歌站点确认代码"
+config.long.description.leftpanelopen = "站点编辑面板"
+config.short.description.leftpanelopen = "变量表示启用编辑面板从主页的左侧可见."
+
+config.long.description.imgFit = "小图像匹配的默认值"
+config.short.description.imgFit = "调整图像剪切"
+config.long.description.imgFilter = "图像过滤器的默认值:
+config.short.description.imgFilter = "图像过滤器"
+config.long.description.userActive = "变量表示一但假如，用户在默认状态下不能启动"
+config.short.description.userActive = "默认用户状态"
+config.long.description.mailingSendLimit = "单一邮件限制"
+config.short.description.mailingSendLimit = "邮件限制"
+config.long.description.userMailActivation = "用户会收到一个带有激活链接电子邮件，点击后被激活."
+config.short.description.userMailActivation = "用户通过邮件激活"
+config.long.description.commentsLoggedUser = "评论只对注册用户有效"
+config.short.description.commentsLoggedUser = "评论只针对注册用户"
+config.long.description.cacheLife = "清除缓存的时间以秒计算"
+config.short.description.cacheLife = "缓存时间"
+config.long.description.cache = "变量告知页面知否改用smarty缓存系统"
+config.short.description.cache = 缓存页面
+config.long.description.cacheResources = "打开缓存以后, 一个包装css和js文件可以提高网站的创建效率"
+config.short.description.cacheResources = "css和js文件的缓存"
+config.long.description.license = 这是Windu许可证类型, 不可更改, 更改只能在高级系统激活后进行.
+config.short.description.license = "Windu许可证类型"
+config.long.description.downloadedRevision = "下载数校对"
+config.short.description.downloadedRevision = "下载数校对"
+config.long.description.updateServerRevision = "上传数校对"
+config.short.description.updateServerRevision = "上传数校对"
+config.long.description.imgGalleryFullWidth = "点击图标以后的图库里大图片的宽度"
+config.short.description.imgGalleryFullWidth = "图库里面大图片的宽度"
+config.long.description.imgGalleryFullHeight = "点击图标以后的图库里大图片的高度"
+config.short.description.imgGalleryFullHeight = "图库里面大图片的高度"
+config.long.description.backgroundAdmin5 = "背景"
+config.short.description.backgroundAdmin5 = "北京"
+config.long.description.sessionToken = "会话令牌"
+config.short.description.sessionToken = "会话令牌"
+config.long.description.winduLink = "Windu链接"
+config.short.description.winduLink = "Windu链接"
+config.long.description.contentListCount = "在列表中显示页面的项目数，新闻页由内容列表和标签组成."
+config.short.description.contentListCount = "列表里的元素数 "
+config.long.description.contentListLength = "签名切断后的字符数"
+config.short.description.contentListLength = "签名长度"
+config.long.description.licenseKey = "许可证密钥"
+config.short.description.licenseKey = "许可证密钥"
+config.long.description.editorCKEType = "可用的值有: 最小, 基本, 正常, 全部"
+config.short.description.editorCKEType = "文件编辑类型"
+config.long.description.adminLanguage = "有关于语言的变量表示在管理员面板"
+config.short.description.adminLanguage = "管理员面板语言"
+config.long.description.frontLanguage = "有关主页语言的变量表示在管理员面板"
+config.short.description.frontLanguage = "主页语言"
+config.long.description.sitemap = "变量表示是否打开站点自动生成器, 网站每日自动生成一次"
+config.short.description.sitemap = "自动网站地图"
+config.long.description.analiticscode = 分析代码
+config.short.description.analiticscode = 分析代码
+config.long.description.googleverifycontent = "谷歌站点确认编码"
+config.short.description.googleverifycontent = "谷歌站点确认编码"
+config.long.description.timezone = "时区"
+config.short.description.timezone = "时区"
+
+config.long.description.firewallRequestLimit =  "变量告诉我们网站一小时以内IP数据的查询次数"
+config.short.description.firewallRequestLimit = "防火墙需求限制"
+config.long.description.firewallEmail =  "当前IP达到极限时这个邮件会发送提示"
+config.short.description.firewallEmail = "防火墙提示邮件"
+
+config.long.description.SystemRun-monitoringAlexa =  "变量表示是否每日生成数据并报告给Alex"
+config.short.description.SystemRun-monitoringAlexa = "Alex监控"
+config.long.description.SystemRun-monitoringGoogle =  "变量表示是否每日生成数据并报告给谷歌"
+config.short.description.SystemRun-monitoringGoogle = "谷歌监控"
+
+config.long.description.SystemRun-firewall =  "变量表示是否打开防火墙"
+config.short.description.SystemRun-firewall = "防火墙"
+config.long.description.SystemRun-log =  "变量表示是否打开时间日志系统"
+config.short.description.SystemRun-log = "事件日志"
+config.long.description.SystemRun-requestLog =  "变量表示是否打开日志请求"
+config.short.description.SystemRun-requestLog = "请求日志"
+config.long.description.SystemRun-monitoring =  "变量表示是否打开系统监控"
+config.short.description.SystemRun-monitoring = "监控"
+config.long.description.SystemRun-statistic =  "变量表示是否打开系统统计"
+config.short.description.SystemRun-statistic = "网站统计"
+
+admin.moderator.users.active.tpl.username = "用户名"
+admin.moderator.users.active.tpl.ipadress = "IP地址"
+admin.moderator.users.active.tpl.noresults = "无结果"
+
+
+
+admin.moderator.userlist.tpl.username = "用户名"
+admin.moderator.userlist.tpl.status = "状态"
+admin.moderator.userlist.tpl.ipadress = "IP地址"
+admin.moderator.userlist.tpl.creationdate = "创建日期"
+admin.moderator.userlist.tpl.name = "名字"
+admin.moderator.userlist.tpl.surname = "姓"
+admin.moderator.userlist.tpl.comments ="评论"
+admin.moderator.userlist.tpl.gades = "评价"
+admin.moderator.userlist.tpl.noresults = "无结果"
+
+
+admin.moderator.comments.tpl.inactivecom = 无效评论
+admin.moderator.comments.tpl.status = 状态
+admin.moderator.comments.tpl.user = 用户名
+admin.moderator.comments.tpl.bucket = 篮子
+admin.moderator.comments.tpl.created = 创建
+admin.moderator.comments.tpl.ip = IP
+
+admin.moderator.comments.tpl.commentsactive = "有效评论"
+admin.moderator.comments.tpl.user = "用户名"
+admin.moderator.comments.tpl.noresults = "无结果"
+
+admin.notify.backup = "创建系统备份"
+admin.notify.cron.long = "Cron task took over 20s!"
+
+app.pagesdb.site = 站点
+app.pagesdb.group = 组
+app.pagesdb.gallery = 图库
+app.pagesdb.news = 新闻
+app.pagesdb.link = 链接
+
+
+admin.common.go.thismodpro = "此模型只对PRO版本使用者有效."
+admin.common.go.thismod = "次模型只对PRO或PLUS版本使用者有效."
+admin.common.go.buylicensepro = "在Windu网站购买PRO许可证并激活从而享用我们CMS系统!"
+admin.common.go.buylicenseproplus = "在Windu网站购买PRP或PLUS许可证并激活它来享受我们的CMS系统的扩展能力!"
+admin.common.go.buypro = "购买PRO许可证"
+admin.common.go.enterkey = "输入激活码."
+
+
+
+admin.system.rightbuttons.tpl.content = 页面内容
+admin.system.rightbuttons.tpl.pageedit = 页面编辑 
+admin.system.rightbuttons.tpl.contedit = 内容编辑 
+admin.system.rightbuttons.tpl.orderchange = 编辑页面来更改Zmiana kolejnoĹ›ci podstron
+admin.system.rightbuttons.tpl.addnews = 添加新闻
+admin.system.rightbuttons.tpl.addcontent = 添加内容
+admin.system.rightbuttons.tpl.addpage = 添加页面
+admin.system.rightbuttons.tpl.addphoto = 添加照片 
+admin.system.rightbuttons.tpl.addfile = 添加文件 
+admin.system.rightbuttons.tpl.gallery = 图库 
+admin.system.rightbuttons.tpl.editmenu = 编辑菜单 
+admin.system.rightbuttons.tpl.filelist = 所以文件列表
+admin.system.rightbuttons.tpl.fielsadded = 文件添加到系统
+admin.system.rightbuttons.tpl.photolist = 所有照片列表
+admin.system.rightbuttons.tpl.photosadded = 照片添加到系统
+admin.system.rightbuttons.tpl.banners = 横幅
+admin.system.rightbuttons.tpl.polls = 民意调查
+admin.system.rightbuttons.tpl.calendar = 日历
+admin.system.rightbuttons.tpl.langs = 语言
+admin.system.rightbuttons.tpl.tanslations = 翻译
+admin.system.rightbuttons.tpl.addeditlang = 添加并编辑语言 
+admin.system.rightbuttons.tpl.bin = 回收站
+admin.system.rightbuttons.tpl.deletedelements = 删除的元素
+admin.system.rightbuttons.tpl.autosave = 自动保存
+admin.system.rightbuttons.tpl.users = 用户
+admin.system.rightbuttons.tpl.usersview = 用户概括
+admin.system.rightbuttons.tpl.commentview = 评论概括
+admin.system.rightbuttons.tpl.comments = 评论
+admin.system.rightbuttons.tpl.contentadded = 用户添加的内容
+admin.system.rightbuttons.tpl.admins = 管理员
+admin.system.rightbuttons.tpl.addingadmin = 添加并编辑管理员 
+admin.system.rightbuttons.tpl.editrights = 添加管理员权限
+admin.system.rightbuttons.tpl.siteusers = 网站用户
+admin.system.rightbuttons.tpl.addingusers = 添加并管理用户
+admin.system.rightbuttons.tpl.editusers = 编辑用户权限
+admin.system.rightbuttons.tpl.permits = 权限
+admin.system.rightbuttons.tpl.edituserpermits = 编辑用户许可
+admin.system.rightbuttons.tpl.graphtemps = 图形模板
+admin.system.rightbuttons.tpl.sitegraphics = 网站呢图形
+admin.system.rightbuttons.tpl.templates = 模板
+admin.system.rightbuttons.tpl.graphtempinst = 安装图形模板
+admin.system.rightbuttons.tpl.editsitesgraph = 编辑网站图形
+admin.system.rightbuttons.tpl.logotypechange = 更改标识类型
+admin.system.rightbuttons.tpl.logotype = 标志类型
+admin.system.rightbuttons.tpl.addanalitcode = 添加分析代码
+admin.system.rightbuttons.tpl.widgets = 窗口小部件
+admin.system.rightbuttons.tpl.widupdate = 更新窗口小部件
+admin.system.rightbuttons.tpl.addonsinstall = 添加网站安装
+admin.system.rightbuttons.tpl.tools = 工具
+admin.system.rightbuttons.tpl.protools = 添加高级功能
+admin.system.rightbuttons.tpl.monitoring = 网站监测
+admin.system.rightbuttons.tpl.systemstats = 系统统计
+admin.system.rightbuttons.tpl.rss = RSS	
+admin.system.rightbuttons.tpl.rsschan = RSS途径
+admin.system.rightbuttons.tpl.seo = Seo
+admin.system.rightbuttons.tpl.errorredirect = 404错误重新定向
+admin.system.rightbuttons.tpl.mailing = 邮件
+admin.system.rightbuttons.tpl.massmail = 大批量的电子邮件通信调度
+admin.system.rightbuttons.tpl.contacts = 联系人
+admin.system.rightbuttons.tpl.contactbase = 联系人数据库
+admin.system.rightbuttons.tpl.database = 数据库
+admin.system.rightbuttons.tpl.tabellist = 数据库表格列表
+admin.system.rightbuttons.tpl.viewdata = 数据库数据概括
+admin.system.rightbuttons.tpl.config = 配置
+admin.system.rightbuttons.tpl.gensettings = 一般设置
+admin.system.rightbuttons.tpl.generalconfig = 一般配置
+admin.system.rightbuttons.tpl.configcont = 内容配置
+admin.system.rightbuttons.tpl.settingscont = 内容设置
+admin.system.rightbuttons.tpl.configusers = 用户配置
+admin.system.rightbuttons.tpl.userpermits = 用户设置
+admin.system.rightbuttons.tpl.graphconfig = 图像配置
+admin.system.rightbuttons.tpl.graphsetting = 图像设置
+admin.system.rightbuttons.tpl.toolsconfig = 工具配置
+admin.system.rightbuttons.tpl.toolssetting = 工具设置
+admin.system.rightbuttons.tpl.systemconfig = 系统配置
+admin.system.rightbuttons.tpl.systemsettings = 系统设置
+admin.system.rightbuttons.tpl.system = 系统	
+admin.system.rightbuttons.tpl.stats = 统计
+admin.system.rightbuttons.tpl.visits = 访问
+admin.system.rightbuttons.tpl.entries = 访问数量
+admin.system.rightbuttons.tpl.notice = 提示
+admin.system.rightbuttons.tpl.backup = 备份
+admin.system.rightbuttons.tpl.backupcopy = 备份拷贝
+admin.system.rightbuttons.tpl.systemcopy = 系统拷贝
+admin.system.rightbuttons.tpl.systemlogs = 系统日志
+admin.system.rightbuttons.tpl.404errors = 错误404
+admin.system.rightbuttons.tpl.systemerrors = 系统错误
+admin.system.rightbuttons.tpl.logins = 登录数量
+admin.system.rightbuttons.tpl.updates = 更新
+admin.system.rightbuttons.tpl.cron = 可龙
+admin.system.rightbuttons.tpl.systemtasks = 系统任务
+admin.system.rightbuttons.tpl.firewall = 防火墙
+admin.system.rightbuttons.tpl.systemfirewall = 系统防火墙
+admin.system.rightbuttons.tpl.reqlog = 请求日志
+admin.system.rightbuttons.tpl.references = 引用网站
+admin.system.rightbuttons.tpl.license = 许可证
+admin.system.rightbuttons.tpl.windupro = Windu Pro	
+admin.system.rightbuttons.tpl.winduplus = Windu Plus	
+admin.system.rightbuttons.tpl.keyactivation = 许可证密钥激活
+
+
+
+
+admin.forum.tpl.forums = 论坛
+admin.forum.tpl.posts = 帖子
+admin.forum.tpl.stats = 统计
+admin.forum.tpl.forumlist = 论坛列表
+admin.forum.tpl.addforum = 添加论坛
+admin.forum.tpl.name = 名字
+admin.forum.tpl.desc = 描述
+admin.forum.tpl.groups = 群
+admin.forum.tpl.topics = 话题
+admin.forum.tpl.posts = 帖子
+admin.forum.tpl.addedit = 添加或编辑论坛或者群
+admin.forum.tpl.posts.last90days = 算后的最后90天
+admin.forum.tpl.posts.last3days = 帖子最后三天
+admin.forum.tpl.threads.last3days = 主题最近3天
+admin.forum.tpl.posts.last30days = 帖子最近30天
+admin.forum.tpl.threads.last30days = 主题30天 
+admin.forum.tpl.posts.popular30days = 最热门的话题30天
+admin.forum.tpl.newusers.3days = 新3天
+admin.forum.tpl.activeusers.3days= 积极3天
+admin.forum.tpl.newusers.30days = 新30天
+admin.forum.tpl.activeusers.30days = 积极30天
+admin.forum.tpl.activeusers.most30days = 最活跃的30天
+
+
+admin.help.tpl.video = 教学视频
+admin.help.tpl.guide = 向导
+
+admin.images.editor.tpl.prep = 准备图片链接
+
+admin.calendar.tpl.calendar = 日历
+admin.calendar.tpl.addcalendar = 添加日历
+admin.calendar.tpl.events = 事件
+admin.calendar.tpl.addevent = 添加事件
+admin.calendar.tpl.eventsdata = 事件数据
+
+
+admin.lang.tpl.edittrans = 编辑翻译
+admin.lang.tpl.addlanguage = 添加语言
+admin.lang.tpl.phraselist = 短语列表
+admin.lang.tpl.editphrase = 编辑短语
+admin.lang.tpl.editlangphrase = 编辑语言
+admin.lang.tpl.key = 键盘
+admin.lang.tpl.nodata = 无数据
+
+
+admin.rss.tpl.rsslist = RSS读者列表
+admin.rss.tpl.noata = 无数据
+admin.rss.tpl.newrss = 添加一个新的RSS通路
+
+
+
+
+
+admin.frontedit.tpl.color = 颜色与大小
+admin.frontedit.tpl.frontedit = Windu字体编辑
+admin.frontedit.tpl.edit = "在管理员面板里编辑内容"
+admin.frontedit.tpl.edittemplate = 编辑模板页面
+admin.frontedit.tpl.editcss = 编辑CSS
+admin.frontedit.tpl.hide = 隐藏页面
+admin.frontedit.tpl.set = 设置页面可视性
+admin.frontedit.tpl.refresh = 恢复
+admin.frontedit.tpl.changessaved = 更改也被保存
+admin.frontedit.tpl.save = 保存
+admin.frontedit.tpl.cancel = 取消
+admin.frontedit.tpl.template = 图像模板
+admin.frontedit.tpl.addtemplate = 添加模板
+admin.frontedit.tpl.settings = 设置
+admin.frontedit.tpl.gallery = 图库
+admin.frontedit.tpl.news = 新闻
+admin.frontedit.tpl.images = 图片
+admin.frontedit.tpl.slider = 滑块
+admin.frontedit.tpl.halp = 帮助
+admin.frontedit.tpl.helpdep = Windu帮助.
+admin.frontedit.tpl.forumwind = Windu论坛
+admin.frontedit.tpl.webdevport = 网站设计页
+admin.frontedit.tpl.editlvl = 在阅览级别编辑
+admin.frontedit.tpl.showwdiget = 显示小部件
+admin.frontedit.tpl.cacherec = 资源缓存
+admin.frontedit.tpl.cachetemps = 缓存模板
+admin.frontedit.tpl.clearcache = 清理缓存
+admin.frontedit.tpl.logout = 登出
+admin.frontedit.tpl.images = 图片
+admin.frontedit.tpl.addelement = 给页面添加元素
+admin.frontedit.tpl.subtheme = 子页面的主题
+
+
+
+admin.tools.tpl.banners.nodata = 没有可显示数据
+usertype.db.brak = 空
+admin.content.controller.nofields = 没有定义域
+search.results.filters = 过滤器
+search.results.addfilter = 添加过滤器
+search.results.Nooffers = 没有开价
+search.results.auctionends = 拍卖终止:
+search.results.noresultschoose = 无结果, 请选择一个分类或者添加一个过滤器!
+admin.content.controller.nofields = 没有定义域
+admin.content.controller.newfield = 新定义域
+search.results.currency = zł
+accesslog.filedb.logsmoved = "日志被移动到数据库: "
+rss.class.update = RSS订阅更新
+rss.class.empty = RSS域是空白
+admin.mailingdocontrollersendmailing = 发送邮件的电子邮件: 
+system.status.class.status = 状态也在数据库保存: 
+firewall.class.firewallday = 每日文件从防火墙删除:
+firewall.class.month = 每月文件从防火墙删除:
+pages.backupsdb.class.pagever = 页面版本被包装
+
+
+core.cron.class.access = <span class="badge">H</span> 移动访问日志到数据库
+core.cron.class.feedup = <span class="badge">H</span> RSS订阅更新
+core.cron.class.smailing = <span class="badge">H</span> 发送邮件
+core.cron.class.writesys = <span class="badge badge-success">D</span> 保存系统状态
+core.cron.class.cleanold = <span class="badge badge-success">D</span> 清除以往防火墙文件
+core.cron.class.generate = <span class="badge badge-success">D</span> 生成实际站点地图
+core.cron.class.pver = <span class="badge badge-info">W</span> 包转页面版本
+core.cron.class.cleancache = <span class="badge badge-info">W</span> 清理缓存
+core.cron.class.cleanold = <span class="badge badge-info">W</span> 清理以往日志请求
+core.cron.class.cleanologs = <span class="badge badge-info">W</span> 清理以往日志
+core.cron.class.database = <span class="badge badge-inverse">M</span> 把数据库真空
+core.cron.class.cleanfire = <span class="badge badge-inverse">M</span> 清理以往防火墙文件=  <span class="badge badge-inverse">M</span> 干净的旧防火墙的日志文件
+core.cron.class.deleteall = <span class="badge badge-inverse">M</span> 删除所有缩略图
+core.cron.class.deleteold = <span class="badge badge-inverse">M</span> 删除以往备份
+core.cron.class.backupsys = <span class="badge badge-inverse">M</span> 系统备份
+
+core.cron.class.images = 缩略图已删除
+core.cron.class.newsite = 写新的站点
+core.cron.class.allcache = 所有缓存被清除
+core.cron.class.oldrequest = 日志请求被清除
+core.cron.class.oldlogs = 日志被清除
+
+
+config.short.description.language-admin = 管理员面板语言
+config.short.description.language-front = 主页语言
+config.short.description.day_clean_firewall = 防火墙清理
+config.short.description.day_sitemap = 站点生成
+config.short.description.day_write_system_status = 保存系统状态
+config.short.description.hour_move_acceslogs = 日志转移
+config.short.description.hour_rss_update =  RSS更新
+config.short.description.leftOpenMenu = 主页编辑菜单
+config.short.description.month_backup = 每月备份拷贝
+config.short.description.month_clean_backups = 清理以往备份
+config.short.description.month_clean_firewall = 每月防火墙清理
+config.short.description.month_delete_thumbs = 缩略图清理
+config.short.description.month_vacum = 数据库清理
+config.short.description.week_compact_versions = 压缩的网站版本
+config.short.description.week_delete_old_logs = 清理以往日志
+config.short.description.week_delete_old_requestlogs = 清理以往日志请求
+config.short.description.week_flush_cache = 清理缓存
+admin.menu.help = 帮助
+config.long.description.day_clean_firewall = 防火墙旧文件的日常清理
+config.long.description.day_sitemap = 为搜索引擎生成网站地图
+config.long.description.day_write_system_status = 用于监控工具的每日系统优化
+config.long.description.hour_move_acceslogs = 每小时移动站点请求日志到数据库
+config.long.description.hour_rss_update = 每小时RSS更新链接到网站
+config.long.description.leftOpenMenu = 如果主要页面被打开时请在左侧菜单中提示
+config.long.description.month_backup = 整个系统的每月备份拷贝
+config.long.description.month_clean_backups = 清理过去3个月的备份文件.
+config.long.description.month_clean_firewall = 每月旧防火墙文件清理
+config.long.description.month_delete_thumbs = 每月缩略图清理
+config.long.description.month_vacum = 每周清理以减少数据库内存
+config.long.description.week_compact_versions = 每周清理在编辑过程中生成的旧网页.
+config.long.description.week_delete_old_logs = 旧日志数据库中每周清理
+config.long.description.week_delete_old_requestlogs = 旧日志数据库中每月清洁
+config.long.description.week_flush_cache = 每月清理缓存
+config.short.description.sliderContentLength = 滑块的字符数量
+
+
+
+
+creator.tpl.next = 下一个
+creator.tpl.viewweb = 查看网站
+creator.tpl.viewedit = 查看并编辑您的网站. 左侧是编辑面板, 在此您可以选择不同的设置与颜色并激活编辑
+creator.tpl.editpage = 编辑网页
+creator.tpl.editadminpanel = 在管理员面板编辑网页.您也可以通过网页上的内置编辑器编辑网站!
+creator.tpl.edittempl = 编辑模板
+creator.tpl.editcode = 在管理面板里编辑图形模板代码.模板有几十个文件组成,你可以用HTML/CSS方面的信息编辑.
+creator.tpl.sys = 系统
+creator.tpl.thisplace = 在这里你可以管理并检查系统的状态，并更新你网站的实时进程.
+creator.tpl.webst = 网站
+creator.tpl.simplepage = 常规网站包括登录滑块等等.
+creator.tpl.blog = 博客
+creator.tpl.blogsite = 博客网站,用于添加评论及文章.
+creator.tpl.portal = 入口
+creator.tpl.advsite = 高级网站登录，滑块及新闻在主页上.
+creator.tpl.forum = 论坛
+creator.tpl.website = 网站用个论坛的角色来完善最后的结构.
+
+
+
+admin.content.controller.websitelink = 与页面连接
+admin.content.controller.rating = 评价
+admin.content.controller.datecrea = 创建日期
+admin.content.controller.datelastup = 最后更新日期
+admin.content.controller.creatorip = 创建者IP
+admin.content.controller.iplastedit = 最后编辑者的IP
+admin.content.controller.codeinserted = 插入内容代码
+
+admin.content.tpl.bucketsystem = 系统
+admin.content.tpl.bucketpages = 网站
+
+admin.system.common.tpl.monthlybackupcop = 每月自动备份
+
+
+admin.common.tpl.showall = 显示所有
+admin.common.tpl.showrecent = 显示最近
+
+
+
+admin.content.controller.watermarkstatus = 水印状态
+admin.content.controller.watermarkactive = 允许
+admin.content.controller.watermarkinactive = 禁止
+
+
+admin.customfields.modal.tpl.addfields = 添加自定义域
+
+
+
+admin.common.conservation.tpl.migration = 转移到MySQL
+admin.common.conservation.tpl.stepone = 第一步
+admin.common.conservation.tpl.setconn = 制定链接
+admin.common.conservation.tpl.targetmysql = 以MySQL服务器为目标
+admin.common.conservation.tpl.completed = 完成
+admin.common.conservation.tpl.steptwo = 第二步
+admin.common.conservation.tpl.transdata = 转移数据
+admin.common.conservation.tpl.checkbase = 检测数据库
+admin.common.conservation.tpl.tryagain = 重试
+admin.common.conservation.tpl.stepthree = 第三步
+admin.common.conservation.tpl.finalization = 完成设置
+admin.common.conservation.tpl.checkingdatabases = Sprawdzanie poprawnosci bazy
+admin.common.conservation.tpl.rundatabase = Uruchom bazę
+
+
+admin.backupdb.class.php.oldbackups = 在删除旧的备份之前
+admin.backupdb.class.php.backups = 数据备份已完成
+
+
+admin.frontedit.tpl.disableleftmenu = 次要编辑
+admin.frontedit.tpl.editimages = 编辑图像
+
+
+
+admin.nodata = 没有数据显示
+admin.common.conservation.tpl.yourwidgetuptodate = 所有的小部件是最新的
+admin.index.tpl.forum = 在这里，你可以管理论坛和查看统计信息。
+admin.system.tpl.lastlogs = 最近的日志
+admin.system.tpl.crontasks = 后台任务
+admin.sidebar = 切换侧边栏
+admin.content.controller.idnumb = ID号
+admin.content.controller.numberdisp = 浏览次数
+core.cron.class.cleanoldrequest =   <span class="badge badge-info">W</span>干净的旧请求日志
+core.cron.class.cleanfire = <span class="badge badge-inverse">M</span> 清理以往防火墙文件=  <span class="badge badge-inverse">M</span> 干净的旧防火墙的日志文件
+admin.templates.common.tabs.cleanpins = 清洁针
+admin.common.conservation.tpl.themes = 主题
+admin.common.conservation.tpl.database = 数据库
+admin.common.conservation.tpl.backups = 备份
+admin.common.conservation.tpl.cache = 缓存
+admin.common.conservation.tpl.others = 他人
+admin.do.controller.changes = 更改已保存
+admin.update.controller.tryagain = 再试一次
+admin.update.controller.upforyou = 有没有更新程序
+admin.update.controller.adminpane = 管理面板
+admin.system.rightbuttons.tpl.simplified = 简
+admin.system.rightbuttons.tpl.basic = 基本的
+admin.system.rightbuttons.tpl.advanced = 先进
+admin.system.rightbuttons.tpl.basicmod = 基本模式
+admin.system.rightbuttons.tpl.advmod = 高级模式
+admin.system.rightbuttons.tpl.simplifiedmod = 简化的模式
+admin.content.controller.searchedphrase = 搜索的短语
+admin.templates.common.goprobanner.buypro = 买一个专业执照$39
+admin.templates.common.goprobanner.gain = 获得终身获得了整套先进的工具！
+admin.templates.common.goprobanner.gopro = 走亲
+admin.check.systemRun = 启动子系统

@@ -1,0 +1,25 @@
+user.panel.save = Zapisz zmiany
+user.panel.avatar = Awatar
+
+user.panel.usertype = Typ użytkownika
+user.panel.permits = Nadaje odpowiednie uprawnienia
+user.panel.email = Adres email
+user.panel.giveemail = Podaj email
+user.panel.givecorrectemail = Podaj poprawny email
+user.panel.emailtaken = Podany email jest zajęty
+user.panel.password = Hasło
+user.panel.autogener = Wygeneruje się automatycznie jeżeli nie zostanie podane
+user.panel.toshortpass = Podane hasło jest zbyt krótkie
+user.panel.diffpasswords = Podane hasła są różne
+user.panel.repeatpassword = Powtórz hasło
+user.panel.username = Nazwa użytkownika
+user.panel.shownname = Nazwa wyświetlana
+user.panel.kowal = Kowal
+user.panel.name = Imię
+user.panel.jan = Jan
+user.panel.surname = Nazwisko
+user.panel.kowalski = Kowalski
+user.panel.nametype = Nazwa typu
+user.panel.register = Zarejestruj się
+
+widgets.userPanel.smallhelp = Panel użytkownika

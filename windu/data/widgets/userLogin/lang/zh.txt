@@ -1,0 +1,14 @@
+ userlogin.login = 注册
+userlogin.loggedin = 登录
+userlogin.register = 注册
+userlogin.addusername = 输入用户名
+userlogin.autogener = 如果不给就会自动生成
+userlogin.addpassword = 输入密码
+userlogin.username = 用户名（电子邮件）
+userlogin.password = 密码
+userlogin.rememberme = 记住我
+userlogin.addcorectusername = 输入正确的用户名
+userlogin.tpl.loggedas = 登录为：
+userlogin.tpl.logout = 注销
+userlogin.tpl.accsettings = 帐户设置
+widgets.userLogin.smallhelp = 用户登录面板

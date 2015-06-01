@@ -1,0 +1,1 @@
+widgets.menuDroppy.smallhelp = Genera menú drop Droppy abajo

@@ -1,0 +1,1 @@
+widgets.tagsListNormal.smallhelp = Displays a list of tags with links

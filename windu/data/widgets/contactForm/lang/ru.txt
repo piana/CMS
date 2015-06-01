@@ -1,0 +1,4 @@
+contactform.message.positive = Сообщение было отправлено, мы ответим сразу же!
+contactform.message.negative = Заполните все поля формы!
+front.form.msgsent = Сообщение было отправлено, мы ответим сразу же!
+widgets.contactForm.smallhelp = Контактная форма

@@ -1,0 +1,1 @@
+ widgets.menuHorizontalNav.smallhelp = Menu, che corrisponde alla larghezza genera

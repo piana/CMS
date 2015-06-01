@@ -1,0 +1,51 @@
+front.form.more = "更多"
+front.form.project = "由...创建并设计"
+front.form.workon = 引擎运行:
+front.form.giveemail = "请输入有效的电子邮箱"
+front.form.email = "电邮"
+front.form.giveelement = "请填写表格"
+front.form.contactformcontent = "信息"
+front.form.givecorrectemail = "输入有效电子邮箱"
+
+validator.required = "区域不能为空"
+validator.email = "请填入正确电子邮箱"
+validator.number = "请填入一个数字"
+validator.captcha = "请填入图片下面的文字"
+validator.captcha.error = "重复的编码错误!"
+
+admin.message.error = "检测到错误"
+admin.message.success = "更改成功"
+
+news.gropu.id = 897
+
+
+//editable/////////////////////
+editable.front.footer.terms = 版权为Windu所有，禁止任何未经允许的复制.
+editable.front.footer.designed = 由...设计:
+editable.front.footer.engine = 从事:
+editable.front.welcome = 欢迎.可编辑.正面.搜素 = 搜素.编辑.正面.登录 = 登录
+editable.front.news = 新闻
+editable.front.logos = 标识.可编辑.正面.标签 = 标签
+
+
+register.mail.tpl.welcome = 欢迎
+register.mail.tpl.regged = 您注册在这里 
+register.mail.tpl.tocont = 点击此链接激活您的账号:
+register.mail.tpl.activate = 激活账号!
+register.mail.tpl.iffor = 如果此链接不能点击,请复制到阅览器窗口并点击进入.
+register.mail.tpl.team = 团队
+
+
+
+admin.pagesdb.class.php.save = 保存
+admin.pagesdb.class.php.image = 图片
+admin.pagesdb.class.php.file = 文件
+admin.pagesdb.class.php.widget = 添加小部件front.form.send = 发送
+front.form.send = 发送
+editable.front.search = 搜索
+editable.front.login = 注册
+editable.front.tags = 标签
+admin.menu.left.tpl.image = 添加图片
+admin.menu.left.tpl.widget = 添加小工具
+admin.menu.left.tpl.file = 添加文件
+%EF%BB%BFcontactform.message.positive = 

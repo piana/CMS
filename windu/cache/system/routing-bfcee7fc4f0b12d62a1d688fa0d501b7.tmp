@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:33:"/admin/ajax/customfields/#action/";s:10:"parameters";a:2:{s:4:"name";s:30:"admin-customfields-ajax-action";s:10:"controller";s:31:"adminAjaxCustomfieldsController";}s:12:"variableName";a:1:{i:0;s:6:"action";}s:6:"regexp";s:43:"/^\/admin\/ajax\/customfields\/([^\/]+)\/$/";}s:9:"variables";a:1:{s:6:"action";s:5:"index";}}

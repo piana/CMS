@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:12:"/#urlKey/#id";s:10:"parameters";a:2:{s:4:"name";s:13:"indexUrlKeyId";s:10:"controller";s:15:"frontController";}s:12:"variableName";a:2:{i:0;s:6:"urlKey";i:1;s:2:"id";}s:6:"regexp";s:24:"/^\/([^\/]+)\/([^\/]+)$/";}s:9:"variables";a:2:{s:6:"urlKey";s:12:"wyszukiwarka";s:2:"id";s:8:"pz%C5%82";}}

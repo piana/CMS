@@ -1,0 +1,1 @@
+ widgets.menuBootstrap.smallhelp = Generieren Sie im Dropdown-Menü aus Bootstrap

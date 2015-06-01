@@ -1,0 +1,1 @@
+ widgets.sliderBootstrap.smallhelp = Слайдер с изображениями из Bootstrap

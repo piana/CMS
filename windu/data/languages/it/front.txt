@@ -1,0 +1,55 @@
+front.form.more = "Piů"
+front.form.project = "Creato e Progettato da:"
+front.form.workon = Esecuzione sul motore:
+front.form.send = Inviare
+front.form.giveemail = "Indirizzo un indirizzo e-mail valido"
+front.form.email = "Indirizzo e-mail"
+front.form.giveelement = "Complia il campo module per favore"
+front.form.contactformcontent = "Messaggio"
+front.form.givecorrectemail = "Inserire un indirizzo e-mail valido"
+
+validator.required = "Il campo non puň essere vuoto"
+validator.email = ""Inserire un corretto e-mail"
+validator.number = "Inserire un numero"
+validator.captcha = "Inserisci il testo dall&apos;immagine"
+validator.captcha.error = "Riscritto il codice č sbagliato!"
+
+admin.message.error = "Errori sono stati rilevati in forma"
+admin.message.success = "I cambiamenti hanno avuto successo"
+
+news.gropu.id = 795
+
+
+//editable/////////////////////
+editable.front.footer.terms = utti i diritti riservati, copiare dei materiali contenuti nel sito web in conformitŕ con licenza Windu č vietato.
+editable.front.footer.designed = Progettato da:
+editable.front.footer.engine = Esecuzione sul:
+editable.front.welcome = Benvenuti
+editable.front.search = Ricerca
+editable.front.login = Entra
+editable.front.news = Notizie
+editable.front.logos = Logos
+editable.front.tags = Tag
+
+
+register.mail.tpl.welcome = Benvenuti
+register.mail.tpl.regged = Hai registrata presso
+register.mail.tpl.tocont = Per attivare su conto clicca sul link sottostante:
+register.mail.tpl.activate = Attivate su conto!
+register.mail.tpl.iffor = Se per qualche ragione collegamento non č cliccabile, copiarlo e incollarlo nel vostro browser e premere Invio.
+register.mail.tpl.team = Squadra
+
+
+
+admin.pagesdb.class.php.save = Salva
+admin.pagesdb.class.php.image = Immagine
+admin.pagesdb.class.php.file = File
+admin.pagesdb.class.php.widget = Widget
+
+
+
+
+admin.menu.left.tpl.image = Aggiungi immagine
+admin.menu.left.tpl.widget = Aggiungi widget
+admin.menu.left.tpl.file = Aggiungi il file
+

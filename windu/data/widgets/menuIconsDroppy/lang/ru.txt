@@ -1,0 +1,1 @@
+ widgets.menuIconsDroppy.smallhelp = генерирует Droppy выпадающего меню с иконками

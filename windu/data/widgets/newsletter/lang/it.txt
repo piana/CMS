@@ -1,0 +1,4 @@
+ front.newsletter.sign = Abbonarsi
+front.newsletter.email = E-mail
+front.newsletter.name = Nome
+newsletter.message.positive = Sei stato aggiunto alla nostra newsletter!

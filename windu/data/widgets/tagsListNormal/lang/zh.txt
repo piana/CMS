@@ -1,0 +1,1 @@
+ widgets.tagsListNormal.smallhelp = 显示的标记与链接列表

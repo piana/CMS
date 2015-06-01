@@ -1,0 +1,14 @@
+ userlogin.login = Войти
+userlogin.loggedin = Зашли
+userlogin.register = регистр
+userlogin.addusername = Введите Имя пользователя
+userlogin.autogener = Будет сгенерирован автоматически, если не дано
+userlogin.addpassword = Введите пароль
+userlogin.username = Имя пользователя (электронная почта)
+userlogin.password = пароль
+userlogin.rememberme = Запомнить
+userlogin.addcorectusername = Введите правильное имя пользователя
+userlogin.tpl.loggedas = Зашли как:
+userlogin.tpl.logout = Выйти
+userlogin.tpl.accsettings = Настройки учетной записи
+widgets.userLogin.smallhelp = Пользователь Войти панель

@@ -1,0 +1,4 @@
+ front.newsletter.sign = подписываться
+front.newsletter.email = E-mail
+front.newsletter.name = название
+newsletter.message.positive = Вы были добавлены на рассылку новостей!

@@ -1,0 +1,3 @@
+news.normal.more = more
+
+widgets.newsNormal.smallhelp = Displays News

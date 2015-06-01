@@ -1,0 +1,6 @@
+ rate.message.positive = 感谢您的评分！
+rate.message.negative = 您已投票！
+rate.rates.positive = 张赞成票
+rate.rates.negative = 反对票
+rate.rates.befirst = 是第一个！
+widgets.rate.smallhelp = 评价小组

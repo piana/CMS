@@ -1,0 +1,23 @@
+user.register.usertype = Tipo de usuario
+user.register.permits = Otorga facultades adecuadas
+user.register.email = Email dirección
+user.register.giveemail = Escribir email
+user.register.givecorrectemail = Escribir la adrdess correo electrónico correcta
+user.register.emailtaken = Esta dirección de correo electrónico ya está en uso
+user.register.password = Contraseña
+user.register.autogener = Se generará de forma automática si no se ingresó
+user.register.toshortpass = La contraseña es demasiado corta
+user.register.diffpasswords = Las contraseñas no coinciden
+user.register.repeatpassword = Repita la contraseña
+user.register.username = Nombre de usuario
+user.register.shownname = Nombre que aparece
+user.register.kowal = John
+user.register.name = Name
+user.register.jan = Henry
+user.register.surname = Apellido
+user.register.kowalski = Jones
+user.register.nametype = Nombre Tipo
+user.register.register = Registrar
+user.register.activate.account = Activa tu cuenta!
+widgets.userRegister.smallhelp = Registro de usuarios
+ 

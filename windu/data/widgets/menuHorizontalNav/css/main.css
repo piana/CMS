@@ -1,0 +1,32 @@
+/**
+* Base styles for horizontal navigation
+*/
+.horizontal-nav {
+
+}
+.horizontal-nav ul {
+  float: left;
+  margin:0px;
+  text-align: center;
+}
+.horizontal-nav ul li {
+  float: left;
+}
+.horizontal-nav ul li:first-child {
+  border-left: 0 none;
+}
+.horizontal-nav ul li a {
+  display: block;
+}
+.horizontal-nav ul li:first-child a {
+  border-left: 0 none;
+}
+.horizontal-nav ul li a:hover {
+
+}
+.horizontal-nav ul li:first-child a {
+
+}
+.horizontal-nav ul li:last-child a {
+
+}

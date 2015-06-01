@@ -1,0 +1,12 @@
+.tagsList{
+	list-style:none;
+	margin:0px;
+}
+.tagsList .badge{
+	padding-left:6px;
+	padding-right:6px;
+	background-color:#b50000;
+	text-shadow:none;
+	color:#fff;
+	margin-right:5px;
+}

@@ -1,0 +1,3 @@
+content.list.show.noresults = No hay elementos para mostrar
+widgets.contentListShow.smallhelp = Muestra una lista de los materiales
+ 

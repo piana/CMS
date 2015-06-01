@@ -1,0 +1,1 @@
+widgets.calendarBox.smallhelp = Wyświetla kalendarz w postaci graficznej

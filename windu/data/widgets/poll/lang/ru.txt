@@ -1,0 +1,3 @@
+ widgets.poll.smallhelp = Формирует опрос
+widgets.poll.vote = голосование
+widgets.poll.noquestion = Никаких вопросов по выбранному опросу!

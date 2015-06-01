@@ -1,0 +1,4 @@
+contactform.message.positive = "Wiadomość została wysłana, odpowiemy wkrótce!"
+contactform.message.negative = Wypełnij wszystkie pola formularza!
+front.form.msgsent = Wiadomość wysłana z formularza kontaktowego
+widgets.contactForm.smallhelp = Formularz kontaktowy

@@ -1,0 +1,1 @@
+ widgets.tagsListNormal.smallhelp = Отображает список тегов со ссылками

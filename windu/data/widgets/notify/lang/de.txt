@@ -1,0 +1,1 @@
+ widgets.notify.smallhelp = Zeigt eine meldung

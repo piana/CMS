@@ -1,0 +1,56 @@
+front.form.more = "More"
+front.form.project = "Created and Designed by:"
+front.form.workon = Running on engine:
+front.form.send = Send
+front.form.giveemail = "Enter a valid e-mail address"
+front.form.email = "E-mail address"
+front.form.giveelement = "Please fill the form field"
+front.form.contactformcontent = "Message"
+front.form.givecorrectemail = "Enter a valid e-mail address"
+
+validator.required = "Field can not be empty"
+validator.email = "Please enter a correct e-mail"
+validator.number = "Please enter a number"
+validator.captcha = "Please enter the text from the image"
+validator.captcha.error = "Rewritten code is wrong!"
+
+admin.message.error = "Errors have been detected in the form"
+admin.message.success = "Changes were successful"
+
+news.gropu.id = 861
+
+
+//editable/////////////////////
+editable.front.footer.terms = All rights reserved, copying materials contained on the website in accordance with licensed Windu is prohibited.
+editable.front.footer.designed = Designed by:
+editable.front.footer.engine = Works on:
+editable.front.welcome = Welcome
+editable.front.search = Search
+editable.front.login = Login
+editable.front.news = News
+editable.front.logos = Logos
+editable.front.tags = Tags
+
+
+register.mail.tpl.welcome = Welcome
+register.mail.tpl.regged = You have registered at 
+register.mail.tpl.tocont = In order to activate your account click the link below:
+register.mail.tpl.activate = Activate account!
+register.mail.tpl.iffor = If for some reason link is not clickable, copy it and paste into your webbrowser and then press enter.
+register.mail.tpl.team = Team
+
+
+
+admin.pagesdb.class.php.save = Save
+admin.pagesdb.class.php.image = Image
+admin.pagesdb.class.php.file = File
+admin.pagesdb.class.php.widget = Widget
+
+
+
+
+admin.menu.left.tpl.image = Add image
+admin.menu.left.tpl.widget = Add widget
+admin.menu.left.tpl.file = Add file
+
+%EF%BB%BFcontactform.message.positive = 

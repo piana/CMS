@@ -1,0 +1,2 @@
+widgets.newTopics.smallhelp = Widget that displays recently added themes
+newTopics.title = Last Added topics

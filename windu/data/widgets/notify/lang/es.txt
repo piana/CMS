@@ -1,0 +1,2 @@
+widgets.notify.smallhelp = Muestra una notificación
+ 

@@ -1,0 +1,3 @@
+ search.controller.class.search = 搜索
+search.controller.class.enter = 输入词组
+widgets.search.smallhelp = 显示浏览器

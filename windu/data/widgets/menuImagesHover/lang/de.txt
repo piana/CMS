@@ -1,0 +1,1 @@
+ widgets.menuImagesHover.smallhelp = Erzeugt Bildmenü mit einer Option von 2 Bildern auf der jeweils anderen

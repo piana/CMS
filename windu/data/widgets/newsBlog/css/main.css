@@ -1,0 +1,38 @@
+.simpleNewsListTop a{
+	margin-right:10px;
+}
+.newsBlog-meta{
+	color:silver;
+}
+.newsBlog{
+	margin:0px;
+}
+.newsBlog input[type=text]{
+	width:70%;
+}
+.newsBlog .input-append{
+	margin:0px;
+}
+.newsBlog{
+	list-style:none;
+	margin:0px;
+}
+.newsBlog li{
+	padding:20px;
+}
+.newsBlog li:nth-child(odd){
+	background-color: #F9F9F9;
+	border-bottom:1px #eee solid;
+	border-top:1px #eee solid;
+}
+.newsBlog li:last-child{
+	border-bottom:0px;
+}
+.newsBlog li:first{
+	border-top:4px;
+}
+.newsBlog h4{
+	margin-bottom:5px;
+	margin-top:0px;
+}
+

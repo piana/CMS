@@ -1,0 +1,1 @@
+widgets.menuDroppy.smallhelp = Generates Droppy drop down menu

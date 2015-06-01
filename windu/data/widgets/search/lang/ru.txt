@@ -1,0 +1,3 @@
+ search.controller.class.search = поиск
+search.controller.class.enter = Введите фразу
+widgets.search.smallhelp = Отображает браузер

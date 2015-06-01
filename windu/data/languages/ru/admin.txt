@@ -1,0 +1,1366 @@
+//Windu CMS admin lang file//
+
+lang = RU
+facebook.page.key = WinduCMS
+defaultTimezone = "Европа/Амстердам"
+
+admin.help.main = zmaktmrnzfty
+admin.help.content = ycanpvwtdrsg
+admin.help.users = yrsbwdqpxwhg
+admin.help.themes = zrtkdkvcxzpd
+admin.help.tools = rsjktddjdywd
+admin.help.config = qvjpvnkfpbdh
+admin.help.system = jfjhqztvbsgr
+admin.help.forum = hjprygpfdmkh
+
+form.button.title.default = Отправить
+form.button.title.cancel = Отменить
+form.button.title.save = Сохранить
+form.button.title.add = Добавить
+form.button.title.backup = Резервные копии 
+form.button.title.images = Картинка
+form.button.title.files = Файл
+form.button.title.widgets = Виджет
+form.button.title.next = Дальше
+form.button.title.import = Импортировать 
+form.button.title.merge = Объединить
+form.button.title.activate.license = Активировать лицензию
+
+validator.required = "Поле не может оставатся пустым"
+validator.email = "Введите правильный e-mail"
+validator.number = "Введите количество" 
+validator.captcha = "Введите текст с картинки"
+validator.captcha.error = "Введите правильный текст с картинки"
+admin.nodata = Данные отсутствуют
+
+admin.menu.content = Текст 
+admin.menu.forum = Форум
+admin.menu.users = Пользователи
+admin.menu.config = Конфигурация
+admin.menu.themes = Графика
+admin.menu.tools = Инструменты
+admin.menu.trash = Корзина 
+admin.menu.system = Система
+admin.menu.help = Помощь
+admin.menu.forum = Форум
+admin.menu.custom = Дополнительная панель
+
+admin.message.success = Изменения успешно завершены
+admin.message.success.autosave = Автозапись 
+admin.message.operation.success = Операция успешно завершена
+admin.message.error =  Упс, ошибка...Не удалось сохранить изменения
+admin.message.save = Элемент успешно сохранён
+admin.message.add = Элемент успешно добавлен
+admin.message.delete = Элемент удалён
+admin.message.negative.wrongvaluetype = Неверный тип введённого значения
+admin.message.receive.email = Для установки нового пароля перейдите по ссылке в письме, отправленном на Вашу почту
+admin.message.user.not.exist = Такой пользователь не существует 
+admin.message.loginerror = Ошибка входа. Введите правильные данные! 
+admin.message.loginsuccess = Вход в административную панель выполнен правильно.
+admin.message.password.changed = Ваш пароль изменён 
+admin.message.wrong.licence.key = Введено неактивный ключ лицензии.
+admin.message.errordbimport = Ошибка базы данных. Проверьте интернет-соединение
+admin.message.negative.wrongvaluetype = Введите правильное значение переменной
+admin.message.error.mysql.conection = Невозможно соединить с базой данных
+
+admin.common.seo.tpl.activepages = Активные страницы 
+admin.common.seo.tpl.Name = Название 
+admin.common.seo.tpl.url = Url
+admin.common.seo.tpl.downloads = Загрузок 
+admin.common.seo.tpl.added = Добавлено 
+admin.common.seo.tpl.url = "Размер (KB)"
+admin.common.seo.tpl.PageMap = Карта сайта 
+admin.common.seo.tpl.pagelist = Количество страниц
+admin.common.seo.tpl.verificationcode = K Верификационный код google webmaster tools
+admin.common.seo.tpl.analcode = Код analitics
+admin.common.seo.tpl.robots = Содержание файла robots.txt
+admin.common.seo.tpl.parameters = Параметры 
+
+admin.common.tpl.addfile = Добавить файл
+admin.common.tpl.editfile = Редактировать файл
+admin.common.tpl.list = Список файлов 
+admin.common.tpl.downstats = Статистика загрузок
+
+admin.common.files_list.ctpl.name = Название
+admin.common.files_list.ctpl.type = Тип
+admin.common.files_list.ctpl.link = Ссылка
+admin.common.files_list.ctpl.downloads = Загрузок
+admin.common.files_list.ctpl.added = Добавлено
+admin.common.files_list.ctpl.size = "Размер (MB)"
+admin.common.files_list.ctpl.size.numberimg = "Количество файлов"
+
+admin.common.images.tpl.photolist = "Список фотографий"
+admin.common.images.tpl.editimage = "Редактировать картинку"
+admin.common.images.tpl.numberimg = "Количество картинок"
+admin.common.images.tpl.gennumber = "Количество созданных миниатюр"
+admin.common.images.tpl.clear = "Очистить миниатюры"
+admin.common.images.tpl.operations = "Операции"
+admin.common.images.tpl.addwatermark = "Добавить водяной знак"
+
+admin.images_all_list.tpl.name = Название
+admin.images_all_list.tpl.basket = Корзина
+admin.images_all_list.tpl.link = Ссылка
+admin.images_all_list.tpl.created = Создано
+admin.images_all_list.tpl.type = Тип
+
+admin.common.conservation.tpl.warning = ВНИМАНИЕ 
+admin.common.conservation.tpl.systemuptodate = Система обновлена 
+admin.common.conservation.tpl.recupdate = "Рекомендуем установить обновления!"
+admin.common.conservation.tpl.yoursystemuptodate = "Ваша система обновлена!"
+admin.common.conservation.tpl.widgetuptodate = Виджеты обновлены
+admin.common.conservation.tpl.yourwidgetmuptodate = Все виджеты обновлены!
+admin.common.conservation.tpl.updateallwidgets = "Обновить все виджеты"
+admin.common.conservation.tpl.systemcleaningxxx = Очистка системы
+admin.common.conservation.tpl.cleancache = Очистить кэш
+admin.common.conservation.tpl.cleandatabase = Очистить базу данных
+admin.common.conservation.tpl.systemcleaning = Очистить сообщения
+admin.common.conservation.tpl.subpages = Подстраниц
+admin.common.conservation.tpl.files = Файлов
+admin.common.conservation.tpl.pictures = Картинок
+admin.common.conservation.tpl.logs = Логов
+admin.common.conservation.tpl.clearallnotifications =  Очистить все сообщения
+admin.common.conservation.tpl.nots = Сообщения
+admin.common.conservation.tpl.close =Закрыть
+admin.common.conservation.tpl.recommendact = "Рекомендуем установить обновления!"
+admin.common.conservation.tpl.thumbnailclear = Ежемесячная очистка миниатюр
+admin.system.tpl.systemclear = Очистка системы
+admin.system.tpl.strongsystemclear = Интенсивная очистка системы 
+
+admin.common.statistics.tpl.avg =  Средняя 
+admin.common.statistics.tpl.today = Сегодня
+admin.common.statistics.tpl.24 = 24 часа
+admin.common.statistics.tpl.7days = 7 дней
+admin.common.statistics.tpl.30days = 30 дней
+admin.common.statistics.tpl.all = Все
+admin.common.statistics.tpl.visits = Просмотры
+admin.common.statistics.tpl.avg24 = Приблизительно 24 часа
+admin.common.statistics.tpl.avg7 = Приблизительно 7 дней
+admin.common.statistics.tpl.avg30 = Приблизительно 30 дней
+admin.common.statistics.tpl.logs = Логов
+admin.common.statistics.tpl.subpages = Подстраниц
+admin.common.statistics.tpl.users = Пользователей
+admin.common.statistics.tpl.files = Файлов 
+admin.common.statistics.tpl.graphics = Картинок
+admin.common.statistics.tpl.views = Просмотров
+admin.common.statistics.tpl.mostviewed = Самые просматриваемые
+admin.common.statistics.tpl.comments = Комментарии 
+admin.common.statistics.tpl.mostcommented = Самые комментируемые
+admin.common.statistics.tpl.positiveratings = Положительных оценок
+admin.common.statistics.tpl.toprated = Лучшие
+admin.common.statistics.tpl.negativeratings = Отрицательных оценок
+admin.common.statistics.tpl.versions = Версии 
+admin.common.statistics.tpl.mailessent = Отправленных сообщений
+admin.common.statistics.tpl.filesdownloads = Загрузок файлов
+admin.common.statistics.tpl.logs = Logów = Логов
+admin.common.statistics.tpl.alex = Мониторинг Alexa
+admin.common.statistics.tpl.google = Мониторинг Google
+admin.common.statistics.tpl.deactivate = Деактивировать систему
+admin.common.statistics.tpl.activate = Активировать систему 
+admin.common.statistics.tpl.warning = "ВНИМАНИЕ! Подсистема деактивирована! Данные не собираються! Активировать систему в режиме "Разработчик"!"
+admin.common.statistics.tpl.stats = Статистика
+admin.common.statistics.tpl.last90 = "Последние 90 дней"
+admin.common.statistics.tpl.increases = рост на протяжении последних 90 дней 
+admin.common.statistics.tpl.last3 = Поледние 3 дня
+admin.common.statistics.tpl.last7 = Последние 7 дней
+admin.common.statistics.tpl.range = Полный объём
+admin.common.statistics.tpl.visitsacc = Просмотры по способу считывания
+admin.common.statistics.tpl.requests = Запросы
+
+admin.common.plus.polls.tpl.add = Добавить опрос
+admin.common.plus.polls.tpl.polls = Опросы
+admin.common.plus.polls.tpl.questions = Вопросы
+admin.common.plus.polls.tpl.addansw = Добавить ответ
+admin.common.plus.polls.tpl.addquest = Добавить вопрос
+admin.common.plus.polls.tpl.votes = Голоса
+
+admin.common.pro.firewall.tpl.create = Создать htaccess 
+admin.common.pro.firewall.tpl.deactivate = Деактивировать систему 
+admin.common.pro.firewall.tpl.activate = Активировать систему
+admin.common.pro.firewall.tpl.warning = "ВНИМАНИЕ! Подсистема деактивирована! Данные не собираються!"
+admin.common.pro.firewall.tpl.blocked = Заблокированные 
+admin.common.pro.firewall.tpl.activatex = Активировать
+admin.common.pro.firewall.tpl.deactivatex = Деактивировать
+admin.common.pro.firewall.tpl.delete = Удалить 
+admin.common.pro.firewall.tpl.noelements = Элементы отсутствуют
+admin.common.pro.firewall.tpl.settings = Настройки
+admin.common.pro.firewall.tpl.frequent = Самые популярные веб-страницы
+admin.common.pro.firewall.tpl.graph = График посещяемости от IP
+admin.common.pro.firewall.tpl.limit = Ограничение просмотров за один час 
+admin.common.pro.firewall.tpl.email = E-mail адрес службы техподдержки
+ 
+admin.tools.tpl.polls = "Опросы"
+admin.tools.tpl.polls.description  ="Инструмент для создания И управления опросами"
+admin.tools.tpl.monitoring = "Мониторинг"
+admin.tools.tpl.monitoring.description = "Инструмент для мониторинга статуса страницы"
+
+admin.common.log.tpl.logs = Логов
+admin.common.log.tpl.types = Типы
+admin.common.log.tpl.clearinglogs = Очистка  логов
+admin.common.log.tpl.last3days = Последние три дня 
+admin.common.log.tpl.all = Все
+admin.common.log.tpl.loglist = Список логов
+admin.common.log.tpl.error = Ошибка 404
+admin.common.log.tpl.syserror = Системные ошибки
+admin.common.log.tpl.logerror = Ошибка входа
+admin.common.log.tpl.deact = Деактивировать систему
+admin.common.log.tpl.act = Активировать систему
+admin.common.log.tpl.warn = "ВНИМАНИЕ! Подсистема деактивирована! Данные не собираются!"
+
+admin.controller.pro.cron.tpl.last24 = Последние 24 часа
+admin.controller.pro.cron.tpl.last7 = Последние 7 дней
+admin.controller.pro.cron.tpl.last30 =  Последние 30 дней
+admin.controller.pro.cron.tpl.hour = Каждый час
+admin.controller.pro.cron.tpl.day = Ежедневно
+admin.controller.pro.cron.tpl.week = Еженедельно
+admin.controller.pro.cron.tpl.month =  Ежемесячно
+admin.controller.pro.cron.tpl.all = Всё
+
+admin.filesmodal.tpl.name = Название
+admin.filesmodal.tpl.size = Размер (КВ)
+
+admin.common.log_list.tpl.type = Тип
+admin.common.log_list.tpl.info = Информация
+admin.common.log_list.tpl.date = Дата
+admin.common.log_list.tpl.quant = Количество
+
+admin.common.backup.tpl.warning ="ВНИМАНИЕ!"
+admin.common.backup.tpl.createbackupcopy ="Рекомендуем сделать резервную копию!"
+admin.common.backup.tpl.allok = "Все в порядке"
+admin.common.backup.tpl.recomendedcopy = "Рекомендуем сделать резервную копию,так как последняя не была создана в течении последних 30 дней " 
+admin.common.backup.tpl.copyexists = "Актуальная версия резервной копии создана в течении последних 30 дней."
+
+
+
+admin.common.update.tpl.doupadate = "Рекомендуем установить обновления!"
+admin.common.update.tpl.systemuptodate = Система обновлена 
+admin.common.update.tpl.systemisuptodate = "Ваша система обновлена!"
+admin.common.update.tpl.updatehistory = История обновлений
+
+admin.mail.base.termsbottom = "Это e-mail сообщение отправлено из системы Windu CMS,установленной на сайте"
+
+admin.mail.registeradminuser.tpl.welcome ="Приветствуем в" 
+admin.mail.registeradminuser.tpl.yourusername = "Имя пользователя"
+admin.mail.registeradminuser.tpl.yourpassword = "Пароль: "
+admin.mail.registeradminuser.tpl.loginlink =  "Ссылка для входа: "
+admin.mail.registeradminuser.tpl.reminder = "Przypominamy że każda publikowana strona MUSI posiadać aktywny i widoczny link bez deklaracji nofollow w stopce strony lub w innym widocznym miejscu. Link powinien prowadzić do strony www.windu.org" = "ВНИМАНИЕ! Каждая опубликованная веб-страница должна иметь активную ссылку без декларации nofollow в колонтитуле страницы или в другом заметном месте. Ссылка должна следовать к сайту windu.org"
+admin.mail.registeradminuser.tpl.resetpass = "Перейдите по ссылке для получения нового пароля: "
+admin.mail.registeradminuser.tpl.systemsend = "Система отправит Вам новый пароль на электронную почту."
+
+admin.content.tpl.pages = Подстраницы
+admin.content.tpl.languages = Языки
+admin.content.tpl.trash = Kosz = Корзина
+admin.content.tpl.autosave = Автозапись
+admin.content.tpl.settings = Настройки
+admin.content.tpl.functions = Функции 
+admin.content.tpl.editimages = Редактирование фотографии
+admin.content.tpl.description = Описание
+admin.content.tpl.addlanguage = Добавить язык
+admin.content.tpl.edit = Редактирование
+admin.content.tpl.help = помощь
+admin.content.tpl.sort = порядок
+admin.content.tpl.showall = развернуть
+admin.content.tpl.emptytrash = Очистить корзину
+admin.content.tpl.addnews = Добавить новость
+admin.content.tpl.newslist = Список новостей
+admin.content.tpl.restore = Места восстановления
+admin.content.tpl.choserestorepoint = Выберите место восстановления
+admin.content.tpl.trash.preview ="Для просмотра содержания элемента используйте лупу."
+admin.content.tpl.deleteallautosaves = "Удалить все записи"
+admin.content.tpl.chooseelementdisp = Выбрать элемент дял просмотра
+admin.content.tpl.trash.bucket = Корзина пуста
+
+
+admin.content_info.controller.lastedited = Последние редактированные 
+admin.content_info.controller.active = Активных
+admin.content_info.controller.hidden = Скрытых
+admin.content_info.controller.trash =  В корзине
+admin.content_info.controller.pages = Подстраниц
+admin.content_info.controller.news = Новостей
+admin.content_info.controller.links = Ссылок
+admin.content_info.controller.groups =  Групп 
+admin.content_info.controller.gallery = Галереи
+admin.content_info.controller.newsgroup = Групп новостей
+admin.content_info.controller.awaiting = Ожидают на публикацию
+
+
+admin.content.common.tpl.languages = Языки
+admin.content.common.tpl.pageslist = Список подстраниц
+admin.content.common.tpl.addimages = Добавить картинки
+admin.content.common.tpl.addfiles = Добавить файлы
+admin.content.common.tpl.imagelistingalery = Список картинок в галерее
+admin.content.common.tpl.help = Помощь
+admin.content.common.tpl.trashcontent = Содержание корзины
+admin.content.common.tpl.configuration = Конфигурация
+admin.content.common.tpl.edit = Редактирование 
+admin.content.common.tpl.addwidget = Добавить код виджета 
+admin.content.common.tpl.addelement = Добавить элемент
+
+admin.config.tpl.constant = Константа
+admin.config.tpl.addconstanttoconfig = Добавить константу в Config
+admin.config.tpl.add = Добавить 
+
+
+admin.users.ctpl.admins = Администраторы 
+admin.users.ctpl.users = Пользователи 
+admin.users.ctpl.authorization = Разрешения
+admin.users.tpl.adduser = Добавить пользователя 
+admin.users.ctpl.settings = Настройки 
+admin.users.tpl.addtypeofauth = Добавить тип разрешения
+admin.users.tpl.addtypeofauthpanels =  Добавить разрешения в панель
+admin.users.tpl.edit = Редактирование 
+admin.users.tpl.help = Помощь
+admin.users.ctpl.add = Добавить
+admin.users.ctpl.comments = Комментарии 
+admin.users.ctpl.review = Просмотр
+admin.users.ctpl.history = история
+admin.users.common.tpl.typesofauth = Тип разрешений
+admin.users.common.tpl.extension = Расширение 
+admin.users.common.tpl.regexp = Правило 
+admin.users.hist.action = история
+admin.users.hist.type = тип
+admin.users.hist.user = пользователь
+admin.users.hist.data = данные
+admin.users.hist.time = время
+admin.users.hist.add = дополнение
+admin.users.hist.edit = издание
+admin.users.hist.del = отмена
+admin.users.hist.other = другой
+admin.users.hist.hide = скрывать
+admin.users.hist.show = шоу
+admin.users.hist.tabel = стол
+
+admin.themes.tpl.graphictemplates = Шаблоны
+admin.themes.tpl.widgets = Виджеты
+admin.themes.tpl.settings = Настройки
+admin.themes.tpl.edit = Редактирование 
+admin.themes.tpl.help = Помощь
+admin.themes.tpl.noelements = Элементы отсутствуют
+
+admin.themes.controller.image = Картинка
+admin.themes.controller.zip = Пакет ZIP
+admin.themes.controller.zipdescription = ZIP файл с шабоном или виджетом
+admin.themes.controller.css = Файл CSS
+admin.themes.controller.js = Файл JS
+admin.themes.controller.doc  = Файл TXT
+admin.themes.controller.imagedescription = Картинка загружается в шаблон,который позже можно вставить в графику
+admin.themes.controller.cssdescription = Файл CSS автоматически добавляется к шаблону 
+admin.themes.controller.jsdescription = Файл JS автоматически добавляется к шаблону 
+admin.themes.controller.txtdescription = Файл TXT автоматически добавляется к шаблону
+admin.themes.controller.add = Добавить 
+admin.themes.controller.addtemplatezip = "Добавить шаблон с ZIP файла" 
+admin.themes.controller.addtemp = "Добавить шаблон"
+admin.themes.controller.addclean = "Добавит чистый виджет"
+admin.themes.controller.addfromzip = "Добавить виджет с ZIP файла"
+admin.themes.controller.lang = Языковой файл
+
+admin.themes.common.tpl.graphicstyles = Графические стили 
+admin.themes.common.tpl.widgets = Виджеты
+admin.themes.common.tpl.widgets.deactivated = "Неактивные виджеты"
+admin.themes.common.tpl.newupdate = "Доступны обновления для виджетов!"
+admin.themes.common.tpl.forupdate = Необходимо обновить некоторые виджеты
+admin.themes.common.tpl.updateall = Обновить все 
+admin.themes.common.tpl.nowidgets = No widgets 
+admin.themes.common.tpl.widgetsnotinst = Виджеты не установлены 
+
+admin.index.tpl.icons = Значки 
+admin.index.tpl.welcome = Здравствуйте
+
+
+
+admin.index.tpl.deleteedit = Здесь можно добавлять, удалять, а также редактировать тексты  на Вашем сайте 
+admin.index.tpl.addusers = Здесь можно управлять пользователями сайта и админпанелью, а также их полномочиями.
+admin.index.tpl.themes = Здесь можно полностью сконфигурировать графический проект сайта.
+admin.index.tpl.tools = Здесь находятся разные дополнительные инструменты (например, мейлинговая система).
+admin.index.tpl.config = Конфигурационная панель это место, которое позволяет управлять настройками системы CMS
+admin.index.tpl.system = Информация о состоянии системы, обновлениях и т.д. 
+
+
+admin.backup.tpl.backup = Backup
+admin.backup.tpl.settings = Настройки 
+admin.backup.tpl.backupcopy = Создать резервную копию
+admin.backup.tpl.help = Помощь
+admin.backup.tpl.edit = Редактирование
+
+admin.backup.common.tpl.backuplist = Список бэкапов
+admin.system.tpl.system = Система
+admin.system.tpl.commonsystemerrors = Системные ошибки
+admin.system.tpl.log = Логи
+admin.system.tpl.cron = Cron
+admin.system.tpl.notifications = Сообщения
+admin.system.tpl.maintenance = Технический перерыв
+admin.system.tpl.stats = Ститистика
+admin.system.tpl.update = Обновления
+admin.system.tpl.settings = Настройки 
+admin.system.tpl.adminlist = Список администраторов
+admin.system.tpl.systemfolders = Системные папки 
+admin.system.tpl.refreshdata = Обновить данные
+admin.system.tpl.lastusers = Последние входы пользователей 
+admin.system.tpl.commonerrors = Самые частые ошибки 404
+admin.system.tpl.cleanlast90 = Удалить последние 90 дней 
+admin.system.tpl.cleanlast30 = Удалить последние 30 дней 
+admin.system.tpl.cleanlast7 = Удалить последние 7 дней 
+admin.system.tpl.cleanall = "Удалить все"
+admin.system.tpl.updatesystem = "Обновить систему"
+admin.system.tpl.systemuptodate = "Система обновлена"
+admin.system.tpl.help = Помощь
+admin.system.tpl.backup = Backup
+admin.system.tpl.backupcopy = Создать резервную копию
+admin.system.tpl.license = Лицензия
+admin.system.tpl.memory = Память 
+admin.system.tpl.deletecache = Удалить кэш-память страницы
+admin.system.tpl.viewsite = Просмотр страницы
+admin.system.tpl.notepad = Блокнот
+admin.system.tpl.addkey = Введите полученный лицензионный ключ.<br><br><strong>UWAGA</strong><br> Лицензионный ключ будет автоматически добавлен к домену или интернет-адресу, с которого был активирован(включая субдомен или подкаталог,которые засчитываются как очередные адреса).
+admin.system.tpl.gz = "Отлично!Поздравляем!"
+admin.system.tpl.licensetype = "Тип лицензии: "
+admin.system.tpl.amount = "КОличество свободных лицензий: "
+admin.system.tpl.activelicense = Вы владеете активной лицензией 
+admin.system.tpl.noelements = Элементы отсутствуют
+admin.system.tpl.main = Домашняя страница
+admin.system.tpl.search = Искать в адмипанели
+admin.system.tpl.notices = Сообщения
+admin.system.tpl.add = Добавить 
+admin.system.tpl.noelements = Элементы отсутствуют
+admin.system.tpl.listactive = Список активной переадресации
+admin.system.tpl.groupip = Группирование по IP
+admin.system.tpl.groupurl = Группирование по URL
+admin.system.tpl.lastacceslogs = Последние запросы
+admin.system.tpl.updata = Обновить данные
+admin.system.tpl.deactsys = Деактивировать систему
+admin.system.tpl.actsys = Активировать систему
+admin.system.tpl.req = "Для правильной работы статистики необходима система!"
+admin.system.tpl.warn = "ВНИМАНИЕ! Подсистема деактивирована! Данные не собираются!"
+admin.system.tpl.acceslogwarn = "ВНИМАНИЕ! Подсистема RequestLog деактивирована! Данные не собираются!"
+admin.system.tpl.loglist = Список логов 
+admin.system.tpl.last3 = Последние 3 дня
+admin.system.tpl.last7 = Последние 7 дней
+admin.system.tpl.last30 = Последние 30 дней 
+admin.system.tpl.wholer = Полный объём
+admin.system.tpl.polled24 = Запросов за 24 часа
+admin.system.tpl.polled7 = Запросов за 7 дней
+admin.system.tpl.polled30 = Запросов за 30 дней
+admin.system.tpl.polledgen = Запросов в общем
+admin.system.tpl.mostfreq = Самые посещаемые сайты
+admin.system.tpl.asked = Самые запрашиваемые IP 
+admin.system.tpl.panel = Показать панель
+
+admin.system.common.tpl.backuplist = Список бэкапов
+
+
+admin.install.tpl.adminpanel = Панель администратора
+admin.install.tpl.creator = Конструктор
+admin.install.tpl.cantsave = Невозможно сохранить файлы
+admin.install.tpl.continueinstall = Продолжить установку 
+admin.install.tpl.begininstall = Начать установку
+admin.install.tpl.terms = Правила пользования 
+admin.install.tpl.termslink = <a href="http://windu.org/regulamin" target="blank">regulamin</a>
+admin.install.tpl.clickaccept = Кликая, Вы соглашаетесь
+
+admin.imgupload.tpl.addfiles = Add files...
+admin.imgupload.tpl.startup = Start upload
+admin.imgupload.tpl.cancelup = Cancel upload
+admin.imgupload.tpl.delete = Delete
+ 
+
+admin.main.tpl.editprofile = Редактировать профиль
+admin.main.tpl.devmode =  Режим админпанели
+admin.main.tpl.devmodeallowed = Разрешён режим админпанели
+admin.main.tpl.logout = Выход
+admin.main.tpl.settings = Настройки
+admin.main.tpl.design = Проект и реализация:
+admin.main.tpl.up = Вверх
+admin.main.tpl.notes = Задания
+admin.main.tpl.notivications = Сообщения
+admin.main.tpl.buypro = Купить лицензию PRО
+admin.main.tpl.allowedothers = Остальные разрешения
+admin.pinit = Добавить в закладки
+
+admin.tools.tpl.tools = Инструменты
+admin.tools.tpl.addtemplate = Добавить шаблон 
+admin.tools.tpl.addcontact = Добавить контакт 
+admin.tools.tpl.addcontactlist = Добавить список контактов 
+admin.tools.tpl.createmailing = Создать рассылку
+admin.tools.tpl.cancel = Отменить 
+admin.tools.tpl.test = Тест 
+admin.tools.tpl.moderator = Модератор
+admin.tools.tpl.moderator.description = Панель модерирования. Здесь можно просматривать новые комментарии и новых пользователей
+admin.tools.tpl.stats = Статистика 
+admin.tools.tpl.stats.description = Панель с расширенной статистикой веб-страницы.
+admin.tools.tpl.backup = Backup
+admin.tools.tpl.backup.description = Панель позволяющий создавать резервные копии полного содержания страницы
+admin.tools.tpl.mailing = E-mail рассылка
+admin.tools.tpl.mailing.description = Здесь можно создать массовую  e-mail рассылку.
+admin.tools.tpl.sendallmailings = Отправить активные рассылки
+admin.tools.tpl.contact = Контакты
+admin.tools.tpl.contact.description = Здесь можно управлять списками контактов 
+admin.tools.tpl.contact.sendedEmails = Отправленных писем 
+admin.tools.tpl.contact.contacts = Контактов
+admin.tools.tpl.banners = Баннеры
+admin.tools.tpl.banners.description = Система управления рекламными баннерами  на веб-странице
+admin.tools.tpl.editbanner = РедактироваТь баннер 
+admin.tools.tpl.firewall.description = Система ограничения хакерских атак на веб-страницу
+admin.tools.tpl.firewall = Firewall 
+admin.tools.tpl.requestlog.description = Отображает список всех запросов Вашего сервера в форме умного списка
+admin.tools.tpl.requestlog = Request Log 
+admin.tools.tpl.sentstats = Статистика отправленных писем
+admin.tools.tpl.rss.description = Здесь можно управлять каналами RSS
+admin.tools.tpl.calendar = Календарь
+admin.tools.tpl.addarea = добавить область
+
+admin.tools.tpl.file = Файлы 
+admin.tools.tpl.file.description = Здесь можно управлять файлами для загрузок.
+admin.tools.tpl.images = Картинки
+admin.tools.tpl.images.description = Здесь можно управлять картинками.
+admin.tools.tpl.seo = Seo 
+admin.tools.tpl.rss = RSS 
+admin.tools.tpl.seo.description = Здесь можно управлять картами сайта,кодами интеграции с google и т.д.
+admin.tools.tpl.database = База данных 
+admin.tools.tpl.database.description = Здесь можно управлять базой данных, а также изменять ее содержание.
+admin.tools.tpl.database.tables = Таблицы
+admin.tools.tpl.database.path = "Путь к файлу таблицы"
+admin.tools.tpl.database.recordnumber= "Количество рекордов"
+admin.tools.tpl.database.columnnumber = "Количество колонок"
+
+admin.tools.tpl.emailadress = e-mail адреса 
+admin.tools.tpl.email = e-mail
+
+admin.images_multiuploader.tpl.addfiles = Добавить файлы
+admin.images_multiuploader.tpl.startupload = Начать отправку 
+admin.images_multiuploader.tpl.cancelupload = Отменить отправку
+
+
+admin.notify_closed.tpl.notificationinactive = Неактивные сообщения
+admin.notify_closed.tpl.dateofadding = Дата добавления
+admin.notify_closed.tpl.priority = Приоритет
+
+admin.notify.nosystemrun.firewall = Винду Брандмауэр деактивирован, система более уязвима к DDOS атак
+admin.notify.nosystemrun.log = Система сбора журнал деактивирован, Винду не сбор информации о ваших посещениях сайта
+admin.notify.nosystemrun.statistic = Система статистики деактивирован, Винду не считая посещений
+admin.notify.nosystemrun.monitoring = Система мониторинга данных деактивирован, Винду не собирая статистику системы
+admin.notify.nosystemrun.requestLog = Система сбора информации о каждом перезагрузки страницы деактивирован, данные не собирались
+
+admin.notify_list.tpl.notification = Сообщение
+admin.notify_list.tpl.dateofading = Дата добавления
+admin.notify_list.tpl.priority = Приоритет
+admin.notify_list.tpl.type = Тип
+
+admin.content.controller.newlangname = Название нового языка 
+admin.content.controller.giveelementname = "Ввести названия элемента"
+admin.content.controller.elementname = Название элемента
+admin.content.controller.elementtype = Тип элемента 
+admin.content.controller.linkname = Название ссылки 
+admin.content.controller.adresstaken = "Указанный адрес уже занят"
+admin.content.controller.sitetitle = Название страницы в секции Title будет создано автоматически в случае если не будет добавлено вручную.
+admin.content.controller.descriptioninsection = Описание в секции description в метатегах. Описание будет создано автоматически в случае если не будет добавлено вручную.
+admin.content.controller.keywords = Ключевые слова в секции keywords в метатегах. Ключевые слова  будут созданы автоматически в случае если не будут добавлены вручную.
+admin.content.controller.sitetags = Таги страницы показаны как система тагов.
+admin.content.controller.chosentemplate = Добавляет избранный шаблон для элемента
+admin.content.controller.chosendefaulttemplate = Добавляет шаблон по умочанию как стандартный для конкретной группы элементов
+admin.content.controller.defaulttemplate = Шаблон по умолчанию
+admin.content.controller.adresstaken = "Указанный адрес уже занят" 
+admin.content.controller.image = Основная картинка
+admin.content.controller.sliderimage = Картинка в слайдере
+admin.content.controller.icon = Значок меню
+admin.content.controller.imagedescription = Значок привязан к элементу. Значок может быть показан например в слайдере или как миниатюра в новости.
+admin.content.controller.icondescription = Значок привязан к элементу.Значок может быть показан например в боковом меню возле названия элемента
+admin.content.controller.name = Название 
+admin.content.controller.description = Описание 
+admin.content.controller.newstitle = Заглавие новости
+admin.content.controller.template = Графический шаблон 
+admin.content.controller.addnews = Добавить новость
+admin.content.controller.tags = Теги
+admin.content.controller.date = Дата публикации 
+admin.content.controller.datedescription = Дата добавления новости отображется на странице
+admin.content.controller.tplfilename = Название файла tpl
+admin.content.controller.url = Адрес URL
+admin.content.controller.restorepoint = Место восстановления 
+admin.content.controller.choserestorepoint = Выберите место восстановление элемента 
+admin.content.controller.typeconvert = "Архивизация типа элемента (возможна только для элементов и пустых групп)"
+admin.content.controller.menucssclass = "CSS класс в меню"
+admin.content.controller.priority = Приоритет страницы показывается роботу в файле sitemap.xml(значение в диапазоне 0-1) 
+admin.content.controller.givecorrecturl = "Введите правильную ссылку"
+admin.content.controller.content = Содержание 
+admin.content.controller.general = Общее
+admin.content.controller.seo = Seo 
+admin.content.controller.ver = Версии 
+admin.content.controller.imageslider = Картинки слайдера
+admin.content.controller.info = Info 
+admin.content.controller.compactversions = Удалить дубликаты
+admin.content.controller.idnumb = Номер ID
+admin.content.controller.numberdisp = Количество просмотров
+admin.content.controller.rating = Оценка
+admin.content.controller.datecrea = Дата создания 
+admin.content.controller.datelastup = Дата последнего обновления
+admin.content.controller.creatorip = Создатели IP 
+admin.content.controller.iplastedit = IP последнего редактора
+admin.content.controller.codeinserted = Код для вставки содержимого
+admin.content.controller.websitelink = Ссылка на сайт
+admin.content.controller.codeslider = Код для вставки слайдера
+admin.content.controller.customfields = Пользовательские поля
+admin.tools.controller.beginingtime = Начало
+admin.tools.controller.endtime = Конец
+admin.content.controller.desc = Описание
+admin.content.controller.maling = Добавить шаблон рассылки
+admin.content.controller.status = Статус
+admin.content.controller.pagestatus = Статус подстраницы
+admin.content.controller.login = Вход
+admin.content.controller.pagelogged = Подстраница для активных пользователей 
+admin.content.controller.block = Блокада
+admin.content.controller.blockdesc = Доступ пользователям ниже уровня девелопера заблокирован
+admin.content.controller.search = Поиск
+admin.content.controller.searchvis = Видимость в результатах поиска
+admin.content.controller.visable = Обозримая 
+admin.content.controller.hidden = Скрытая
+admin.content.controller.deleted = Удалённая 
+admin.content.controller.unlocked = Разблокированная 
+admin.content.controller.locked = Заблокированная 
+admin.content.controller.searched = обнаружена 
+admin.content.controller.notsearched = Не обнаружена
+admin.content.controller.forlogged = Для активных пользователей 
+admin.content.controller.forall = Для всех
+admin.content.controller.template2 = Шаблон
+admin.content.controller.title = Заглавие
+admin.content.controller.description = Description 
+admin.content.controller.keywords = Ключевые слова 
+admin.content.controller.prior = "Priority (sitemap)" 
+admin.content.controller.wrongfiletype ="Неверный тип файла "
+admin.content.controller.watermarkstatus = Статус водяного знака 
+admin.content.controller.watermarkactive = Активный 
+admin.content.controller.watermarkinactive = Неактивный 
+admin.content.controller.heightlimit = Минимальная высота картинки с водяным знаком (в px)
+admin.content.controller.widthlimit = Минимальная ширина картинки с водяным знаком (в px)
+admin.content.controller.heightlimit.small = Минимальная высота 
+admin.content.controller.widthlimit.small = Минимальная ширина
+admin.content.controller.rssfeed = RSS Feed url 
+admin.content.controller.parentgroup = Parent group 
+admin.content.controller.parentgrptooltip = Группа для сообщений rss 
+
+admin.content.controller.watermark = "Znak wodny w PNG" = "Водяной знак в PNG" 
+admin.content.controller.width = "Ширина (в %)"
+admin.content.controller.transparent = "Прозрачность" 
+admin.content.controller.position = "Позиция"
+
+admin.tools.controller.addtemplate = Добавить шаблон сообщения
+admin.tools.controller.edittemplate = Редактировать шаблон сообщения
+admin.tools.controller.addmailinggroup = Добавить группу контактов 
+admin.tools.controller.editmailinggroup = Редактировать группу контактов 
+admin.tools.controller.addcontact = Добавить контакт 
+admin.tools.controller.addmasscontact = Добавить несколько электронных адресов 
+admin.tools.controller.addmasscontactusers = Импортировать адреса от пользователей 
+
+admin.config.controller.name = "Название" 
+admin.config.controller.givename = "Ввести название" 
+admin.config.controller.value = "Значение" 
+admin.config.controller.addvalue = "Введите значение" 
+admin.config.controller.shortdescription = "Сокращённое описание" 
+admin.config.controller.adddescription = "Введите описание" 
+admin.config.controller.description = "Описание" 
+admin.config.controller.type = "Тип" 
+admin.config.controller.typedescription = "Тип добавленного значения" 
+admin.config.controller.addcorectvalue = "Введите правильное значение" 
+admin.config.controller.true = "Да"
+admin.config.controller.false = "Нет"
+
+admin.check.system = "Проверка системы"
+admin.check.checking = "Осуществляется проверка 
+admin.check.cacheOn = "кэш" 
+admin.check.update = "обновление системы"
+admin.check.widgetUpdate = "обновление виджетов" 
+admin.check.winduLink = "совместимость с лицензией"
+admin.check.activation = "активирование системы"
+admin.check.backup = "резервные копии"
+
+admin.login.controller.login = "Вход"
+admin.login.controller.addusername = "Название пользователя" 
+admin.login.controller.autogener = "Создастся автоматически, если не будет введено"
+admin.login.controller.addpassword = "Пароль"
+admin.login.controller.username = "Название пользователя(e-mail)"
+admin.login.controller.password = "Пароль"
+admin.login.controller.rememberme = "Запомнить на 7 дней"
+admin.login.controller.forgotpassword = "Забыл пароль"
+admin.login.controller.resetpassword = "Сброс пароля"
+admin.login.controller.cancel = "Отменить"
+
+admin.mainconfig.controller.addvalue = "Ввести значение"
+admin.mainconfig.controller.value = "Значение"
+
+
+admin.themes.controller.templatename = "Название шаблона"
+admin.themes.controller.addelementname = "Ввести название элемента"
+admin.themes.controller.addvalue = "Название виджета"
+admin.themes.controller.tplfilename = "Название файла tpl"
+
+admin.users.controller.usertype = "Тип пользователя"
+admin.users.controller.login = "E-mail"
+admin.users.controller.permits = "Устанавливает соответствующие разрешения"
+admin.users.controller.email = "E-mail адрес"
+admin.users.controller.giveemail = "Введите e-mail адрес"
+admin.users.controller.givecorrectemail = "Введите правильный e-mail адрес"
+admin.users.controller.emailtaken = "Введённый e-mail адрес уже занят"
+admin.users.controller.password = "Пароль"
+admin.users.controller.autogener = "Будет создан автоматически если не будет введён вручную"
+admin.users.controller.toshortpass = "Слишком короткий пароль"
+admin.users.controller.diffpasswords = "Пароли не совпадают"
+admin.users.controller.repeatpassword = "Повторите пароль"
+admin.users.controller.username = "Название пользователя"
+admin.users.controller.shownname = "Отображается как"
+admin.users.controller.kowal = "Коваль"
+admin.users.controller.name = "Имя"
+admin.users.controller.jan = "Пётр"
+admin.users.controller.surname = "Фамилия"
+admin.users.controller.kowalski = "Сидоров"
+admin.users.controller.nametype = "Назва типа"
+admin.users.controller.addname = "Ввести название типа разрешений"
+admin.users.controller.powersfor = "Разрешения для" 
+admin.users.controller.powerssetting = "Установить разрешения например для страницы или системы CMS"
+admin.users.controller.extension = "Расширение"
+admin.users.controller.powersextension = Устанавливаем расширение разрешений на следующие 
+admin.users.controller.expressionregular = "Регулярное выражение"
+admin.users.controller.addformula ="Введите формулу для классов, которым даем разрешение"
+admin.users.controller.addregularformula ="Введите регулярное выражение"
+admin.users.controller.youruserdata = "Данные пользователя"
+admin.users.controller.empty = "В случае если поле остается незаполненным, пароль не будет изменён" 
+admin.users.controller.usertype = "Тип пользователя"
+
+
+admin.img.upload.controller.imagetobig = "zdjęcie jest zbyt duże" = "слишком большой размер фотографии" 
+admin.img.upload.controller.wrongfileformat = "nieprawidłowy format pliku" = "неправильный формат файла" 
+admin.img.upload.controller.uploadimage = "musisz wgrać zdjęcie" = "загрузите фотографию" 
+
+ 
+admin.install.controller.next = "Dalej" = "Дальше"
+admin.install.controller.welcome = "Witamy w kreatorze instalacji" = "Приветствуем в конструкторе установок"
+admin.install.controller.selectdb = "Wybierz typ bazy danych" = "Выберите тип базы данных" 
+admin.install.controller.setupmysql = "Ustawienia bazy danych MySQL" = "Настройки базы данных MySQL" 
+admin.install.controller.dbinfo = "MySQL - zalecamy tylko dla dużych serwisów powyżej 10 000 podstron, dla mniejszych stron baza dancyh SQLite działa znacznie szybciej." = "Советуем устанавливать MySQ только для больших сайтов ( свыше 10 000 подстраниц). Для меньших сайтов отличным решением будет база данных SQLite, работающая значительно быстрее"
+admin.install.controller.creator = "Kreator pomoże ci postawić pierwsze kroki w Windu CMS, zainstalujesz dzięki niemu szablon i dodasz pierwsze treści!" = "Конструктор поможет Вам сделать первые шаги в системе CMS Windu.С его помощью можно установить шаблон и добавить первые тексты!" 
+admin.install.controller.setadmin = "Ustaw dane administratora" = "Данные администратора" 
+admin.install.controller.installend = "Instalacja zakończona" = "Установка завершена"
+admin.install.controller.setbasicconfig = "Ustawienia podstawowe" = "Общие настройки"
+admin.install.controller.logo = "Logo strony" = "Логотип страницы"
+admin.install.controller.timezone = Strefa czasowa = Часовой пояс
+
+admin.install.controller.pagename = "Название страницы"
+
+
+admin.tools.controller.editmailing = "Редактировать шаблон рассылки"
+admin.tools.controller.addcontact = "Добавить контакт"
+admin.tools.controller.editcontact = "Редактировать контакт" 
+admin.tools.controller.file = Файл 
+admin.tools.controller.filedescription = Выбрать файл для отправки
+admin.tools.controller.newimage = "Новая картинка"
+
+admin.tools.controller.telephone = "Телефон"
+admin.tools.controller.mobile = "Мобильный телефон"
+admin.tools.controller.adress = "Адрес"
+admin.tools.controller.city = "Город"
+admin.tools.controller.code = "Почтовый индекс"
+admin.tools.controller.country = "Страна" 
+admin.tools.controller.taxid = "ИНН"
+admin.tools.controller.other = "Остальное" 
+admin.tools.controller.csv = Файл CSV
+admin.tools.controller.csv.description = Файл формата CSV обслуживается для  импортирования в пакете Open Office, а также  Excel.
+admin.tools.controller.statsnew = Статистика новых контактов 
+
+admin.tools.tpl.banners.addarea = Добавить область
+admin.tools.tpl.banners.area = Рекламная площадь
+admin.tools.tpl.banners.addbanner = "Добавить баннер"
+
+admin.tools.controller.banners.name =  Название области
+admin.tools.controller.banners.width = Ширина баннера
+admin.tools.controller.banners.height = Высота баннера
+
+admin.tools.controller.banners.bannername = Название баннера 
+admin.tools.controller.banners.link = Прямой  адрес URL
+admin.tools.controller.banners.viewslimit = Ограничение просмотров 
+admin.tools.controller.banners.clickslimit = Ограничение кликов 
+admin.tools.controller.banners.startdate = Дата начала
+admin.tools.controller.banners.enddate = Дата завершения
+
+admin.update.controller.checkForUpdates = "Проверка доступных обновлений"
+admin.update.controller.downloadupdate = "Загрузка обновлений"
+admin.update.controller.beginupdate = "Идёт процесс Обновления"
+admin.update.controller.flushcache= "Очистка кэш-памяти"
+admin.update.controller.updatephp = "Идёт процесс обноволения кода PHP"
+admin.update.controller.checksystem = "Проверка системы"
+admin.update.controller.finish = "Завершение настройки"
+admin.update.controller.systemupdate = Обновление системы
+
+model.configdb.controller.general = "Общее"
+model.configdb.controller.content = "Содержание"
+model.configdb.controller.users = "Пользователи"
+model.configdb.controller.gfx = "Графика"
+model.configdb.controller.tools = "Инструменты"
+model.configdb.controller.system = "Система"
+
+admin.notify.update = "Доступны новые обновления для системы"
+admin.notify.cache = "Включить кэш чтобы улучшить скорость действия страницы"
+admin.notify.cache.resources = "Включить кэш для файлов CSS и JS чтобы улучшить скорость действия страницы"
+admin.notify.error.mailer = Mailer Error! Система не может отправлять e-mail сообщения!"
+admin.notify.nowindulink = "Онаружено взломание лицензионного ключа! На Вашей странице нет правильной ссылки к сайту Windu! Впишите ссылку, которая есть в стандартном установочном шаблоне windu."
+admin.notify.activation.filed = "Лицензионный ключ неактивен.Система была отключена до бесплатной версии. Для активации версии PRO/PLUS необходимо ввести корректный лицензионный ключ."
+admin.notify.backup = "Прошло 7 дней от создания последней резервной копии"
+admin.notify.deactivation = "Система была отключена до бесплатной версии по причине изменения домена или окончания срока активности ключа.При наличии свободных ключей систему можно активировать к версии PRO/PLUS."
+admin.notify.widgetupdate = "Доступны обновления виджетов"
+
+admin.system.controller.licensekey = Лицензионный ключ
+admin.system.controller.givelicensekey = Ввести правильный лицензионный ключ
+admin.system.controller.name = Название
+admin.system.controller.emails = E-mail адреса
+admin.system.controller.where = Состояние SQL для таблицы users 
+
+admin.modal.common.tpl.notes = Список заданий
+
+admin.tools.mailing.controller.mailinglist = Список рассылок 
+admin.tools.mailing.controller.mailingname = Название рассылки
+admin.tools.mailing.controller.template = Графический шаблон 
+admin.tools.mailing.controller.contactsgroup = Группа контактов 
+admin.tools.mailing.controller.contacts = Контакты 
+admin.tools.mailing.controller.sendername = Отправитель
+admin.tools.mailing.controller.senderemail = Адрес отправителя
+admin.tools.mailing.controller.subject = Тема сообщения
+
+
+admin.ajax.notes.controller.addnote = Добавить примечание
+admin.ajax.notes.controller.save =  Сохранить примечание
+
+config.long.description.revision = "Номер версии системы"
+config.short.description.revision = "Версия системы"
+config.long.description.install = "Система уже установлена?"
+config.short.description.install = "Внутренняя переменная, сообщающая о необходимости установки системы вручную"
+config.long.description.template = "Графический стиль домашней страницы"
+config.short.description.template = "Актуальный шаблон"
+config.long.description.language = "Язык системы загружается при запуске админпанели"
+config.short.description.language = "Язык системы"
+config.long.description.imgGalleryWidth = "Размер миниатюр в галерее по умолчанию"
+config.short.description.imgGalleryWidth = "Ширина миниатюры по умолчанию"
+config.long.description.imgGalleryHeight = "Ширина миниатюры создаётся в галерее по умолчанию"
+config.short.description.imgGalleryHeight = "Высота миниатюры по умолчанию"
+config.long.description.imgGalleryFit = "Тип обрезки миниатюры в галерее на выбор: original, smart, fixed, limit, thumb"
+config.short.description.imgGalleryFit = "Тип обрезки миниатюры в галерее"
+config.long.description.imgQuality = "Уровень сжатия картинок устанавливаеся от 1 до 100. При значении 100 картинку невозможно сжать"
+config.short.description.imgQuality = "Уровень сжатия картинок"
+config.long.description.systemDir = "Подкаталог на сервере, в котором находится система"
+config.short.description.systemDir = "Подкаталог на сервере"
+config.long.description.newsCount ="Количество новостей, отображаемых по умолчанию после открытия отдела новостей."
+config.short.description.newsCount = "Количество новостей"
+config.long.description.newsLength = "Количество знаков, к которому сокращается новость"
+config.short.description.newsLength = "Количество знаков сокращённой новости"
+config.long.description.newsSpan = "Спан кратный 1/12. Вся ширина поделена на 12 колонн. Выбирая 4, Мы определяем ширину блока на 4/12 всей поверхности."
+config.short.description.newsSpan = "Спан, отвечающий за количество колонок"
+config.long.description.pageName = "Название страницы отображается в разных местах (заголовки регистрационного сообщения и т.д.)"
+config.short.description.pageName = "Название страницы"
+config.long.description.newsBtnCssClass = "Это класс для кнопки &apos;więcej&apos; в новостях"
+config.short.description.newsBtnCssClass = "CSS класс кнопки БОЛЬШЕ" 
+config.long.description.cache = "Переменная  отвечает за включение редактора, позволяющего производить изменения непосредственно на странице"
+config.short.description.inPlaceEditor = "Редактор типа inPlace"
+config.long.description.inPlaceEditor = "Переменная  отвечает за включение редактора, позволяющего производить изменения непосредственно на странице"
+config.long.description.commentsStatus = "Этот статус настривается после добавления комментария. Неактивный статус обозначается как 0, активный как 1"
+config.short.description.commentsStatus = "Статус комментария по умолчанию"
+config.long.description.newsLengthTitle = "Слишком длинное заглавие сокращённой новости будет обрезано к такому количеству знаков."
+config.short.description.newsLengthTitle = "Количество знаков в заглавии сокращённого сообщения"
+config.long.description.tagsCount = "Максимальное количество тегов, которое появится в списках тегов, если ен будут внесены изменения в коде вставки виджета"
+config.short.description.tagsCount = "Максимальное количество тегов в списке"
+config.long.description.sliderImageFit = "Фильтр картинок в слайдере по умолчанию"
+config.short.description.sliderImageFit = "Тип адаптации картинок в слайдере"
+config.long.description.sliderImageFilter = "Фильтр картинок в слайдере по умолчанию"
+config.short.description.sliderImageFilter = "Фильтр картинок"
+config.long.description.sliderContentLenght = "Количество знаков, к которому обрезается подпись по умолчанию"
+config.short.description.sliderContentLenght = "Длина подписи"
+config.long.description.contentListLength = "Количество знаков, к которому обрезается подпись по умолчанию" 
+config.short.description.contentListLength = "Длина подписи"
+config.long.description.sliderCount = "Количество циклических картинок в слайдере по умолчанию"
+config.short.description.sliderCount = "Количество картинок в слайдере"
+config.long.description.imgSmallWidth = "Ширина маленькой миниатюры по умолчанию"
+config.short.description.imgSmallWidth = "Ширина маленькой миниатюры фотографии" 
+config.long.description.imgSmallHeight = "Высота маленькой миниатюры фотографии по умолчанию"
+config.short.description.imgSmallHeight = "Высота маленькой миниатюры"
+config.long.description.imgMediumWidth = "Ширина средней миниатюры по умолчанию"
+config.short.description.imgMediumWidth = "Ширина средней миниатюры"
+config.long.description.imgMediumHeight = "Высота средней миниатюры""
+config.short.description.imgMediumHeight = "Высота средней миниатюры"
+config.long.description.imgBigWidth = "Ширина большой миниатюры"
+config.short.description.imgBigWidth = "Ширина большой миниатюры"
+config.long.description.imgBigHeight = "Высота большой миниатюры"
+config.short.description.imgBigHeight = "Высота большой миниатюры"
+config.long.description.sitemap = sitemap 
+config.short.description.sitemap = sitemap 
+config.long.description.analiticscode = Код analitics
+config.short.description.analiticscode = Код analitics
+config.long.description.googleverifycontent =  Проверочный код Google 
+config.short.description.googleverifycontent = "Проверочный код Google"
+config.long.description.leftpanelopen = "Панель редактирования страницы"
+config.short.description.leftpanelopen = "Переменная сообщает о том, включена ли админпанель редактирования страницы, которую можно увидеть с левой стороны домашней страницы"
+
+
+config.long.description.imgFit = "Настройка размеров маленькой картинки по умолчанию"
+config.short.description.imgFit = "Dopasowanie przycinania obrazka" = "Адаптация обрезки картинки"
+config.long.description.imgFilter = "Фильтр картинки по умолчанию:"
+config.short.description.imgFilter = "Фильтр картинки" 
+config.long.description.userActive = "Переменная, сообщающая о том, нужно ли активировать по умолчанию нового пользователя"
+config.short.description.userActive = "Статус пользователя по умолчанию"
+config.long.description.mailingSendLimit = "Ограничение отправки рассылки в одном проходе"
+config.short.description.mailingSendLimit = "Ограничение отправки рассылки"
+config.long.description.userMailActivation = "Пользователь получит сообщение на свой адрес e-mail  со ссылкой для активации." 
+config.short.description.userMailActivation = "Активирование пользователя осуществляется через сообщение e-mail"
+config.long.description.commentsLoggedUser = "комментарии доступны только для активных пользователей" 
+config.short.description.commentsLoggedUser = "Комментирование только для активных пользователей" 
+config.long.description.cacheLife = "Время перед очисткой кэш-памяти (в секундах)"
+config.short.description.cacheLife = Продолжительность жизни кэш 
+config.long.description.cache = "Переменная, сообщающая о необходимости кэширования страницы с использованием кэш-системы smarty"
+config.short.description.cache = Кэш-память сайта
+config.long.description.cacheResources = "После активации кэширования создается один сжатый файл css и js, что позволяет увеличить эффективность сайта"
+config.short.description.cacheResources = "Кэш-память для  файлов CSS и JS"
+config.long.description.license = Запрещено изменять этот тип лицензии Windu. Изменения возможны только после активирования системы в версии PRO.
+config.short.description.license ="Тип лицензии Windu"
+config.long.description.downloadedRevision = "Номер загруженной версии"
+config.short.description.downloadedRevision = "Номер загруженной версии" 
+config.long.description.updateServerRevision = "Номер версии сервера обновлений"
+config.short.description.updateServerRevision = "Номер версии сервера новостей"
+config.long.description.imgGalleryFullWidth = "Размер большой фотографии  в галерее  после нажатия на миниатюру"
+config.short.description.imgGalleryFullWidth = "Размер большой фотографии в галерее" 
+config.long.description.imgGalleryFullHeight =  "Размер большой фотографии  в галерее  после нажатия на миниатюру"
+config.short.description.imgGalleryFullHeight = "Размер большой фотографии  в галерее"
+config.long.description.backgroundAdmin5 = "Фон"
+config.short.description.backgroundAdmin5 = "Фон"
+config.long.description.sessionToken = "sessionToken" 
+config.short.description.sessionToken = "sessionToken" 
+config.long.description.winduLink = "Windu Link" 
+config.short.description.winduLink = "Windu Link"
+config.long.description.contentListCount = "Количество элементов в списке отображаемой подстраницы вызываемой contentListShow или tagsShowNormal."
+config.short.description.contentListCount = "Количество элементов в списке"
+config.long.description.licenseKey = "Лицензионный ключ"
+config.short.description.licenseKey = "Лицензионный ключ"
+config.long.description.editorCKEType = "Возможные значения : minimal, basic, normal, full"
+config.short.description.editorCKEType = "Тип редактора текстов"
+config.long.description.adminLanguage = "Переменная, которая сообщает о языке панели администратора"
+config.short.description.adminLanguage = "Язык админпанели"
+config.long.description.frontLanguage = "Переменная, которая сообщает о языке домашней страницы"
+config.short.description.frontLanguage = "Язык домашней страницы"
+config.long.description.sitemap = "Переменная сообщает о состоянии автоматического генератора страницы. При этом карта будет создаватся ежедневно"
+config.short.description.licenseKey = "Автоматическое создание файла sitemap.xml"  
+config.long.description.timezone = "Часовой пояс"
+config.short.description.timezone = "Переменная,которая описывает часовой пояс, в котром функционирует сайт"
+
+config.long.description.firewallRequestLimit = "Переменная сообщает о том, сколько раз на протяжении часа наш сайт может запросить данные IP"
+config.short.description.firewallRequestLimit = "Ограничение запросов брандмаэра на час"
+config.long.description.firewallEmail = "На этот адрес электронной почты будут отправлятся сообщения о превышении ограничения запросов через данные IP"
+config.short.description.firewallEmail = E-mail адрес для сообщений брандмауэра
+
+config.long.description.SystemRun-monitoringAlexa = "Переменная сообщает о необходимости создания ежедневного отчёта данных из Alexa Rank"
+config.short.description.SystemRun-monitoringAlexa = "Мониторинг Alexa"
+config.long.description.SystemRun-monitoringGoogle = "Переменная сообщает о том, нужно ли системе создавать ежедневный отчёт данных с Google PR и Google Page Speed"
+config.short.description.SystemRun-monitoringGoogle = "Мониторинг Google"
+
+config.long.description.SystemRun-firewall = "Перемення сообщает о необходимости включения системы брандмауэра"
+config.short.description.SystemRun-firewall = "Firewall" 
+config.long.description.SystemRun-log = "Переменная сообщает о том, когда нужно включать систему записи системных событий"
+config.short.description.SystemRun-log = "Журнал событий"
+config.long.description.SystemRun-requestLog = "Переменная сообщает о том, нужно ли включать систему записи в журнале запросов к сайту"
+config.short.description.SystemRun-requestLog = "Request log"
+config.long.description.SystemRun-monitoring = "Переменная сообщает о том, когда нужно включать систему мониторинга" 
+config.short.description.SystemRun-monitoring = "Мониторинг"
+config.long.description.SystemRun-statistic = "Переменная сообщает о том, когда нужно включать систему статистики"
+config.short.description.SystemRun-statistic = "Статистика сайта" 
+
+
+admin.moderator.users.active.tpl.username = "Название пользователя"
+admin.moderator.users.active.tpl.ipadress = "IP-адрес"
+admin.moderator.users.active.tpl.noresults = "Результатов не обнаружено"
+
+admin.moderator.userlist.tpl.username = "Название пользователя"
+admin.moderator.userlist.tpl.status = "Статус"
+admin.moderator.userlist.tpl.ipadress = "IP-адрес"
+admin.moderator.userlist.tpl.creationdate = "Дата создания"
+admin.moderator.userlist.tpl.name = "Имя" 
+admin.moderator.userlist.tpl.surname = "Фамилия"
+admin.moderator.userlist.tpl.comments = "Комментарии" 
+admin.moderator.userlist.tpl.gades = "Оценки" 
+admin.moderator.userlist.tpl.noresults = "Результатов не обнаружено"
+
+admin.moderator.comments.tpl.inactivecom = Неактивные комментарии
+admin.moderator.comments.tpl.status = Статус
+admin.moderator.comments.tpl.user = Пользователь
+admin.moderator.comments.tpl.bucket = Ведро 
+admin.moderator.comments.tpl.created = Создано
+admin.moderator.comments.tpl.ip = IP 
+
+admin.moderator.comments.tpl.commentsactive = "Активные комментарии"
+admin.moderator.comments.tpl.user = "Пользователь"
+admin.moderator.comments.tpl.noresults = "Результатов не обнаружено"
+
+admin.notify.backup = "Создайте резервную копию системы"
+admin.notify.cron.long = "Задание функции Cron продолжалось больше 20 секунд!"
+
+
+app.pagesdb.site = Сайт
+app.pagesdb.group = Группа 
+app.pagesdb.gallery = Галерея
+app.pagesdb.news = Новости
+app.pagesdb.link = Ссылка
+
+
+admin.common.go.thismodpro = "Этот модуль доступен для владельцев версии PRO."
+admin.common.go.thismod = "Этот модуль доступен для владельцев версии PRO или PLUS."
+admin.common.go.buylicensepro = "Купите лицензию PRO на сайте Windu, а позже активируйте ее. Таким образом Вы получите расширенные возможности нашей системы CMS!"
+admin.common.go.buylicenseproplus = "Купите лицензию PRO или PLUS  на сайте Windu, а позже активируйте ее. Таким образом Вы получите расширенные возможности нашей системы CMS!"
+admin.common.go.buypro = "Купить лицензию PRO"
+admin.common.go.enterkey = "Введите лицензионный ключ"
+
+
+admin.system.rightbuttons.tpl.content = Содержание страницы
+admin.system.rightbuttons.tpl.pageedit = Редактирование подстраницы
+admin.system.rightbuttons.tpl.contedit = Редактирование текстов
+admin.system.rightbuttons.tpl.orderchange = Изменение порядка подстраниц
+admin.system.rightbuttons.tpl.addnews = Добавление новости
+admin.system.rightbuttons.tpl.addcontent = Добавление текстов
+admin.system.rightbuttons.tpl.addpage = Добавление подстраниц
+admin.system.rightbuttons.tpl.addphoto = Добавление фотографии
+admin.system.rightbuttons.tpl.addfile = Добавление файлов
+admin.system.rightbuttons.tpl.gallery = Галерея
+admin.system.rightbuttons.tpl.editmenu = Редактирование меню
+admin.system.rightbuttons.tpl.filelist = Список всех файлов 	
+admin.system.rightbuttons.tpl.fielsadded = Файлы добавлены в систему
+admin.system.rightbuttons.tpl.photolist = Список всех фотографий
+admin.system.rightbuttons.tpl.photosadded = Фотографии добавлены в систему
+admin.system.rightbuttons.tpl.banners = Баннеры
+admin.system.rightbuttons.tpl.polls = Опросы
+admin.system.rightbuttons.tpl.calendar = Календарь
+admin.system.rightbuttons.tpl.langs = Языки
+admin.system.rightbuttons.tpl.tanslations = Переводы
+admin.system.rightbuttons.tpl.addeditlang = Добавление и редактирование языка
+admin.system.rightbuttons.tpl.bin = Корзина
+admin.system.rightbuttons.tpl.deletedelements = Элементы удалены
+admin.system.rightbuttons.tpl.autosave = Автозапись
+admin.system.rightbuttons.tpl.users = Пользователи
+admin.system.rightbuttons.tpl.usersview = Просмотр пользователей
+admin.system.rightbuttons.tpl.commentview = Просмотр комментариев
+admin.system.rightbuttons.tpl.comments = Комментарии
+admin.system.rightbuttons.tpl.contentadded = Тексты, добавленные пользователями
+admin.system.rightbuttons.tpl.admins = Администраторы
+admin.system.rightbuttons.tpl.addingadmin = Добавление и редактирование администратора
+admin.system.rightbuttons.tpl.editrights = Редактирование полномочий администратора
+admin.system.rightbuttons.tpl.siteusers = Пользователи сайта 
+admin.system.rightbuttons.tpl.addingusers = Добавление и редактирование пользователей сайта
+admin.system.rightbuttons.tpl.siteusers = Пользователи сайта 
+admin.system.rightbuttons.tpl.editusers = Редактирование полномочий пользователя
+admin.system.rightbuttons.tpl.permits = Полномочия
+admin.system.rightbuttons.tpl.edituserpermits = Редактирование полномочий пользователя
+admin.system.rightbuttons.tpl.graphtemps = Графические шаблоны
+admin.system.rightbuttons.tpl.sitegraphics = Графика страницы
+admin.system.rightbuttons.tpl.templates = Шаблоны 
+admin.system.rightbuttons.tpl.sitegraphics = Графика страницы
+admin.system.rightbuttons.tpl.graphtempinst = Установка графических шаблонов
+admin.system.rightbuttons.tpl.editsitesgraph = Редактирование графики сайта 
+admin.system.rightbuttons.tpl.logotypechange = Изменение логотипа
+admin.system.rightbuttons.tpl.logotype = Логотип
+admin.system.rightbuttons.tpl.addanalitcode = Добавления кода analitics
+admin.system.rightbuttons.tpl.widgets = Виджеты
+admin.system.rightbuttons.tpl.widupdate = Обновление виджетов	
+admin.system.rightbuttons.tpl.widgets = Виджеты
+admin.system.rightbuttons.tpl.addonsinstall = Установка расширений на сайте
+admin.system.rightbuttons.tpl.tools = Инструменты
+admin.system.rightbuttons.tpl.protools = Дополнительные функции PRO
+admin.system.rightbuttons.tpl.monitoring = Мониторинг страницы
+admin.system.rightbuttons.tpl.systemstats = Статистика системы
+admin.system.rightbuttons.tpl.rss = RSS
+admin.system.rightbuttons.tpl.rsschan = Канал RSS
+admin.system.rightbuttons.tpl.seo = Seo
+admin.system.rightbuttons.tpl.errorredirect = Перенаправление ошибок 404
+admin.system.rightbuttons.tpl.mailing = Рассылка
+admin.system.rightbuttons.tpl.massmail = Массовая отправка электронных писем 
+admin.system.rightbuttons.tpl.contacts = Контакты 
+admin.system.rightbuttons.tpl.contactbase = База контактов
+admin.system.rightbuttons.tpl.database = База даннных 
+admin.system.rightbuttons.tpl.tabellist = Список таблиц в базе данных
+admin.system.rightbuttons.tpl.viewdata = Просмотр данных в базе
+admin.system.rightbuttons.tpl.config = Конфигурация
+admin.system.rightbuttons.tpl.gensettings = Общие настройки
+admin.system.rightbuttons.tpl.generalconfig = Общая конфигурация
+admin.system.rightbuttons.tpl.configcont = Конфигурация текстов 
+admin.system.rightbuttons.tpl.settingscont = Настройки текстов
+admin.system.rightbuttons.tpl.configusers = Конфигурация пользователей 
+admin.system.rightbuttons.tpl.userpermits = Пользовательские настройки
+admin.system.rightbuttons.tpl.graphconfig = Конфигурация графики 
+admin.system.rightbuttons.tpl.graphsetting = Настройки графики 
+admin.system.rightbuttons.tpl.toolsconfig = Конфигурация инструментов
+admin.system.rightbuttons.tpl.toolssetting = Настройки инструментов
+admin.system.rightbuttons.tpl.systemconfig = Конфигурация системы
+admin.system.rightbuttons.tpl.systemsettings = Настройки системы
+admin.system.rightbuttons.tpl.system = Система
+admin.system.rightbuttons.tpl.stats = Статистика
+admin.system.rightbuttons.tpl.visits = Просмотры
+admin.system.rightbuttons.tpl.entries = Просмотры страницы
+admin.system.rightbuttons.tpl.notice = Сообщения
+admin.system.rightbuttons.tpl.backup = Backup 
+admin.system.rightbuttons.tpl.backupcopy =  Резервные копии 
+admin.system.rightbuttons.tpl.systemcopy = Копия системы
+admin.system.rightbuttons.tpl.systemlogs = Системны логи
+admin.system.rightbuttons.tpl.404errors = Ошибки 404
+admin.system.rightbuttons.tpl.systemerrors = Системные ошибки
+admin.system.rightbuttons.tpl.logins = Входы
+admin.system.rightbuttons.tpl.updates = Обновления
+admin.system.rightbuttons.tpl.cron = Cron 
+admin.system.rightbuttons.tpl.systemtasks = Системные задания 
+admin.system.rightbuttons.tpl.firewall = Firewall
+admin.system.rightbuttons.tpl.systemfirewall = Система брандмауэра
+admin.system.rightbuttons.tpl.reqlog = Request Log 
+admin.system.rightbuttons.tpl.references = Ссылки на страницу
+admin.system.rightbuttons.tpl.license = Лицензия
+admin.system.rightbuttons.tpl.windupro = Windu Pro  	
+admin.system.rightbuttons.tpl.winduplus = Windu Plus 
+admin.system.rightbuttons.tpl.keyactivation = Активирование лицензионного ключа
+
+
+
+admin.forum.tpl.forums = Форумы
+admin.forum.tpl.posts = Записи 
+admin.forum.tpl.stats = Статистика
+admin.forum.tpl.forumlist = Список форумов
+admin.forum.tpl.addforum = Добавить форум
+admin.forum.tpl.name = Название
+admin.forum.tpl.desc = Описание
+admin.forum.tpl.groups = Групп
+admin.forum.tpl.topics = Тем
+admin.forum.tpl.posts = Записи
+admin.forum.tpl.addedit = Добавить иди редактировать форумы и группы 
+admin.forum.tpl.posts.last90days = Счетчик сообщений Последний 90 дней
+admin.forum.tpl.posts.last3days = Сообщений продлится 3 дня
+admin.forum.tpl.threads.last3days = Темы продлится 3 дня
+admin.forum.tpl.posts.last30days = Сообщений длиться 30 дней
+admin.forum.tpl.threads.last30days = Темы 30 дней 
+admin.forum.tpl.posts.popular30days = Самые популярные темы 30 дней
+admin.forum.tpl.newusers.3days = Новые 3 дня
+admin.forum.tpl.activeusers.3days= Активные 3 дня
+admin.forum.tpl.newusers.30days = Новые 30 дней
+admin.forum.tpl.activeusers.30days = Активные 30 дней
+admin.forum.tpl.activeusers.most30days = Самые активные 30 дней
+
+admin.help.tpl.video = Учебные видео
+admin.help.tpl.guide = Руководство 
+
+admin.images.editor.tpl.prep = Приготовить ссылку картинки 
+
+admin.calendar.tpl.calendar = Календарь
+admin.calendar.tpl.addcalendar = Добавить календарь
+admin.calendar.tpl.events = События
+admin.calendar.tpl.addevent = Добавить событие
+admin.calendar.tpl.eventsdata = Данные события
+
+
+admin.lang.tpl.edittrans = Редактировать переводы
+admin.lang.tpl.addlanguage = Добавить язык
+admin.lang.tpl.phraselist = Список фраз
+admin.lang.tpl.editphrase = Редактирование фразы 
+admin.lang.tpl.editlangphrase = Редактирование языковых фраз
+admin.lang.tpl.key = Ключ
+admin.lang.tpl.nodata = no data
+
+
+admin.rss.tpl.rsslist = RSS Reader list 
+admin.rss.tpl.noata = No data 
+admin.rss.tpl.newrss = Добавить новый канал RSS
+
+
+
+
+
+admin.frontedit.tpl.color = Цвета и размеры
+admin.frontedit.tpl.frontedit = Windu frontEditor 
+admin.frontedit.tpl.edit = "Редактировать содержание в администрационной панели"
+admin.frontedit.tpl.edittemplate = Редактирования шаблона подстраницы
+admin.frontedit.tpl.editcss = Редактировать CSS
+admin.frontedit.tpl.hide = Скрыть страницу
+admin.frontedit.tpl.set = Установить видимость подстраницы
+admin.frontedit.tpl.refresh = Обновить 
+admin.frontedit.tpl.changessaved = Изменения сохранены
+admin.frontedit.tpl.save = Сохранить
+admin.frontedit.tpl.cancel = Отменить 
+admin.frontedit.tpl.template = Графические шаблоны
+admin.frontedit.tpl.addtemplate = Добавить шаблон
+admin.frontedit.tpl.settings = Настройки
+admin.frontedit.tpl.gallery = Галерея
+admin.frontedit.tpl.news = Новости
+admin.frontedit.tpl.images = Картинки
+admin.frontedit.tpl.slider = Слайдер
+admin.frontedit.tpl.halp = Помощь
+admin.frontedit.tpl.helpdep = Hepldesk Widnu 
+admin.frontedit.tpl.forumwind = Форум Windu
+admin.frontedit.tpl.webdevport = Портал веб-девелопера
+admin.frontedit.tpl.editlvl = Редактирование на уровне браузера
+admin.frontedit.tpl.showwdiget = Показывает виджеты
+admin.frontedit.tpl.cacherec = Cache resources 
+admin.frontedit.tpl.cachetemps = Cache templates
+admin.frontedit.tpl.clearcache = Очистить кэш-память
+admin.frontedit.tpl.logout = Выход
+admin.frontedit.tpl.images = Картинки
+admin.frontedit.tpl.addelement = Добавить элемент в меню
+admin.frontedit.tpl.subtheme = Субстраница тема
+
+
+admin.tools.tpl.banners.nodata = Данные отсутствуют 
+usertype.db.brak = Отсутствует
+admin.content.controller.nofields = Brak pól definiowalnych = Поля отсутствуют
+search.results.filters = Filtry = Фильтры
+search.results.addfilter = Добавить фильтр
+search.results.Nooffers = Нет предложений
+search.results.auctionends = Конец аукциона:
+search.results.noresultschoose =  Нет результатов. Выберите категорию или определите фильтр!
+admin.content.controller.nofields = Поля отсутствуют
+admin.content.controller.newfield = Новое поле 
+search.results.currency = PLN
+accesslog.filedb.logsmoved = "Логи перенесены в базу данных"
+rss.class.update = Update of RSS feed 
+rss.class.empty =  Feed RSS пустой 
+admin.mailingdocontrollersendmailing = Отправлено сообщение с активной рассылки:
+system.status.class.status = Статус сохранён в базе данных:
+firewall.class.firewallday = Удалено дополнительные файлы брандмауэра: 
+firewall.class.month = Удалено ежемесячные файлы брандмауэра
+pages.backupsdb.class.pagever = В новой версии удалены повторяющиеся дубликаты
+
+
+core.cron.class.access = <span class="badge">H</span> Перенести access log в базу данных
+core.cron.class.feedup = <span class="badge">H</span> Обновить feed RSS
+core.cron.class.smailing = <span class="badge">H</span> Отправить рассылку
+core.cron.class.writesys = <span class="badge badge-success">D</span> Сохранить статус системы
+core.cron.class.cleanold = <span class="badge badge-success">D</span> Очистить старые ежедневные файлы брандмауэра
+core.cron.class.generate = <span class="badge badge-success">D</span> Создать обновлённую карту сайта
+core.cron.class.pver = <span class="badge badge-info">W</span> Сжать версию страницы
+core.cron.class.cleancache = <span class="badge badge-info">W</span> Очистить кэш-память
+core.cron.class.cleanold = <span class="badge badge-info">W</span> Очистить устаревшие логи брандмауэра
+core.cron.class.cleanologs = <span class="badge badge-info">W</span> Очистить устаревшие логи
+core.cron.class.database = <span class="badge badge-inverse">M</span> Очистить базу данных
+core.cron.class.cleanfire =   <span class="badge badge-inverse">M</span> Очистить устаревшие логи брандмауэра
+core.cron.class.deleteall = <span class="badge badge-inverse">M</span> Удалить все миниатюры
+core.cron.class.deleteold = <span class="badge badge-inverse">M</span> Удалить все резервные копии 
+core.cron.class.backupsys = <span class="badge badge-inverse">M</span> Резервная копия системы
+
+
+core.cron.class.images = Миниатюры удалено
+core.cron.class.newsite = Создать новую карту сайта 
+core.cron.class.allcache = Кэш-память очищена
+core.cron.class.oldrequest = Устаревшие запросы-логи удалены
+core.cron.class.oldlogs = Удалены устаревшие логи
+
+
+config.short.description.language-admin = Язык панели администратора
+config.short.description.language-front = Язык домашней страницы
+config.short.description.day_clean_firewall = Очистка брандмауэра
+config.short.description.day_sitemap = Создание карты сайта
+config.short.description.day_write_system_status = Сохранение статуса системы
+config.short.description.hour_move_acceslogs = Перенос логов
+config.short.description.hour_rss_update = Обновление RSS
+config.short.description.leftOpenMenu = Меню редактирования домашней страницы
+config.short.description.month_backup = Ежемесячная резервная копия
+config.short.description.month_clean_backups = Очистка устаревших резервных копий
+config.short.description.month_clean_firewall = Ежемесячная очистка файлов брандмауэра
+config.short.description.month_delete_thumbs = Очистка миниатюр
+config.short.description.month_vacum = Очистка базы данных
+config.short.description.week_compact_versions = Удаление дубликатов старой версии 
+config.short.description.week_delete_old_logs = Очистка устаревших логов
+config.short.description.week_delete_old_requestlogs = Очистка устаревших логов запросов
+config.short.description.week_flush_cache = Очистка кэш-памяти
+admin.menu.help = Помощь
+config.long.description.day_clean_firewall = Ежемесячная очистка устаревших файлов брандмауэра
+config.long.description.day_sitemap = Создание карты сайта  для поисковых систем (sitemap)
+config.long.description.day_write_system_status = Ежедневное сохранение состояния системы используется также для инструмента мониторинга
+config.long.description.hour_move_acceslogs = Почасовой перенос запросов логов страницы в базу данных 
+config.long.description.hour_rss_update = Почасовое обновление каналов RSS, подключенных к сайту
+config.long.description.leftOpenMenu = Сообщает о том, включено ли меню с левой стороны домашней страницы, служащее для редактирования страницы.
+config.long.description.month_backup = Ежемесячная резервная копия целой системы
+config.long.description.month_clean_backups = Очистка резервных копий каждые 3 месяца 
+config.long.description.month_clean_firewall = Ежемесячная очистка устаревших файлов брандмауэра
+config.long.description.month_delete_thumbs = Ежемесячная очистка миниатюр картинок
+config.long.description.month_vacum = Еженедельная очистка базы данных уменьшает ее объём
+config.long.description.week_compact_versions = Еженедельное удаление старых версий страниц, сохранённых во время редактирования. 
+config.long.description.week_delete_old_logs = Еженедельная очиста старых логов в базе данных
+config.long.description.week_delete_old_requestlogs = Ежемесячная очистка устаревших логов запросов сайта 
+config.long.description.week_flush_cache = Ежемесячная очистка всей кэш-памяти  сайта
+config.short.description.sliderContentLength = Количество знаков в слайдере
+
+
+
+creator.tpl.next = Дальше
+creator.tpl.viewweb = Просмотр страницы
+creator.tpl.viewedit = Просмотр и редактирование веб-страницы. С левой стороны Вы увидите панель редактора, с помощью которой Вы сможете изменить все установки и цвета по своему усмотрению. Здесь можно также активировать inline-редактор 
+creator.tpl.editpage = Редактировать подстраницы
+creator.tpl.editadminpanel = Редактировать подстраницы в админпанели. Редактировать страницу можно также с помощью inPlaceEditor на домашней странице!
+creator.tpl.edittempl = Редактировать шаблон
+creator.tpl.editcode = Редактировать код графического шаблона в адмипанели. Шаблон состоит из нескольких десятков файлов, которые Вы с лёгкостью сможете изменять, имея базовы знания с HTML/CSS
+creator.tpl.sys = Система
+creator.tpl.thisplace = Здесь можно управлять и проверять состояние системы, делать обновления, а также контролировать всё что происходит на Вашем сайте.
+creator.tpl.webst = Веб-страница
+creator.tpl.simplepage = Стандартная веб-страница с меню, слайдером и возможностью входа.
+creator.tpl.blog = Блог
+creator.tpl.blogsite = Сайт-блог, разработанный для добавления циклических записей на домашнюю страницу с расширением для комментариев и входом.
+creator.tpl.portal = Портал
+creator.tpl.advsite = Расширенная веб-страница с входом, модулем новостей и слайдером на домашней странице.
+creator.tpl.forum = Форум
+creator.tpl.website = Веб-страница, исполняющая функцию форума, имеет панель входа и идеальную структуру для этой цели.
+
+admin.content.tpl.bucketsystem = Система
+admin.content.tpl.bucketpages = Страница
+
+
+admin.system.common.tpl.monthlybackupcop = Ежемесячная автоматическая копия
+
+admin.common.tpl.showrecent = Показать последние 
+admin.common.tpl.showall = Показать все
+
+
+admin.templates.common.tabs.cleanpins = Очистить флажки
+admin.customfields.modal.tpl.addfields = Добавить свое поле
+
+
+
+
+admin.common.conservation.tpl.migration = Миграция в MySQL
+admin.common.conservation.tpl.stepone = Шаг 1
+admin.common.conservation.tpl.setconn = Настроить соединение
+admin.common.conservation.tpl.targetmysql = Прямой сервер MySQL
+admin.common.conservation.tpl.completed = Сделано
+admin.common.conservation.tpl.steptwo = Шаг 2
+admin.common.conservation.tpl.transdata = Перенос данных 
+admin.common.conservation.tpl.checkbase = Проверить базу
+admin.common.conservation.tpl.tryagain = Повторить 
+admin.common.conservation.tpl.stepthree = Шаг 3
+admin.common.conservation.tpl.finalization = Завершение настроек
+admin.common.conservation.tpl.checkingdatabases = Проверка базы 
+admin.common.conservation.tpl.rundatabase = Запустить базу 
+
+
+
+admin.frontedit.tpl.disableleftmenu = Боковой редактор
+admin.frontedit.tpl.editimages = Редактирование картинок
+
+
+admin.backupdb.class.php.oldbackups = Старые резервные копии удалено
+admin.backupdb.class.php.backups = Создано резервную копию
+admin.common.conservation.tpl.yourwidgetuptodate = Все виджеты до даты
+admin.index.tpl.forum = Здесь вы можете управлять форумы и просмотреть статистику.
+admin.system.tpl.lastlogs = Последние журналы
+admin.system.tpl.crontasks = Cron задачи
+admin.sidebar = Переключить боковой панели
+admin.content.controller.desc2 = описание
+admin.content.controller.keywords2 = Ключевые слова
+core.cron.class.cleanoldrequest =   <span class="badge badge-info">W</span>Чистые старые журналы запрос
+admin.common.conservation.tpl.themes = Темы
+admin.common.conservation.tpl.database = база данных
+admin.common.conservation.tpl.backups = Резервные копии
+admin.common.conservation.tpl.cache = кэш
+admin.common.conservation.tpl.others = другие
+admin.do.controller.changes = Изменения сохранены
+admin.update.controller.tryagain = Попробуйте еще раз
+admin.update.controller.upforyou = Там не было изменений для вас
+admin.update.controller.adminpane = панель администратора
+admin.system.rightbuttons.tpl.simplified = упрощенный
+admin.system.rightbuttons.tpl.basic = основной
+admin.system.rightbuttons.tpl.advanced = продвинутый
+admin.system.rightbuttons.tpl.basicmod = Основной режим
+admin.system.rightbuttons.tpl.advmod = Расширенный режим
+admin.system.rightbuttons.tpl.simplifiedmod = упрощенный режим
+admin.content.controller.searchedphrase = Поиск фраза
+admin.templates.common.goprobanner.buypro = Купить PRO лицензию на $39
+admin.templates.common.goprobanner.gain = Прибыль пожизненный доступ к пакету современных инструментов!
+admin.templates.common.goprobanner.gopro = Go PRO
+admin.check.systemRun = Начиная подсистемы

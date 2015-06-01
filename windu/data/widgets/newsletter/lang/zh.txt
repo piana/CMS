@@ -1,0 +1,4 @@
+ front.newsletter.sign = 订阅
+front.newsletter.email = 电子邮件
+front.newsletter.name = 名称
+newsletter.message.positive = 你已被添加到我们的通讯！

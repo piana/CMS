@@ -1,0 +1,2 @@
+ news.normal.more = mehr
+widgets.newsNormal.smallhelp = Zeigt Nachrichten

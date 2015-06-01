@@ -1,0 +1,2 @@
+widgets.hotTopics.smallhelp = Widget wyświetlający najczęściej komentowane tematy
+hotTopics.title = Najpopularniejsze tematy

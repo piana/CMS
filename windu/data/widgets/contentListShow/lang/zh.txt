@@ -1,0 +1,2 @@
+ content.list.show.noresults = 没有要显示的元素
+widgets.contentListShow.smallhelp = 显示物料清单

@@ -1,0 +1,26 @@
+.errorMessage{
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-120px;
+	margin-left:-190px;
+	font-size:50px;
+	text-align: center;
+	font-family: arial;
+	font-weight: normal;
+}
+.errorMessage strong{
+	font-weight: bold;
+}
+.errorMessage img{
+	margin-bottom:-10px;
+}
+.errorMessage .small{
+	font-size:20px;
+}
+a{
+	color:#0072bb;
+}
+a:hover{
+	color:#66b0e0;
+}

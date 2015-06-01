@@ -1,0 +1,1 @@
+ widgets.menuIconsDroppy.smallhelp = 产生droppy下拉菜单的图标

@@ -1,0 +1,4 @@
+contactform.message.positive = Il messaggio è stato inviato, vi risponderemo presto!
+contactform.message.negative = Compila tutti i campi del modulo!
+front.form.msgsent = Il messaggio è stato inviato, vi risponderemo presto!
+widgets.contactForm.smallhelp = Modulo di contatto

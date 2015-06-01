@@ -1,0 +1,1 @@
+ widgets.calendarBox.smallhelp = Календарь показывает в графической форме

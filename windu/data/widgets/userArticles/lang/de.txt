@@ -1,0 +1,1 @@
+ widgets.userArticles.smallhelp = Panel für das Hinzufügen Nachrichten

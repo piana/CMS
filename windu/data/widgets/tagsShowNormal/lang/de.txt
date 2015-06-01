@@ -1,0 +1,2 @@
+ tags.show.noresults = Keine Elemente mit diesem Tag versehen
+widgets.tagsShowNormal.smallhelp = Angezeigte Materialien mit einem bestimmten Tag versehen

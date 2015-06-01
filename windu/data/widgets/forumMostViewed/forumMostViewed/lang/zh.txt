@@ -1,0 +1,2 @@
+﻿widgets.mostViewed.smallhelp = 插件播放观看次数最多的职位 
+mostViewed.title = 最受欢迎帖子

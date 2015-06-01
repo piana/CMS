@@ -1,0 +1,2 @@
+ search.show.noresults = Нет соответствующих материалов не были найдены
+widgets.searchShowNormal.smallhelp = Показывает результаты поиска

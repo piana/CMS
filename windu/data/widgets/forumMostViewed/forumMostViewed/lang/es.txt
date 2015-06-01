@@ -1,0 +1,2 @@
+﻿widgets.mostViewed.smallhelp = Elemento muestra los mensajes más vistos
+mostViewed.title = Más Vistas Mensajes

@@ -1,0 +1,6 @@
+ rate.message.positive = Danke für Ihre Bewertung!
+rate.message.negative = Sie haben bereits abgestimmt!
+rate.rates.positive = Positive Stimmen
+rate.rates.negative = Negative Stimmen
+rate.rates.befirst = Sei der Erste!
+widgets.rate.smallhelp = Rating-Panel

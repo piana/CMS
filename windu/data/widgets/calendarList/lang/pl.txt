@@ -1,0 +1,1 @@
+widgets.calendarList.smallhelp = Wyświetla kalendarz w postaci listy

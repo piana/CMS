@@ -1,0 +1,2 @@
+ tags.show.noresults = 无标记和这个标签元素
+widgets.tagsShowNormal.smallhelp = 显示材料贴上了某个标签

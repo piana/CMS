@@ -1,0 +1,23 @@
+order allow,deny
+allow from all
+
+RewriteEngine on
+RewriteRule ^(saas/pages)($|/) - [L]
+RewriteRule !(\.(php|ico|ICO|css|CSS|less|LESS|js|JS|htc|HTC|gpx|GPX|gif|GIF|jpg|JPG|jpeg|JPEG|png|PNG|swf|SWF|mp3|MP3|mp4|MP4|zip|ZIP|pdf|PDF|ttf|TTF|xml|XML|txt|TXT|eot|EOT|woff|WOFF|svg|SVG|xlsx|XLSX|xls|XLS|map|MAP))$ index.php [L,QSA]
+
+<IfModule mod_expires.c>
+	ExpiresActive On
+	<FilesMatch "\.(ico|gif|jpe?g|png|svg|svgz|js|css|swf|ttf|otf|woff|eot)$">
+		ExpiresDefault "access plus 1 month"
+	</FilesMatch>
+</IfModule>
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml text/javascript text/css application/x-javascript application/xhtml+xml application/javascript
+
+	# these browsers do not support deflate
+	BrowserMatch ^Mozilla/4 gzip-only-text/html
+	BrowserMatch ^Mozilla/4.0[678] no-gzip
+	BrowserMatch bMSIE !no-gzip !gzip-only-text/html
+
+	SetEnvIf User-Agent ".*MSIE.*" nokeepalive ssl-unclean-shutdown downgrade-1.0 force
+</IfModule>

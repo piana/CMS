@@ -1,0 +1,1 @@
+ widgets.menuIconsDroppy.smallhelp = Genera Droppy menu a discesa con le icone

@@ -1,0 +1,1 @@
+ widgets.menuPopover.smallhelp = Erzeugt menü

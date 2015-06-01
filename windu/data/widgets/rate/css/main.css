@@ -1,0 +1,16 @@
+.rate .badge{
+	font-weight:bold;
+	font-size:12px;
+	padding-left:6px;
+	padding-right:6px;
+}
+.rate-btn{
+	cursor:pointer;
+	padding:3px;
+} 
+.rate-box{
+	display:inline-block;
+}
+.rating-box{
+	display:inline-block;
+}

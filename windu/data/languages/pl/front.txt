@@ -1,0 +1,55 @@
+front.form.more = więcej
+front.form.project = Projekt i wykonanie:
+front.form.workon = na silniku:
+front.form.send = wyślij
+front.form.giveemail = podaj poprawny adres email
+front.form.email = Adres email
+front.form.giveelement = proszę uzupełnić pole formularza
+front.form.contactformcontent = Treść wiadomości
+front.form.givecorrectemail = Podaj poprawny adres email
+
+validator.required = "Pole nie może zostać puste"
+validator.email = "Podaj poprawny email"
+validator.number = "Podaj liczbę"
+validator.captcha = "Przepisz tekst z obrazka"
+validator.captcha.error = "Przepisany kod jest niepoprawny!"
+
+admin.message.error = "Wykryto błędy w formularzu"
+admin.message.success = "Operacja przebiegła pomyślnie"
+
+news.gropu.id = 745
+
+editable.front.footer.terms = Wszelkie prawa zastrzeżone, kopiowanie materiałów zawartych na stronie niezgodnie z licencją Windu jest zabronione.
+editable.front.footer.designed = Projekt i wykonanie:
+editable.front.footer.engine = "Na silniku:"
+editable.front.welcome = Witamy
+editable.front.search = Wyszukiwarka
+editable.front.login = Logowanie
+editable.front.news = Wpisy
+editable.front.logos = Przykładowe logotypy
+editable.front.tags = Tagi
+
+
+
+register.mail.tpl.welcome = Witaj
+register.mail.tpl.regged = Zarejestrowałeś się na stronie
+register.mail.tpl.tocont = Aby aktywować swoje konto naciśnij na poniższy link:
+register.mail.tpl.activate = Aktywuj konto!
+register.mail.tpl.iffor = Jeśli z jakiegoś powodu link nie jest klikalny, skopiuj jego zawartość i wklej w pasek przeglądarki internetowej po czym naciśnij enter.
+register.mail.tpl.team = Zespół
+
+
+
+admin.pagesdb.class.php.save = Zapisz
+admin.pagesdb.class.php.image = Obrazek
+admin.pagesdb.class.php.file = Plik
+admin.pagesdb.class.php.widget = Widget
+
+admin.menu.left.tpl.image = Dodaj obrazek
+admin.menu.left.tpl.widget = Dodaj widget
+admin.menu.left.tpl.file = Dodaj plik
+
+front.welcome = 
+front.footer.engine = 
+front.footer.designed = 
+%EF%BB%BFcontactform.message.positive = 

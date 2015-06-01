@@ -1,0 +1,4 @@
+ cookies.nav.message = Этот сайт использует куки, так что наш сервис может работать лучше.
+cookies.nav.accept = Я понимаю
+cookies.nav.privacypolitics = Узнать больше
+widgets.cookiesNav.smallhelp = Информация об использовании печенье

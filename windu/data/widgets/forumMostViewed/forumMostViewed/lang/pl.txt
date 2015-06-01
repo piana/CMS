@@ -1,0 +1,2 @@
+widgets.mostViewed.smallhelp = Widget wyświetlający najczęściej oglądane posty
+mostViewed.title = Najczęściej oglądane posty

@@ -1,0 +1,15 @@
+.userlogin-btn-margin-left {
+	margin-left: 5px;
+}
+.userlogin-box .btn{
+	padding-left:10px;
+	padding-right:10px;
+}
+.userlogin-box .checkbox{
+	margin-top:0px;
+}
+.userlogin-box .label{
+	display:inline-block;
+	margin-top:-6px;
+	margin-bottom:10px;
+}

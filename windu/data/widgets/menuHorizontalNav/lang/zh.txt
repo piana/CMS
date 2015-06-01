@@ -1,0 +1,1 @@
+ widgets.menuHorizontalNav.smallhelp = 生成菜单，相匹配的宽度

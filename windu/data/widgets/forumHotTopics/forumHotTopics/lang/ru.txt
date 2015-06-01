@@ -1,0 +1,2 @@
+﻿widgets.hotTopics.smallhelp = Виджет отображает наиболее обсуждаемые темы 
+hotTopics.title = самые популярные темы

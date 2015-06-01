@@ -1,0 +1,1 @@
+ widgets.menuImagesHover.smallhelp = 生成图像菜单用的2个图像在彼此顶部的选项

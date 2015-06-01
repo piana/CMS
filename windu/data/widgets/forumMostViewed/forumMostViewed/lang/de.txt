@@ -1,0 +1,2 @@
+widgets.mostViewed.smallhelp = Widget zeigt die meistbesuchten Beiträge
+mostViewed.title = Beliebteste Beiträge

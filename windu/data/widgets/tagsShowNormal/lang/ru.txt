@@ -1,0 +1,2 @@
+ tags.show.noresults = Нет элементов с меткой этой метке
+widgets.tagsShowNormal.smallhelp = Показано материалов с тегами определенного тега

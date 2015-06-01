@@ -1,0 +1,1 @@
+widgets.menuIconsDroppy.smallhelp = Generates droppy drop down menu with icons

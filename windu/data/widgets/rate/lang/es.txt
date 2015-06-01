@@ -1,0 +1,8 @@
+rate.message.positive = ¡Gracias por votar!
+rate.message.negative = Ya ha votado!
+rate.rates.positive = Evaluaciónes positivas
+rate.rates.negative = Los votos negativos
+rate.rates.befirst = ¡Sé el primero!
+
+widgets.rate.smallhelp = Panel de clasificación
+ 

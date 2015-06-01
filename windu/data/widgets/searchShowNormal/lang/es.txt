@@ -1,0 +1,3 @@
+search.show.noresults = No se han encontrado materiales que coinciden
+widgets.searchShowNormal.smallhelp = Muestra los resultados de búsqueda
+ 

@@ -1,0 +1,4 @@
+ front.newsletter.sign = Zeichnen
+front.newsletter.email = E-mail
+front.newsletter.name = Name
+newsletter.message.positive = Sie haben unseren Newsletter hinzugefügt!

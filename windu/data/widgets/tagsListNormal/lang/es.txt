@@ -1,0 +1,1 @@
+widgets.tagsListNormal.smallhelp = Muestra una lista de etiquetas con enlaces 

@@ -1,0 +1,5 @@
+front.newsletter.sign = Suscribir
+front.newsletter.email = E-mail
+newsletter.message.positive =  Usted se han añadido a nuestra newsletter!
+front.newsletter.name = Nombre
+ 

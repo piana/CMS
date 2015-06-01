@@ -1,0 +1,53 @@
+front.form.more = больше
+front.form.project = Проект и реализация
+front.form.workon = на движке 
+front.form.giveemail = Введите правильный e-mail адрес 
+front.form.email = E-mail aдрес 
+front.form.giveelement = Заполните поле 
+front.form.contactformcontent = Текст сообщения
+front.form.givecorrectemail = Введите правильный e-mail
+
+validator.required = "Это поле не может оставатся пустым" 
+validator.email = "Введите правильный e-mail адрес"
+validator.number = "Введите количество"
+validator.captcha = "Введите текст с картинки" 
+validator.captcha.error = "Неправильный код!"
+
+admin.message.error = Обнаружено ошибки в формуляре
+admin.message.success = "Операция успешно завершена"
+
+news.gropu.id = 888
+
+editable.front.footer.terms = Все права защищены. Запрещается нелицензированное копирование любых материалов на сайте windu.org
+editable.front.footer.designed = Проект и реализация:
+editable.front.footer.engine = "На движке:"
+editable.front.welcome = Здравствуйте 
+editable.front.search = поиск
+editable.front.logos = Примеры логотипов 
+editable.front.tags = Теги
+
+
+register.mail.tpl.welcome = Здравствуйте	
+register.mail.tpl.regged = Вы зарегистрировались на сайте
+register.mail.tpl.tocont = Для активации аккаунта Вам нужно перейти по этой ссылке:
+register.mail.tpl.activate = Активировать аккаунт! 
+register.mail.tpl.iffor = Если Вам не удается перейти по ссылке, скопируйте ссылку и вставьте ее в окно своего поисковика и нажмите Enter 
+register.mail.tpl.team = Команда 
+
+
+
+admin.pagesdb.class.php.save = Сохранить 
+admin.pagesdb.class.php.image = Картинка
+admin.pagesdb.class.php.file = Файл
+admin.pagesdb.class.php.widget = Виджет
+
+admin.menu.left.tpl.image = Добавить картинку
+admin.menu.left.tpl.widget = Добавить виджет
+admin.menu.left.tpl.file = Добавить файл
+front.form.send = послать
+editable.front.login = Войти
+editable.front.news = новости
+front.welcome = 
+front.footer.engine = 
+front.footer.designed = 
+%EF%BB%BFcontactform.message.positive = 

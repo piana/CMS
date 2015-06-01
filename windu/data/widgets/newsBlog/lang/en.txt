@@ -1,0 +1,1 @@
+news.normal.more = more

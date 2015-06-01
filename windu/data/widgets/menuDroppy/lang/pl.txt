@@ -1,0 +1,1 @@
+widgets.menuDroppy.smallhelp = Generuje menu rozwijane Droppy

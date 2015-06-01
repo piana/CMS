@@ -1,0 +1,1 @@
+ widgets.calendarList.smallhelp = 在列表的形式显示日历

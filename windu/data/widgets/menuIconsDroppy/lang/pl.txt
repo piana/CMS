@@ -1,0 +1,1 @@
+widgets.menuIconsDroppy.smallhelp = Generuje menu rozwijane Droppy z ikonkami

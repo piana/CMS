@@ -1,0 +1,1 @@
+widgets.menuImagesHover.smallhelp = Generates image menu with an option of 2 images on top of each other

@@ -1,0 +1,1 @@
+widgets.pagination.smallhelp = Paginación

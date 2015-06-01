@@ -1,0 +1,1 @@
+widgets.mapsGoogle.smallhelp = Displays a map of the designated point

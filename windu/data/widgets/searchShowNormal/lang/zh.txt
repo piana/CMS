@@ -1,0 +1,2 @@
+ search.show.noresults = 没有匹配的材料已被发现
+widgets.searchShowNormal.smallhelp = 显示搜索结果

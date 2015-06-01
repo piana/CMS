@@ -1,0 +1,1 @@
+widgets.mapsGoogle.smallhelp = Wyświetla mapę z oznaczonym punktem

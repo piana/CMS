@@ -1,0 +1,10 @@
+ comments.normal.content = Комментарии контент
+comments.normal.givecontent = Введите комментарий
+comments.normal.email = Email
+comments.normal.giveemail = Введите правильный адрес электронной
+comments.normal.loginemail = Введите логин и пароль, а затем добавить комментарий
+comments.normal.post = Сообщение Комментарий
+comments.normal.comments = Комментарии
+comments.normal.addcomments = Добавить комментарий
+comments.normal.mustlogin = Зарегистрируйтесь и войдите, чтобы иметь возможность добавлять комментарии
+widgets.commentsNormal.smallhelp = Выводит комментарии

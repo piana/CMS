@@ -1,0 +1,1 @@
+widgets.banner.smallhelp = Used to insert a banner

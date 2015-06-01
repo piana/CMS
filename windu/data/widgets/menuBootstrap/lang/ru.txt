@@ -1,0 +1,1 @@
+ widgets.menuBootstrap.smallhelp = Создать выпадающее меню с Bootstrap

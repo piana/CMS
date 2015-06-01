@@ -1,0 +1,23 @@
+user.register.usertype = Typ użytkownika
+user.register.permits = Nadaje odpowiednie uprawnienia
+user.register.email = Adres email
+user.register.giveemail = Podaj email
+user.register.givecorrectemail = Podaj poprawny email
+user.register.emailtaken = Podany email jest zajęty
+user.register.password = Hasło
+user.register.autogener = Wygeneruje się automatycznie jeżeli nie zostanie podane
+user.register.toshortpass = Podane hasło jest zbyt krótkie
+user.register.diffpasswords = Podane hasła są różne
+user.register.repeatpassword = Powtórz hasło
+user.register.username = Nazwa użytkownika
+user.register.shownname = Nazwa wyświetlana
+user.register.kowal = Kowal
+user.register.name = Imię
+user.register.jan = Jan
+user.register.surname = Nazwisko
+user.register.kowalski = Kowalski
+user.register.nametype = Nazwa typu
+user.register.register = Zarejestruj się
+user.register.activate.account = Aktywuj swoje konto!
+
+widgets.userRegister.smallhelp = Rejestracja użytkownika

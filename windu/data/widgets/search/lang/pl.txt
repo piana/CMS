@@ -1,0 +1,4 @@
+search.controller.class.search = Szukaj
+search.controller.class.enter = Wpisz szukaną fraze
+
+widgets.search.smallhelp = Wyświetla wyszukiwarkę

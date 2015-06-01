@@ -1,0 +1,10 @@
+ comments.normal.content = 评论内容
+comments.normal.givecontent = 填写评论内容
+comments.normal.email = 电子邮件
+comments.normal.giveemail = 请输入正确的电子邮件
+comments.normal.loginemail = 登录后添加评论
+comments.normal.post = 发表评论
+comments.normal.comments = 评论
+comments.normal.addcomments = 添加评论
+comments.normal.mustlogin = 注册和登录能够添加注释
+widgets.commentsNormal.smallhelp = 显示评论

@@ -1,0 +1,1 @@
+widgets.menuNormal.smallhelp = Generuje standardowe menu html

@@ -1,0 +1,1 @@
+ widgets.banner.smallhelp = 用来插入一个横幅

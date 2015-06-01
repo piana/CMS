@@ -1,0 +1,2 @@
+﻿widgets.newTopics.smallhelp = 小工具，显示最近添加的主题
+newTopics.title = 最近新增的主题

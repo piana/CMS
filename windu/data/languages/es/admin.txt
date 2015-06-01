@@ -1,0 +1,1389 @@
+//Windu CMS admin lang file//
+
+lang = ES
+facebook.page.key = cmswindu
+defaultTimezone = "Europe/London"
+
+admin.help.main = zbqtbgbwgrrh
+admin.help.content = pszbwpsacrsk
+admin.help.users = drdytkxgkkhg
+admin.help.themes = asrhkzzsybpa
+admin.help.tools = gmyyyvjczhdy
+admin.help.config = jqythydwfqxx
+admin.help.system = wwahajwpbcqx
+admin.help.forum = wttxffcsnkgs
+
+form.button.title.default = Enviar
+form.button.title.cancel = Cancelar
+form.button.title.save = Guardar
+form.button.title.add = Agregar
+form.button.title.backup = Back ups
+form.button.title.images = Imagen
+form.button.title.files = Archivo
+form.button.title.widgets = Widget
+form.button.title.next = Siguente
+form.button.title.import = Importar
+form.button.title.merge = Combinar
+form.button.title.activate.license = Activate Licencias
+
+validator.required = "El campo no puede estar vacío"
+validator.email = "Por favor introduce un correo electrónico válido"
+validator.number = "Por favor introduzca un número"
+validator.captcha = "Por favor introduce el texto de la imagen"
+validator.captcha.error = "Por favor ingrese el texto correcto de la imagen"
+
+admin.menu.content = Contenido
+admin.menu.forum = Foro
+admin.menu.users = Usuasrios
+admin.menu.config = Configuración
+admin.menu.themes = Gráficos
+admin.menu.tools = Herramientas
+admin.menu.trash = Bin
+admin.menu.system = Sistema
+admin.menu.forum = Foro
+admin.menu.custom = Panel personalizado
+
+admin.message.success = Los cambios fueron exitosos
+admin.message.success.autosave = Autosave
+admin.message.operation.success = La operación se realizó con éxito
+admin.message.error = "Error, no hay cambios han sido guardados"
+admin.message.save = Elemento guardado con éxito
+admin.message.add = Elemento ańadido con éxito
+admin.message.delete = Elemento eliminado correctamente
+admin.message.negative.wrongvaluetype = Tipo incorrecto de valor introducido
+admin.message.receive.email = Recibir correo electrónico y haga clic en el enlace para establecer una nueva contraseńa
+admin.message.user.not.exist = El usuario no existe
+admin.message.loginerror = Usuario de error , introduzca los datos correctos!
+admin.message.loginsuccess = Login exitoso
+admin.message.password.changed = La contraseńa ha sido cambiada
+admin.message.wrong.licence.key = Clave de licencia inactivo.
+admin.message.errordbimport = Error de base de datos , compruebe la conexión de datos
+admin.message.negative.wrongvaluetype = Valor incorrecto , tipo de valor correcto
+admin.message.error.mysql.conection = No se puede conectar a la base de datos
+
+admin.common.seo.tpl.activepages = Sitios activos
+admin.common.seo.tpl.Name = Nombre
+admin.common.seo.tpl.url = Url
+admin.common.seo.tpl.downloads = Descargas
+admin.common.seo.tpl.added = Agregado
+admin.common.seo.tpl.url = "Tamańo (KB)"
+admin.common.seo.tpl.PageMap = Mapa del sitio
+admin.common.seo.tpl.pagelist = Lista de sitios
+admin.common.seo.tpl.verificationcode = código de verificación google webmaster
+admin.common.seo.tpl.analcode = Codigo Analitics
+admin.common.seo.tpl.robots = "contenido del archivo robots.txt"
+admin.common.seo.tpl.parameters = Parameters
+
+admin.common.tpl.addfile = Agregar archivo
+admin.common.tpl.editfile = Edit fileEditar archivo
+admin.common.tpl.list = Lista Archivos
+admin.common.tpl.downstats = Descargas estadísticas
+
+admin.common.files_list.ctpl.name = Nombre
+admin.common.files_list.ctpl.type = Tipo
+admin.common.files_list.ctpl.link = Enlace
+admin.common.files_list.ctpl.downloads = Descargar
+admin.common.files_list.ctpl.added = Agregado
+admin.common.files_list.ctpl.size = "Tamańo (MB)"
+admin.common.files_list.ctpl.size.numberimg = Conteo de archivos
+
+admin.common.images.tpl.photolist = "Lista de imágenes"
+admin.common.images.tpl.editimage = "Editar imagen"
+admin.common.images.tpl.numberimg = "Número de imágenes"
+admin.common.images.tpl.gennumber = "Número de miniaturas generadas"
+admin.common.images.tpl.clear = "Borrar miniaturas"
+admin.common.images.tpl.operations = "Operaciones"
+admin.common.images.tpl.addwatermark = "Ańadir un watermark"
+
+
+
+admin.images_all_list.tpl.name = Nombre
+admin.images_all_list.tpl.basket = Carta
+admin.images_all_list.tpl.link = Enlace
+admin.images_all_list.tpl.created = Creado
+admin.images_all_list.tpl.type = Tipo
+
+admin.common.conservation.tpl.warning = AVISO
+admin.common.conservation.tpl.recupdate = "Se recomienda un update!"
+admin.common.conservation.tpl.systemuptodate = El sistema está al día!
+admin.common.conservation.tpl.yoursystemuptodate = "Su sistema está al día!"
+admin.common.conservation.tpl.widgetuptodate = Widgets están al día!"
+admin.common.conservation.tpl.yourwidgetmuptodate = "Todos los Widgets están al día!"
+admin.common.conservation.tpl.updateallwidgets = Actualizar todos los widgets!
+admin.common.conservation.tpl.systemcleaningxxx = Limpieza del sistema
+admin.common.conservation.tpl.cleancache = Borrarcache
+admin.common.conservation.tpl.cleandatabase = Borrar database
+admin.common.conservation.tpl.systemcleaning = Borrar notificaciones
+admin.common.conservation.tpl.subpages = paginas
+admin.common.conservation.tpl.files = Archivos
+admin.common.conservation.tpl.pictures = imagenes
+admin.common.conservation.tpl.logs = Logos
+admin.common.conservation.tpl.clearallnotifications = Borrar todos las notificaciones
+admin.common.conservation.tpl.nots = Notificaciones
+admin.common.conservation.tpl.close = Cerrar
+admin.common.conservation.tpl.recommendact = "Update es recomendable!"
+admin.common.conservation.tpl.thumbnailclear = limpieza de miniatura mensual 
+admin.system.tpl.systemclear = Limpieza del sistema
+admin.system.tpl.strongsystemclear = Limpieza fuerte del sistema
+
+admin.common.statistics.tpl.avg = Promedio
+admin.common.statistics.tpl.today = Hoy
+admin.common.statistics.tpl.24 = 24 horas
+admin.common.statistics.tpl.7days = 7 días
+admin.common.statistics.tpl.30days = 30 días
+admin.common.statistics.tpl.all = Todos
+admin.common.statistics.tpl.visits = Visitas
+admin.common.statistics.tpl.avg24 = "promedio, 24 hours"
+admin.common.statistics.tpl.avg7 = "promedio, 7 días"
+admin.common.statistics.tpl.avg30 = "promedio, 30 días"
+admin.common.statistics.tpl.logs = Logos
+admin.common.statistics.tpl.subpages = Páginas
+admin.common.statistics.tpl.users = Usuarios
+admin.common.statistics.tpl.files = Archivos
+admin.common.statistics.tpl.graphics = imagenes
+admin.common.statistics.tpl.views = Visitas
+admin.common.statistics.tpl.mostviewed = Más Vistas
+admin.common.statistics.tpl.comments = Commentarios
+admin.common.statistics.tpl.mostcommented = Mas Comentarios
+admin.common.statistics.tpl.positiveratings = calificaciones positivas
+admin.common.statistics.tpl.toprated = Mejor Clasificados
+admin.common.statistics.tpl.negativeratings = calificaciones negativas
+admin.common.statistics.tpl.versions = Versiones
+admin.common.statistics.tpl.mailessent = mails enviados
+admin.common.statistics.tpl.filesdownloads = Archivos Descargados
+admin.common.statistics.tpl.logs = Logs
+admin.common.statistics.tpl.alex = Alex Monitoreo
+admin.common.statistics.tpl.google = Google Monitoreo
+admin.common.statistics.tpl.deactivate = Desactivar el sistema
+admin.common.statistics.tpl.activate = Activar el sistema
+admin.common.statistics.tpl.warning = "AVISO! Subsistema se desactiva ! Los datos no se está recopilando ! Actiavar el sistema en modo de programador ."
+admin.common.statistics.tpl.stats = Estadísticas
+admin.common.statistics.tpl.last90 = "últimos 90 días"
+admin.common.statistics.tpl.increases = "aumentos en los últimos 90 días "
+admin.common.statistics.tpl.last3 = Últimos 3 días
+admin.common.statistics.tpl.last7 = Últimos 7 días
+admin.common.statistics.tpl.range = Rango entero
+admin.common.statistics.tpl.visitsacc = Visits according to counting method
+admin.common.statistics.tpl.requests = Solicitudes
+
+
+admin.common.log.tpl.logs = Logos
+admin.common.log.tpl.types = Tipos
+admin.common.log.tpl.clearinglogs =  Limpieza de logos
+admin.common.log.tpl.last3days = últimos 3 días
+admin.common.log.tpl.all = Todos
+admin.common.log.tpl.loglist = Lista de logs
+admin.common.log.tpl.error = Errores 404
+admin.common.log.tpl.syserror = Errores del sistema
+admin.common.log.tpl.logerror = Logging
+admin.common.log.tpl.deact = Deactivar el sistema
+admin.common.log.tpl.act = Activar el sistema
+admin.common.log.tpl.warn = "AVISO! Subsistema se desactiva ! Los datos no se está recopilando! "
+
+admin.controller.pro.cron.tpl.last24 = últimas 24 horas
+admin.controller.pro.cron.tpl.last7 = últimos 7 días
+admin.controller.pro.cron.tpl.last30 = últimos 30 días
+admin.controller.pro.cron.tpl.hour = Hora
+admin.controller.pro.cron.tpl.day = Diario
+admin.controller.pro.cron.tpl.week = Semanal
+admin.controller.pro.cron.tpl.month = Mensual
+admin.controller.pro.cron.tpl.all = Todo
+
+admin.filesmodal.tpl.name = Nombre
+admin.filesmodal.tpl.size = Tamańo (KB)
+
+admin.common.log_list.tpl.type = Tipo
+admin.common.log_list.tpl.info = Información
+admin.common.log_list.tpl.date = Fecha
+admin.common.log_list.tpl.quant = Número
+
+admin.common.backup.tpl.warning = "AVISO"
+admin.common.backup.tpl.createbackupcopy = "Recomendamos que se crea una copia de seguridad de copia."
+admin.common.backup.tpl.allok = "Todo está bien"
+admin.common.backup.tpl.recomendedcopy = "Le recomendamos crear una copia de seguridad , ya que no fue creado hace más de 30 días."
+admin.common.backup.tpl.copyexists = "Hay una copia de seguridad creada en los últimos 30 días "
+
+
+admin.common.update.tpl.doupadate = "Le recomendamos que realice una actualización."
+admin.common.update.tpl.systemuptodate = "El sistema está al día ."
+admin.common.update.tpl.systemisuptodate = "Su sistema está al día ."
+admin.common.update.tpl.updatehistory = Historial de actualizaciones
+
+admin.mail.base.termsbottom = "El correo electrónico fue enviado con Windu cms CMS instalado en el"
+
+admin.mail.registeradminuser.tpl.welcome = "Bienvenido a "
+admin.mail.registeradminuser.tpl.yourusername = "Introduzca nombre de usuario"
+admin.mail.registeradminuser.tpl.yourpassword = "Introduzca la contraseńa"
+admin.mail.registeradminuser.tpl.loginlink = " Inicio de sesión"
+admin.mail.registeradminuser.tpl.reminder = "Un recordatorio de que cada página publicada DEBE tener un vínculo activo y visible sin declaración de enlace nofollow en el pie de página de la página o en otro lugar visible . Enlace debería llevar a la www.windu . rg"
+admin.mail.registeradminuser.tpl.resetpass = "Para restablecer la contraseńa , haga clic en el enlace:"
+admin.mail.registeradminuser.tpl.systemsend = "Sistema le enviará una nueva contraseńa a través de e -mail"
+
+
+admin.content.tpl.languages = Idiomas
+admin.content.tpl.pages = Páginas
+admin.content.tpl.trash = Bin
+admin.content.tpl.autosave = Autosave
+admin.content.tpl.settings = Ajustes
+admin.content.tpl.functions = Funciones
+admin.content.tpl.editimages = Editar una foto
+admin.content.tpl.description = Descripción
+admin.content.tpl.addlanguage = Agregar idioma
+admin.content.tpl.edit = Editar
+admin.content.tpl.help = Ayuda
+admin.content.tpl.sort = Orden
+admin.content.tpl.showall = Expandir
+admin.content.tpl.emptytrash = Vaciar el bin
+admin.content.tpl.addnews = Ańadir Noticias
+admin.content.tpl.newslist = Lista de Noticias
+admin.content.tpl.restore = Punto de restauración
+admin.content.tpl.choserestorepoint = Selecionar un punto de restauración
+admin.content.tpl.trash.preview = "Para ver el contenido, haga clic en la lupa"
+admin.content.tpl.deleteallautosaves = "Borrar todas autosaves"
+admin.content.tpl.chooseelementdisp = Elija el elemento para mostrar
+admin.content.tpl.trash.bucket = La papelera está vacía
+
+admin.content_info.controller.lastedited = Editados recientemente
+admin.content_info.controller.active = Activo
+admin.content_info.controller.hidden = Oculto
+admin.content_info.controller.trash = En Bin
+admin.content_info.controller.pages = Página
+admin.content_info.controller.news = Noticias
+admin.content_info.controller.links = Enlace
+admin.content_info.controller.groups = Grupos
+admin.content_info.controller.gallery = Galería
+admin.content_info.controller.newsgroup = Noticias de grupos
+admin.content_info.controller.awaiting = Encuentra pendiente de publicación
+
+
+admin.content.common.tpl.languages = Idiomas
+admin.content.common.tpl.pageslist = Lista e páginas
+admin.content.common.tpl.addimages = Ańadir una imagen
+admin.content.common.tpl.addfiles = Ańadir archivos
+admin.content.common.tpl.imagelistingalery = Lista de imágenes en la galería
+admin.content.common.tpl.help = Ayuda
+admin.content.common.tpl.addelement = Agregar Elemento
+
+admin.content.common.tpl.trashcontent = El contenido de la papelera
+admin.content.common.tpl.configuration = Configuración
+admin.content.common.tpl.edit = Editar
+admin.content.common.tpl.addwidget = Ańadir código Widget
+
+
+admin.config.tpl.constant = Constante
+admin.config.tpl.addconstanttoconfig = Ańadir una constante a la configuración
+admin.config.tpl.add = Agregar
+
+
+admin.users.ctpl.admins = Administradores
+admin.users.ctpl.users = Usuarios
+admin.users.ctpl.authorization = Permisos
+admin.users.tpl.adduser = Agregar un usuario
+admin.users.ctpl.settings = Ajustes
+admin.users.tpl.addtypeofauth = Ańadir tipo de poder
+admin.users.tpl.addtypeofauthpanels = Ańadir poderes del panel
+admin.users.tpl.edit = Editar
+admin.users.tpl.help = Ayuda
+admin.users.ctpl.add = Agregar
+admin.users.ctpl.comments = Comentarios
+admin.users.ctpl.review = Información general
+admin.users.ctpl.history = Historia
+admin.users.common.tpl.typesofauth = Tipo de poderes
+admin.users.common.tpl.extension = Extension
+admin.users.common.tpl.regexp = Regla
+admin.users.hist.action = Historia de las acciones del usuario
+admin.users.hist.type = tipo
+admin.users.hist.user = usuario
+admin.users.hist.data = datos
+admin.users.hist.time = tiempo
+admin.users.hist.add = adición
+admin.users.hist.edit = edición
+admin.users.hist.del = borrar
+admin.users.hist.other = otro
+admin.users.hist.hide = esconder
+admin.users.hist.show = mostrar
+admin.users.hist.tabel = tabla
+
+admin.themes.tpl.graphictemplates = "Plantillas"
+admin.themes.tpl.widgets = Widgets
+admin.themes.tpl.settings = Ajustes
+admin.themes.tpl.edit = Editar
+admin.themes.tpl.help = Ayuda
+admin.themes.tpl.noelements = "No hay elementos"
+
+admin.themes.controller.image = Imagen
+admin.themes.controller.zip = archivo ZIP
+admin.themes.controller.zipdescription = archivo Zip que contiene una plantilla o un widget
+admin.themes.controller.css = archivo CSS
+admin.themes.controller.js = archivo JS
+admin.themes.controller.doc = archivo TXT
+admin.themes.controller.imagedescription = imagen cargada en plantilla que luego se puede insertar en el gráfico
+admin.themes.controller.cssdescription = Archivo CSS automaticlly incluido en la plantilla
+admin.themes.controller.jsdescription = Archivo JS incluye automáticamente a la plantilla
+admin.themes.controller.txtdescription = archivo TXT incluido automáticamente a la plantilla
+admin.themes.controller.add = Agregar
+admin.themes.controller.addtemplatezip = "Agregar una plantilla desde un archivo ZIP"
+admin.themes.controller.addtemp = "Agregar una plantilla"
+admin.themes.controller.addclean = "Ańadir un widget de vacío"
+admin.themes.controller.addfromzip = " Ańadir componente desde el archivo ZIP"
+admin.themes.controller.lang = Archivo de idioma
+
+admin.themes.common.tpl.graphicstyles = Estilos gráficos
+admin.themes.common.tpl.widgets = Widgets
+admin.themes.common.tpl.widgets.deactivated = "Widgets inactivos"
+admin.themes.common.tpl.newupdate = "Las actualizaciones están disponibles!"
+admin.themes.common.tpl.forupdate = Widgets estan al dia
+admin.themes.common.tpl.updateall = Actuslizar todo
+admin.themes.common.tpl.nowidgets = No hay widgets
+admin.themes.common.tpl.widgetsnotinst = Widgets estan listos para la instalación
+
+admin.index.tpl.icons = Iconos
+admin.index.tpl.welcome = Bienvenido
+
+admin.index.tpl.deleteedit = "Aquí puede ańadir , eliminar y editar el contenido de su sitio web."
+admin.index.tpl.addusers = Administrar los usuarios y administradores y también el control de sus poderes.
+admin.index.tpl.themes = Aquí es donde usted puede configurar el diseńo de todo el sitio web .
+admin.index.tpl.tools = Aquí puede encontrar varios tipos de herramientas adicionales como el sistema de e -mailing.
+admin.index.tpl.config = Panel de configuración es un lugar que le permite administrar la configuración de la CMS.
+admin.index.tpl.system = Información sobre el estado actual del sistema, las actualizaciones , etc
+
+
+admin.backup.tpl.backup = Backup
+admin.backup.tpl.settings = Ajustes
+admin.backup.tpl.backupcopy = Realizar copia de seguridad
+admin.backup.tpl.help = Ayuda
+admin.backup.tpl.edit = Editar
+
+admin.backup.common.tpl.backuplist = Lista de copia de seguridad
+admin.system.tpl.system = Sistema
+admin.system.tpl.commonsystemerrors = Errores del sistema
+admin.system.tpl.log = Logs
+admin.system.tpl.cron = Cron
+admin.system.tpl.notifications = Notificaciones
+admin.system.tpl.maintenance = Mantenimiento
+admin.system.tpl.stats = Estaisticas
+admin.system.tpl.update = Actualizar
+admin.system.tpl.settings = Ajustes
+admin.system.tpl.adminlist = Lista de administradores
+admin.system.tpl.systemfolders = Carpetas del sistema
+admin.system.tpl.refreshdata = Actualización de datos
+admin.system.tpl.lastusers = Los ultimos logins
+admin.system.tpl.commonerrors = Más frecuentes 404 errores
+admin.system.tpl.cleanlast90 = Limpiar los últimos 90 días
+admin.system.tpl.cleanlast30 = Limpiar últimos 30 días
+admin.system.tpl.cleanlast7 = Limpiar últimos 7 días
+admin.system.tpl.cleanall = "Borrar todo"
+admin.system.tpl.updatesystem = " Actualización del sistema"
+admin.system.tpl.systemuptodate = " El sistema está al día"
+admin.system.tpl.help = Ayuda
+admin.system.tpl.backup = Backup
+admin.system.tpl.backupcopy = Crear una copia de seguridad
+admin.system.tpl.license = Licencia
+admin.system.tpl.memory = Memoria
+admin.system.tpl.deletecache = Borrar la cache
+admin.system.tpl.viewsite = Ver Página
+admin.system.tpl.notepad = Notepad
+admin.system.tpl.addkey =  Introduzca la clave de licencia asignado por el sistema en la página web Windu .
+admin.system.tpl.gz = "Felicidades!"
+admin.system.tpl.licensetype = "Tipo de licencia: "
+admin.system.tpl.amount = "Número de licencias disponibles"
+admin.system.tpl.activelicense = "Usted tiene una licencia activa"
+admin.system.tpl.noelements = "No hay datos para mostrar"
+admin.system.tpl.main = Página principal
+admin.system.tpl.search = Buscar en el panel de administración
+admin.system.tpl.notices = Notificaciones
+admin.system.tpl.add = Agregar
+admin.system.tpl.noelements = No hay elementos
+admin.system.tpl.listactive =  Lista de redirecciones activos
+admin.system.tpl.groupip = División por IP
+admin.system.tpl.groupurl = División por URL
+admin.system.tpl.lastacceslogs = Últimos peticiones
+admin.system.tpl.updata = Actualizar los datos
+admin.system.tpl.deactsys = Desactivar el sistema
+admin.system.tpl.actsys = Activar el sistema
+admin.system.tpl.req =  Se requiere sistema de estadísticas para trabajar!
+admin.system.tpl.warn = "AVISO! Subsistema se desactiva ! Los datos no se está recopilando!"
+admin.system.tpl.acceslogwarn = AVISO! Subsistema RewyestLog se desactiva ! Los datos no se está recopilando!"
+admin.system.tpl.loglist = Log list
+admin.system.tpl.last3 = Últimos 3 días
+admin.system.tpl.last7 = Últimos 7 días
+admin.system.tpl.last30 = Últimos 30 días
+admin.system.tpl.wholer = Rango entero
+admin.system.tpl.polled24 =  Polled últimas 24 horas
+admin.system.tpl.polled7 =  Polled últimos 7 días
+admin.system.tpl.polled30 = Polled últimos 30 días
+admin.system.tpl.polledgen = Polled generalmente
+admin.system.tpl.mostfreq = Most frequently polled sites
+admin.system.tpl.asked = Lo más frecuente IP la consulta
+admin.system.tpl.panel = Panel de la pantalla
+
+
+
+admin.system.common.tpl.backuplist = Lista de copias de seguridad
+
+
+admin.install.tpl.adminpanel = Panel de administración
+admin.install.tpl.creator = Creador
+admin.install.tpl.cantsave = " No se puede guardar el archivo"
+admin.install.tpl.continueinstall = Continuar la instalación
+admin.install.tpl.begininstall = Comience la instalación
+admin.install.tpl.terms = Términos de servicio
+admin.install.tpl.termslink = <a href="http://en.windu.org/terms-of-service" target="blank">Terms of service</a>
+admin.install.tpl.clickaccept = Aceptar
+
+admin.imgupload.tpl.addfiles = Agregar archivos...
+admin.imgupload.tpl.startup = Iniciar carga
+admin.imgupload.tpl.cancelup = Cancelar carga
+admin.imgupload.tpl.delete = Borrar
+
+
+admin.main.tpl.editprofile = Editar perfil
+admin.main.tpl.devmode = Modo de panel de administración
+admin.main.tpl.devmodeallowed = Permitido modo de panel de administración
+admin.main.tpl.logout = Finalizar la sesión
+admin.main.tpl.settings = Ajustes
+admin.main.tpl.design = Diseńado y creado por:
+admin.main.tpl.up = Hasta el top
+admin.main.tpl.notes = Tareas
+admin.main.tpl.notivications = Notificaciones
+admin.main.tpl.buypro = Comprar licencia PRO
+admin.main.tpl.allowedothers = Otros permisos
+admin.pinit = Vista clip
+
+admin.tools.tpl.tools = Herramientas
+admin.tools.tpl.addtemplate = Ańadir plantilla
+admin.tools.tpl.addcontact = Ańadir contacto
+admin.tools.tpl.addcontactlist = Ańadir lista de contactos
+admin.tools.tpl.createmailing = Crear correo
+admin.tools.tpl.cancel = Cancelar
+admin.tools.tpl.test = Test
+admin.tools.tpl.moderator = Moderador
+admin.tools.tpl.moderator.description = panel de moderación, aquí puede ver los nuevos comentarios y nuevos usuarios.
+admin.tools.tpl.stats = Estadísticas
+admin.tools.tpl.stats.description = Panel con sitios web avanzados estadísticas.
+admin.tools.tpl.backup = Backup
+admin.tools.tpl.backup.description = Panel que le permite crear copias de seguridad de los contenidos de todo el Página 
+admin.tools.tpl.mailing = Mailing
+admin.tools.tpl.mailing.description = Enviar mensajes de correo electrónico masivo.
+admin.tools.tpl.sendallmailings = Enviar correo activas
+admin.tools.tpl.contact = Contactos
+admin.tools.tpl.contact.description = Administrar sus contactos.
+admin.tools.tpl.contact.sendedEmails = Email enviados
+admin.tools.tpl.contact.contacts = Contactos
+admin.tools.tpl.banners = Banners
+admin.tools.tpl.banners.description = "sistema de gestión de anuncios de la bandera en el sitio web"
+admin.tools.tpl.editbanner = "Editar bandera"
+admin.tools.tpl.firewall.description = Sistema de limitar los ataques de los hackers en la página web
+admin.tools.tpl.firewall = Firewall
+admin.tools.tpl.requestlog.description = Mostrar todas las solicitudes a su sitio web en la lista inteligente.
+admin.tools.tpl.requestlog = Request Log
+admin.tools.tpl.sentstats = Estadísticas de los correos electrónicos enviados
+admin.tools.tpl.rss.description = Administrat fuentes RSS
+admin.tools.tpl.calendar = Calendario
+admin.tools.tpl.addarea = Añadir zona
+
+admin.tools.tpl.file = Archivos
+admin.tools.tpl.file.description = Aquí puede gestionar las descargas.
+admin.tools.tpl.images = Imágenes
+admin.tools.tpl.images.description = Aquí puede gestionar todas tus imágenes.
+admin.tools.tpl.seo = Seo
+admin.tools.tpl.rss = RSS
+admin.tools.tpl.seo.description = Administrar mapas , la integración con los códigos google etc
+admin.tools.tpl.database = Base de datos
+admin.tools.tpl.database.description = Administrar la base de datos y editar su contenido.
+admin.tools.tpl.database.tables = Tablas
+admin.tools.tpl.database.path = "Ruta al archivo de la tabla"
+admin.tools.tpl.database.recordnumber= " Número de registros"
+admin.tools.tpl.database.columnnumber = "Número de columnas"
+admin.tools.tpl.polls = "Encuestas"
+admin.tools.tpl.polls.description = "Herramienta para la creación y administración de las encuestas"
+admin.tools.tpl.monitoring = "Monitoreo"
+admin.tools.tpl.monitoring.description = "Herramienta utilizada para el estado de los sitios web de seguimiento"
+
+admin.common.plus.polls.tpl.add = "Ańadir una encuesta"
+admin.common.plus.polls.tpl.polls = Encuestas
+admin.common.plus.polls.tpl.questions = Preguntas
+admin.common.plus.polls.tpl.addansw = Agregar respuesta
+admin.common.plus.polls.tpl.addquest = Agregar pregunta
+admin.common.plus.polls.tpl.votes = Votos
+
+admin.common.pro.firewall.tpl.create = Crear acceso ht
+admin.common.pro.firewall.tpl.deactivate = Desactivar el sistema
+admin.common.pro.firewall.tpl.activate = Activar el sistema
+admin.common.pro.firewall.tpl.warning = "AVISO!  Subsistema se desactiva ! Los datos no se está recopilando!"
+admin.common.pro.firewall.tpl.blocked = Bloqueado
+admin.common.pro.firewall.tpl.activatex = Habilitar
+admin.common.pro.firewall.tpl.deactivatex = Desactivar
+admin.common.pro.firewall.tpl.delete = Borrar
+admin.common.pro.firewall.tpl.noelements = No hay elementos pata mostrar
+admin.common.pro.firewall.tpl.settings = Ajustes
+admin.common.pro.firewall.tpl.frequent = Páginas mas votadas
+admin.common.pro.firewall.tpl.graph = Tabla de frecuencia de sondeo para ip
+admin.common.pro.firewall.tpl.limit = Límite de visitas por hora
+admin.common.pro.firewall.tpl.email = Alertas via email
+
+admin.tools.tpl.emailadress = Correo electrónicos
+admin.tools.tpl.email = email
+
+admin.images_multiuploader.tpl.addfiles = Ańadir archivos
+admin.images_multiuploader.tpl.startupload = Iniciar el envío
+admin.images_multiuploader.tpl.cancelupload = Cancelar envio
+
+
+admin.notify_closed.tpl.notificationinactive = Inactive notifications
+admin.notify_closed.tpl.dateofadding = Fecha de agrega
+admin.notify_closed.tpl.priority = Prioridad
+
+admin.notify.nosystemrun.firewall = Windu Firewall está desactivado, el sistema es más vulnerable a los ataques DDoS
+admin.notify.nosystemrun.log = El sistema de recopilación de registros ha sido desactivada, Windu no está recopilando información acerca de sus visitas al sitio
+admin.notify.nosystemrun.statistic = El sistema de estadísticas ha sido desactivada, Windu no está contando visitas
+admin.notify.nosystemrun.monitoring = El sistema de monitoreo de datos ha sido desactivada, Windu no está recopilando las estadísticas del sistema
+admin.notify.nosystemrun.requestLog = La recopilación de información en todas las páginas de recarga del sistema se ha desactivado, no se está recopilando datos
+
+admin.notify_list.tpl.notification = Notificacion
+admin.notify_list.tpl.dateofading = Fecha de adición
+admin.notify_list.tpl.priority = Prioridad
+admin.notify_list.tpl.type = Tipo
+
+admin.content.controller.newlangname = Nuevo nombre del idioma
+admin.content.controller.giveelementname = "Introduzca el nombre del elemento"
+admin.content.controller.elementname = Nombre del elemento
+admin.content.controller.elementtype = Tipo del elemento
+admin.content.controller.linkname = Nombre de enlace
+admin.content.controller.adresstaken = "Dirección Enviado ya está en uso"
+admin.content.controller.sitetitle = Título de la página de la sección de título , si no se especifica , se generará automáticamente .
+admin.content.controller.descriptioninsection = descripción en sección de descripción en los metatags . Generado automáticamente si está vacío.
+admin.content.controller.keywords = Palabras clave de la sección de palabras clave en los metatags . Generado automáticamente si está vacío.
+admin.content.controller.sitetags = páginas web, que se muestran como un sistema de etiquetas.
+admin.content.controller.chosentemplate = Da plantilla elegida para un elemento seleccionado.
+admin.content.controller.chosendefaulttemplate = Asigna elegidos plantilla como predeterminada para selecto grupo de elementos.
+admin.content.controller.defaulttemplate = Default Template
+admin.content.controller.adresstaken = "Esta dirección ya está en uso"
+admin.content.controller.image = Imagen principal
+admin.content.controller.sliderimage = Imagen en Slider
+admin.content.controller.icon = Menu de icono
+admin.content.controller.imagedescription = Imagen asignado al elemento, se puede demostrar , por ejemplo, en el control deslizante o como miniatura en las noticias.
+admin.content.controller.icondescription = icono asignado al elemento, se puede demostrar , por ejemplo, al lado del elemento de menú 
+admin.content.controller.name = Nombre
+admin.content.controller.description = Descripcion
+admin.content.controller.newstitle = Titulo de noticias
+admin.content.controller.template = plantilla de gráficos
+admin.content.controller.addnews = Ańadir noticias
+admin.content.controller.tags = Tags
+admin.content.controller.date = Fecha
+admin.content.controller.datedescription = "Fecha de presentación de la noticia aparecerá en el sitio web"
+admin.content.controller.tplfilename = nombre de archivo tpl
+admin.content.controller.url = URL
+admin.content.controller.restorepoint = punto de restauración
+admin.content.controller.choserestorepoint = Seleccione un punto del elemento de restauración.
+admin.content.controller.typeconvert = "La conversión del tipo de elemento (sólo es posible para los elementos y grupos vacíos)"
+admin.content.controller.menucssclass = "clase CSS en el menú"
+admin.content.controller.priority = prioridad Website demostrado robot en el archivo sitemap.xml , el valor de 0 a 1
+admin.content.controller.givecorrecturl = "Agregar enlace correcto"
+admin.content.controller.content = Contenido
+admin.content.controller.general = General
+admin.content.controller.seo = Seo
+admin.content.controller.ver = Versión
+admin.content.controller.imageslider = Slider
+admin.content.controller.info = Info
+admin.content.controller.compactversions = Borrar duplicados
+admin.content.controller.codeslider = Codigo de slider
+admin.content.controller.customfields = Campos
+admin.tools.controller.beginingtime = Hora de inicio
+admin.tools.controller.endtime = Hora de finalización
+admin.content.controller.desc = Descripción
+admin.content.controller.maling = Ańadir plantilla de correo
+admin.content.controller.status = Estado
+admin.content.controller.pagestatus = Páginas Estado
+admin.content.controller.login = Login
+admin.content.controller.pagelogged = Página de usuarios registrados
+admin.content.controller.block = Bloquear
+admin.content.controller.blockdesc = Guardar bloqueo para los usuarios inferiores desarrollador
+admin.content.controller.search = Buscar
+admin.content.controller.searchvis = La visibilidad en los resultados de búsqueda
+admin.content.controller.visable = Visible
+admin.content.controller.hidden = Oculta
+admin.content.controller.deleted = Borrado
+admin.content.controller.unlocked = Desbloqueado
+admin.content.controller.locked = Bloqueado
+admin.content.controller.searched = Investigable
+admin.content.controller.notsearched = No investigable
+admin.content.controller.forlogged = Para usuarios registrados
+admin.content.controller.forall = Para todos
+admin.content.controller.template2 = Template
+admin.content.controller.title =  Titulo
+admin.content.controller.desc2 = Descripcion
+admin.content.controller.keywords2 = Palabras claves
+admin.content.controller.prior = "Prioridad (sitemap)"
+admin.content.controller.wrongfiletype = "tipo de archivo incorrecto"
+
+admin.content.controller.watermark = "Marca de agua (archivo PNG)"
+admin.content.controller.width = "Ancho en procent"
+admin.content.controller.transparent = "Transparencia"
+admin.content.controller.position = "Posición"
+admin.content.controller.heightlimit = La altura mínima de la imagen con marca de agua en píxeles
+admin.content.controller.widthlimit = La anchura mínima de la imagen con una marca de agua en píxeles 
+admin.content.controller.heightlimit.small = Altura mínima
+admin.content.controller.widthlimit.small = Ancho mínimo
+admin.content.controller.rssfeed = Canal RSS url
+admin.content.controller.parentgroup = Grupo principal
+admin.content.controller.parentgrptooltip = Grupo de noticias rss feed
+
+admin.tools.controller.addtemplate = Ańadir plantilla de correo 
+admin.tools.controller.edittemplate = Editar plantilla de correo 
+admin.tools.controller.addmailinggroup = Ańadir contactos
+admin.tools.controller.editmailinggroup = Editar grupo de contactos
+admin.tools.controller.addcontact = Ańadir contacto
+admin.tools.controller.addmasscontact = Ańadir muchos contactos
+admin.tools.controller.addmasscontactusers = Importar contactos de los usuarios
+
+admin.config.controller.name = "Nombre"
+admin.config.controller.givename = "Introduzca el nombre"
+admin.config.controller.value = "Valor"
+admin.config.controller.addvalue = "Escriba un valor"
+admin.config.controller.shortdescription = "Descripción corta"
+admin.config.controller.adddescription = "Introduzca una descripción"
+admin.config.controller.description = "Descripción"
+admin.config.controller.type = "Tipo"
+admin.config.controller.typedescription = "Tipo de valor introducido"
+admin.config.controller.addcorectvalue = "Por favor ingrese un valor válido"
+admin.config.controller.true = "Sí"
+admin.config.controller.false = "No"
+
+admin.check.system = "Comprobación del sistema"
+admin.check.checking = "Comprobar"
+admin.check.cacheOn = "cache"
+admin.check.update = "Actualización del sistema"
+admin.check.widgetUpdate = "Actualización de widgets"
+admin.check.winduLink = "licencia"
+admin.check.activation = "activación"
+admin.check.backup = "backup"
+
+admin.login.controller.login = "Login"
+admin.login.controller.addusername = "Introduzca nombre de usuario" 
+admin.login.controller.autogener = "Se generará de forma automática si no se introduce" 
+admin.login.controller.addpassword = "Introduzca la contraseńa" 
+admin.login.controller.username = "Nombre de usuario (correo electrónico)"
+admin.login.controller.password = "Contraseńa"
+admin.login.controller.rememberme = "Recuérdame por 7 días"
+admin.login.controller.forgotpassword = "Olvidé la contraseńa"
+admin.login.controller.resetpassword = "Restablecer contraseńa"
+admin.login.controller.cancel = "Cancelar"
+
+admin.mainconfig.controller.addvalue = "Escriba un valor"
+admin.mainconfig.controller.value = "Valor"
+
+
+admin.themes.controller.templatename = "Nombre de Plantillas"
+admin.themes.controller.addelementname = "Introduzca el nombre del elemento"
+admin.themes.controller.addvalue = "Nombre de Widget"
+admin.themes.controller.tplfilename = "nombre de archivo tpl"
+
+
+
+
+admin.users.controller.usertype = "Tipo de usuario"
+admin.users.controller.login = "Usuario (email)"
+admin.users.controller.permits = "Da permisos apropiados"
+admin.users.controller.email = "Correo electrónico"
+admin.users.controller.giveemail = "Introduzca el correo electrónico"
+admin.users.controller.givecorrectemail = "Por favor introduzca un correo electrónico válido"
+admin.users.controller.emailtaken = "Su dirección de e -mail ya está en uso"
+admin.users.controller.password = "Contraseńa"
+admin.users.controller.autogener = "Se generará de forma automática si no se ingresó"
+admin.users.controller.toshortpass = "La contraseńa es demasiado corta "
+admin.users.controller.diffpasswords = "Las contraseńas no coinciden."
+admin.users.controller.repeatpassword = "Repetir contraseńa"
+admin.users.controller.username = "Nombre del usuario"
+admin.users.controller.shownname = "Nombre"
+admin.users.controller.kowal = "Smith"
+admin.users.controller.name = "Nombre"
+admin.users.controller.jan = "Indi"
+admin.users.controller.surname = "Apellido"
+admin.users.controller.kowalski = "Jones"
+admin.users.controller.nametype = "Nombre del tipo "
+admin.users.controller.addname = "Introduzca el nombre del tipo de poder"
+admin.users.controller.powersfor = "Permisos para"
+admin.users.controller.powerssetting = "Establece ajustes de fe: para el sitio o sistema CMS"
+admin.users.controller.extension = "Extensión"
+admin.users.controller.powersextension = "Ajuste la extensión de los poderes"
+admin.users.controller.expressionregular = "Expression Regular"
+admin.users.controller.addformula = "Introduzca la fórmula para las clases para las que estamos dando permisos
+admin.users.controller.addregularformula = "Introduzca una expresión regular" 
+admin.users.controller.youruserdata = "Sus datos de usuario"
+admin.users.controller.empty = "Si dejas el campo en blanco, no va a cambiar"
+admin.users.controller.usertype = "Tipo de usuario" 
+
+
+admin.img.upload.controller.imagetobig = "imagen es demasiado largo"
+admin.img.upload.controller.wrongfileformat = "Formato de archivo no válido" 
+admin.img.upload.controller.uploadimage = "Debe cargar la imagen"
+
+
+admin.install.controller.next = "Siguente"
+admin.install.controller.welcome = "Bienvenido al Asistente de configuración"
+admin.install.controller.selectdb = "Seleccione el tipo de base de datos"
+admin.install.controller.setupmysql = "Configuración de MySQL"
+admin.install.controller.dbinfo = "MySQL - recomienda sólo para los grandes sitios de más de 10 000 Páginass , para los sitios más pequeńos de base de datos SQLite funciona mucho más rápido."
+admin.install.controller.creator = "El asistente AYUDA pones los primeros pasos en Windu CMS!"
+admin.install.controller.setadmin = "Set información del administrador"
+admin.install.controller.installend = " Instalación completa"
+admin.install.controller.setbasicconfig = "Configuración básica"
+admin.install.controller.logo = "Logo del Sitio Web"
+admin.install.controller.timezone = Zona horaria
+
+admin.install.controller.pagename = "Nombre del sitio web"
+
+
+admin.tools.controller.editmailing = "Editar plantilla de correo"
+admin.tools.controller.addcontact = "Agregar Contacto"
+admin.tools.controller.editcontact = "Editar Contacto"
+admin.tools.controller.file = Archivo
+admin.tools.controller.filedescription = Selecciona un archivo para enviar
+admin.tools.controller.newimage = "Nueva imagen"
+
+admin.tools.controller.telephone = "Teléfono"
+admin.tools.controller.mobile = "Mobile"
+admin.tools.controller.adress = "Dirección"
+admin.tools.controller.city = "Ciudad"
+admin.tools.controller.code = "Codigo postal"
+admin.tools.controller.country = "País"
+admin.tools.controller.taxid = "Tax ID"
+admin.tools.controller.other = "Otro"
+admin.tools.controller.csv = archivo CSV
+admin.tools.controller.csv.description = CSVarchivo es compatible con una suite de Open Office y Excel para la importación.
+admin.tools.controller.statsnew = Estadísticas de nuevos contactos
+
+admin.tools.tpl.banners.addarea = Agregar Región
+admin.tools.tpl.banners.area = área de publicidad
+admin.tools.tpl.banners.addbanner = "Ańadir banner"
+admin.tools.tpl.firewall = Firewall
+admin.tools.tpl.firewall.description = Firewall del Sistema Windu
+
+admin.tools.controller.banners.name = Nombre de la zona
+admin.tools.controller.banners.width = Ancho de Banner
+admin.tools.controller.banners.height = Altura de Banner
+
+admin.tools.controller.banners.bannername = Nombre de Banner
+admin.tools.controller.banners.link =  Target dirección url
+admin.tools.controller.banners.viewslimit = Límite de vistas
+admin.tools.controller.banners.clickslimit = Límite de clics
+admin.tools.controller.banners.startdate = Fecha de comienzo
+admin.tools.controller.banners.enddate = fecha de la final
+
+
+admin.update.controller.checkForUpdates = "Buscar actualizaciones"
+admin.update.controller.downloadupdate = "Descargar actualización"
+admin.update.controller.beginupdate = "Realizar actualización"
+admin.update.controller.flushcache= "Vaciar cache"
+admin.update.controller.updatephp = "Actualización de PHP"
+admin.update.controller.checksystem = "Revise el sistema"
+admin.update.controller.finish = "Finalizar el update"
+admin.update.controller.systemupdate = Actualización del sistema
+
+model.configdb.controller.general = "General"
+model.configdb.controller.content = "Contenido"
+model.configdb.controller.users = "Usuarios"
+model.configdb.controller.gfx = "Imagen"
+model.configdb.controller.tools = "Herramientas"
+model.configdb.controller.system = "Sistema"
+
+admin.notify.update = "Hay nuevas actualizaciones para el sistema"
+admin.notify.cache = "Habilitar caché Página para mejorar el rendimiento"
+admin.notify.cache.resources = "Habilitar caché para archivos CSS y JS para mejorar rendimiento de páginas"
+admin.notify.error.mailer = "Mailer Error! El sistema no es capaz de enviar mensajes de correo electrónico!"
+admin.notify.nowindulink = "Violación d elicencia detectado! de tu lado no tiene el enlace correcto a la página web Windu Introduce exactamente el mismo enlace que se encuentra en la windu plantilla estándar después de la instalación!"
+admin.notify.activation.filed = "La clave de licencia es válida. sistema se ha desactivado a la versión gratuita. Introduzca la clave de licencia para activar la versión PRO."
+admin.notify.backup = "Its been 7 days since the last backup."
+admin.notify.deactivation = "Su sido de 7 días desde la última copia de seguridad . "
+admin.notify.deactivation = " El sistema ha sido desactivado en la versión gratuita de dominio fue porque los cambios , si usted tiene una llave de repuesto puede reactivar la versión PRO / PLUS."
+admin.notify.widgetupdate = "Actualizaciones de Widgets disponible"
+
+admin.system.controller.licensekey = Clave de licencia
+admin.system.controller.givelicensekey = Por favor introduzca una clave de licencia válida
+admin.system.controller.name = Nombre
+admin.system.controller.emails = Correos electronicos
+admin.system.controller.where = SQL Usuarios donde
+
+
+admin.modal.common.tpl.notes = Sus tareas
+
+admin.tools.mailing.controller.mailinglist = Lista de correos
+admin.tools.mailing.controller.mailingname = Nombre de correos
+admin.tools.mailing.controller.template = Plantilla de gráficos
+admin.tools.mailing.controller.contactsgroup = grupos de contacto
+admin.tools.mailing.controller.contacts = Contacto
+admin.tools.mailing.controller.sendername = "Quién"
+admin.tools.mailing.controller.senderemail = Desde
+admin.tools.mailing.controller.subject = Asunto
+
+
+admin.ajax.notes.controller.addnote = Ańadir nota
+admin.ajax.notes.controller.save = Guardar nota
+
+config.long.description.revision = "Número de versión del sistema"
+config.short.description.revision = "Revisión del sistema"
+config.long.description.install = "żEstá el sistema instalado? "
+config.short.description.install = "Variable interna diciendo si el sistema está instalado o necesita ser instalado"
+config.long.description.template = "Estilo gráfico de página home"
+config.short.description.template = "Piel actualmente instalada"
+config.long.description.language = "Idioma carga cuando se ejecuta el panel de administradores"
+config.short.description.language = "Idioma de sistemas"
+config.long.description.imgGalleryWidth = "Tamańo predeterminado de las miniaturas en la galería "
+config.short.description.imgGalleryWidth = "Ancho predeterminado de una vista en miniatura"
+config.long.description.imgGalleryHeight = "Ancho predeterminado de miniaturas generadas en la galería"
+config.short.description.imgGalleryHeight = "Altura predeterminada en miniatura"
+config.long.description.imgGalleryFit = "Tipo de corte de miniaturas en la galería, a elegir entre: original, inteligente , fijo, el límite de oro"
+config.short.description.imgGalleryFit = "Tipo de corte en miniatura en la galería "
+config.long.description.imgQuality = "Nivel de compresión de la imagen , ajuste 1-100, donde 100 significa que la imagen no está comprimida"
+config.short.description.imgQuality = "Nivel de compresión de la imagen "
+config.long.description.systemDir = "subdirectorio en el servidor en el que el sistema es"
+config.short.description.systemDir = "subdirectorio en el servidor"
+config.long.description.newsCount = "Número de noticias aparece de forma predeterminada cuando se abre la pestańa de noticias."
+config.short.description.newsCount = "Número de noticias"
+config.long.description.newsLength = "Número al que las noticias se acorta determinada"
+config.short.description.newsLength = "Número de caracteres en el resumen de noticias"
+config.long.description.newsSpan = "Span es un múltiplo de 1/12 , toda la anchura se divide en 12 columnas , seleccionando 4 que la caja dando una anchura de 4/12 de todo."
+config.short.description.newsSpan = "Span responsable para el número de columnas"
+config.long.description.pageName = "Nombre de página mostrada en varios lugares , como los encabezados de correo electrónico de registro, etc."
+config.short.description.pageName = "Nombre del sitio"
+config.long.description.newsBtnCssClass = "Esta es una clase dada przycinkowi más en las noticias"
+config.short.description.newsBtnCssClass = "Clase CSS del botón más"
+config.long.description.cache = "Variable responsable de convertir el editor que permite cambios directamente en el sitio web"
+config.short.description.inPlaceEditor = "editor InPlace"
+config.long.description.inPlaceEditor = "Variable responsable de convertir el editor que permite hacer directamente en el sitio web"
+config.long.description.commentsStatus = "Estado establece después de la adición de comentarios , 0 es el estado inactivo y 1 es el estado activo , los comentarios son moderados o aparecen de forma inmediata"
+config.short.description.commentsStatus = "El estado predeterminado comentario"
+config.long.description.newsLengthTitle = "Con este número de caracteres de resumen de noticias se reducirá si es para siempre."
+config.short.description.newsLengthTitle = "Número de caracteres para el resumen de la noticia"
+config.long.description.tagsCount = "Número de etiquetas que estarán en la lista de etiquetas a menos que se establezca lo contrario en el código para insertar tu widget"
+config.short.description.tagsCount = "Número máximo de etiquetas en la lista"
+config.long.description.sliderImageFit = "Imagen predetermnado del tipo de las de control deslizante"
+config.short.description.sliderImageFit = "Tipo de imágenes de ajuste en el control deslizante"
+config.long.description.sliderImageFilter = "Filtro de imágenes por defecto en el control deslizante"
+config.short.description.sliderImageFilter = "Filtro de imagen"
+config.long.description.sliderContentLenght = "Número predeterminado de caracteres después de la firma se corta"
+config.short.description.sliderContentLenght = "Firma"
+config.long.description.sliderCount = "La anchura por defecto para imágenes pequeńas"
+config.short.description.sliderCount = "La anchura por defecto para imágenes pequeńas"
+config.long.description.imgSmallWidth = "La anchura por defecto para imágenes pequeńas"
+config.short.description.imgSmallWidth = "Ancho de una imagen en miniatura "
+config.long.description.imgSmallHeight = "Altura de una imagen en miniatura predeterminada "
+config.short.description.imgSmallHeight = "Altura minima de una imagen en miniatura"
+config.long.description.imgMediumWidth = "El ancho predeterminado de la miniatura de la media"
+config.short.description.imgMediumWidth = "Medium Ancho de una imagen en miniatura"
+config.long.description.imgMediumHeight = "Medium Altura de una imagen en miniatura"
+config.short.description.imgMediumHeight = "Medium Altura de una imagen en miniatura"
+config.long.description.imgBigWidth = "Gran ancho de una imagen en miniatura"
+config.short.description.imgBigWidth = "Gran ancho de una imagen en miniatura"
+config.long.description.imgBigHeight = "Gran ancho de una imagen en miniatura"
+config.short.description.imgBigHeight = " Gran ancho de una imagen en miniatura"
+config.long.description.sitemap = "sitemap"
+config.short.description.sitemap = "sitemap"
+config.long.description.analiticscode = "Código Analitics"
+config.short.description.analiticscode = "Código Analitics"
+config.long.description.googleverifycontent = "código de verificación del sitio de Google"
+config.short.description.googleverifycontent = "código de verificación del sitio de Google"
+config.long.description.leftpanelopen = "Panel de edición de Sitio"
+config.short.description.leftpanelopen = "Variable dice está habilitado lado del panel de edición visible desde la casa Página de la izquierda."
+
+config.long.description.imgFit = "El valor predeterminado de la pequeńa imagen que coincida"
+config.short.description.imgFit = "Ajusta el corte de imagen"
+config.long.description.imgFilter = "El valor predeterminado para el filtro de imagen:"
+config.short.description.imgFilter = "Filtro de imagen"
+config.long.description.userActive = "Dicho Variable si después de ańadir , el usuario tiene que ser activado por defecto o no"
+config.short.description.userActive = "Estado de usuario predeterminado"
+config.long.description.mailingSendLimit = "Límites de correo en un sola paso"
+config.short.description.mailingSendLimit = "Límite de correos"
+config.long.description.userMailActivation = "El correo electrónico fue enviado a un usuario con un enlace de activación después de hacer clic en el que se activa el usuario."
+config.short.description.userMailActivation = "La activación del usuario por correo"
+config.long.description.commentsLoggedUser = "Comentar en los materiales en se permite sólo para usuarios registrados"
+config.short.description.commentsLoggedUser = "Comentar sólo para usuarios registrados"
+config.long.description.cacheLife = "El tiempo en segundos después del cual la caché se borrará"
+config.short.description.cacheLife = "cache lifetime"
+config.long.description.cache = "variable le dice si la Página debe almacenar en caché por el sistema de caché mediante smarty"
+config.short.description.cache = cache Página
+config.long.description.cacheResources = "Después de activar el almacenamiento en caché , se crea un css embalado y js que increast eficiencia de genereting sitio web"
+config.short.description.cacheResources = "Caché para archivos CSS y JS"
+Este es el tipo de licencia Windu, no lo cambie, el cambio se produce sólo después de la activación del sistema en la versión PRO."
+config.short.description.license = "Tipo de licencia Windu"
+config.long.description.downloadedRevision = "Número de revisión descargada"
+config.short.description.downloadedRevision = "Número de revisión descargada"
+config.long.description.updateServerRevision = "Número de revisión del servidor de actualización"
+config.short.description.updateServerRevision = "Número de revisión del servidor de actualización"
+config.long.description.imgGalleryFullWidth = "El tamańo de la gran foto en la galería después de hacer clic en la miniatura"
+config.short.description.imgGalleryFullWidth = "El tamańo de la gran foto en la galería"
+config.long.description.imgGalleryFullHeight = "El tamańo de la gran foto en la galería después de hacer clic en la miniatura"
+config.short.description.imgGalleryFullHeight = "El tamańo de la gran foto en la galería"
+config.long.description.backgroundAdmin5 = "Fondo"
+config.short.description.backgroundAdmin5 = "Fondo"
+config.long.description.sessionToken = "sessionToken"
+config.short.description.sessionToken = "sessionToken"
+config.long.description.winduLink = "Windu Link"
+config.short.description.winduLink = "Windu Link"
+config.long.description.contentListCount = "Número de elementos de la lista que muestra Páginass , noticias en páginas o causado por contentListShow o tagsShowNormal."
+config.short.description.contentListCount = "Número de elementos en la lista"
+config.long.description.contentListLength = "Número predeterminado de caracteres después de la firma se corta"
+config.short.description.contentListLength = "Firma"
+config.long.description.licenseKey = "Clave de licencia"
+config.short.description.licenseKey = "Clave de licencia"
+config.long.description.editorCKEType = "Los valores posibles Ă ˘ â, Ź â  š Ă ˘ â, Ź â  š son : mínimo, básico, normal, completo"
+config.short.description.editorCKEType = "Tipo de editor de contenido"
+config.long.description.adminLanguage = "Refrán variable sobre el lenguaje del grupo administrativo de expertos"
+config.short.description.adminLanguage = "Panel de admin de idiomas"
+config.long.description.frontLanguage = "Refrán variable sobre el lenguaje del hogar de página principal"
+config.short.description.frontLanguage = "Idioma de página principal"
+config.long.description.sitemap = "variable de decir si se activa o generador de sitemap automático, el mapa se generará una vez al día"
+config.short.description.sitemap = "Sitemap automatico"
+config.long.description.analiticscode = Código Analitics
+config.short.description.analiticscode = Código Analitics
+config.long.description.googleverifycontent = "Código de verificación del sitio de Google "
+config.short.description.googleverifycontent = "Código de verificación del sitio de Google "
+config.long.description.timezone = "Zona Horaria"
+config.short.description.timezone = "Zona Horaria"
+
+config.long.description.firewallRequestLimit =  "La variable indica cuántas veces se puede consultar los datos de PI nuestro sitio web en una hora"
+config.short.description.firewallRequestLimit = "Límite de solicitud Firewall"
+config.long.description.firewallEmail =  "En esta dirección de correo electrónico para enviar notificaciones de los límites alcanzados por el actual IP"
+config.short.description.firewallEmail = "Límite de solicitud Firewall"
+
+config.long.description.SystemRun-monitoringAlexa =  "Variable dice si el sistema tiene que generar everydays informe de datos de rango Alex"
+config.short.description.SystemRun-monitoringAlexa = "monitoreo Alex"
+config.long.description.SystemRun-monitoringGoogle =  "Variable dice si el sistema tiene que generar everydays informe de datos de Google y Google PR Página Speed"
+config.short.description.SystemRun-monitoringGoogle = "Monitoreo Google"
+
+config.long.description.SystemRun-firewall =  "Variable dice si se activa o firewall"
+config.short.description.SystemRun-firewall = "Firewall"
+config.long.description.SystemRun-log =  "Variable dice si se activa en el sistema de registro de eventos del sistema"
+config.short.description.SystemRun-log = "Registro de eventos"
+config.long.description.SystemRun-requestLog =  "Variable dice si desea activar el registro en el sistema de la demanda" 
+config.short.description.SystemRun-requestLog = "Registro de Solicitud"
+config.long.description.SystemRun-monitoring =  "Variable dice si se activa o sistema de monitoreo"
+config.short.description.SystemRun-monitoring = "Monitoreo"
+config.long.description.SystemRun-statistic =  "Variable dice si se activa en el sistema de estadísticas" 
+config.short.description.SystemRun-statistic = "Páginas estadísticas" 
+
+admin.moderator.users.active.tpl.username = "Usuario"
+admin.moderator.users.active.tpl.ipadress = "Dirección IP" 
+admin.moderator.users.active.tpl.noresults = "No hay resultados" 
+
+
+
+admin.moderator.userlist.tpl.username = "Usuario"
+admin.moderator.userlist.tpl.status = "Estado"
+admin.moderator.userlist.tpl.ipadress = "Dirección IP"
+admin.moderator.userlist.tpl.creationdate = "Fecha de creación" 
+admin.moderator.userlist.tpl.name = "Nombre"
+admin.moderator.userlist.tpl.surname = "Apellido"
+admin.moderator.userlist.tpl.comments ="Comentarios"
+admin.moderator.userlist.tpl.gades = "Clasificación"
+admin.moderator.userlist.tpl.noresults = "No hay resultados"
+
+
+admin.moderator.comments.tpl.inactivecom = Comentarios inactivos
+admin.moderator.comments.tpl.status = Estado
+admin.moderator.comments.tpl.user = Usuario
+admin.moderator.comments.tpl.bucket = Bucket
+admin.moderator.comments.tpl.created = Creado
+admin.moderator.comments.tpl.ip = IP
+
+admin.moderator.comments.tpl.commentsactive = "Comentarios activos"
+admin.moderator.comments.tpl.user = "Usuario"
+admin.moderator.comments.tpl.noresults = "No hay resultados"
+
+admin.notify.backup = "Crear copia de seguridad del sistema"
+admin.notify.cron.long = "Tarea Cron se hizo cargo de 20 ańos!"
+
+app.pagesdb.site = Sitio
+app.pagesdb.group = Grupo
+app.pagesdb.gallery = Galería
+app.pagesdb.news = Galería
+app.pagesdb.link = Enlace
+
+
+admin.common.go.thismodpro = "Este módulo está disponible para los titulares de la versión PRO."
+admin.common.go.thismod = "Este módulo está disponible para los tenedores de las versiones PRO o PLUS."
+admin.common.go.buylicensepro = "Comprar licencia PRO en la página web Windu y luego activarlo para disfrutar de las capacidades extendidas de nuestro sistema CMS!"
+admin.common.go.buylicenseproplus = "Comprar licencia PRO o PLUS en la página web Windu y luego activarlo para disfrutar de las capacidades extendidas de nuestro sistema CMS!"
+admin.common.go.buypro = "Comprar licencia PRO"
+admin.common.go.enterkey = "Introducir código de activación."
+
+
+
+admin.system.rightbuttons.tpl.content = Contenido de páginas
+admin.system.rightbuttons.tpl.pageedit = Editar páginas 
+admin.system.rightbuttons.tpl.contedit = Editar contenidos
+admin.system.rightbuttons.tpl.orderchange = Cambio de orden de las páginas
+admin.system.rightbuttons.tpl.addnews = Agregar noticias
+admin.system.rightbuttons.tpl.addcontent = Adición de contenido
+admin.system.rightbuttons.tpl.addpage = Ańadir Páginas
+admin.system.rightbuttons.tpl.addphoto = Ańadir fotos
+admin.system.rightbuttons.tpl.addfile = Ańadir archivos 
+admin.system.rightbuttons.tpl.gallery = Galería 
+admin.system.rightbuttons.tpl.editmenu = Edición de menu
+admin.system.rightbuttons.tpl.filelist = Lista de todos los archivos
+admin.system.rightbuttons.tpl.fielsadded = Los archivos que el sistema
+admin.system.rightbuttons.tpl.photolist = Lista de todas los fotos
+admin.system.rightbuttons.tpl.photosadded = Fotos ańadidos a systemZ
+admin.system.rightbuttons.tpl.banners = Banners
+admin.system.rightbuttons.tpl.polls = Encuestas
+admin.system.rightbuttons.tpl.calendar = Calendario
+admin.system.rightbuttons.tpl.langs = Idiomas
+admin.system.rightbuttons.tpl.tanslations = Traducciones
+admin.system.rightbuttons.tpl.addeditlang = Agregar y editar el idioma
+admin.system.rightbuttons.tpl.bin = Bin
+admin.system.rightbuttons.tpl.deletedelements = Elementos eliminados
+admin.system.rightbuttons.tpl.autosave = Autosave
+admin.system.rightbuttons.tpl.users = Usuarios
+admin.system.rightbuttons.tpl.usersview = Visión general de usuarios
+admin.system.rightbuttons.tpl.commentview = Comentarios
+admin.system.rightbuttons.tpl.comments = Comentarios
+admin.system.rightbuttons.tpl.contentadded = Contenidos agregados por los usuarios
+admin.system.rightbuttons.tpl.admins = Administradores
+admin.system.rightbuttons.tpl.addingadmin = Ańadir y administrar edición 
+admin.system.rightbuttons.tpl.editrights = Editar el poder de adminiatradores
+admin.system.rightbuttons.tpl.siteusers = Usuarios del sitio
+admin.system.rightbuttons.tpl.addingusers = Ańadir y editar el usuario
+admin.system.rightbuttons.tpl.editusers = Editar poder de usuario
+admin.system.rightbuttons.tpl.permits = Poderes
+admin.system.rightbuttons.tpl.edituserpermits = Editar poderes de usuario
+admin.system.rightbuttons.tpl.graphtemps = Plantillas gráficas
+admin.system.rightbuttons.tpl.sitegraphics = Plantillas gráficas
+admin.system.rightbuttons.tpl.templates = Plantillas
+admin.system.rightbuttons.tpl.graphtempinst = Instalación de plantillas gráficas
+admin.system.rightbuttons.tpl.editsitesgraph = Editar sitios web gráficos
+admin.system.rightbuttons.tpl.logotypechange = Cambiar logotipo
+admin.system.rightbuttons.tpl.logotype = Logotipo
+admin.system.rightbuttons.tpl.addanalitcode = Adición de código de Google Analytics
+admin.system.rightbuttons.tpl.widgets = Widgets
+admin.system.rightbuttons.tpl.widupdate = Widgets actualización
+admin.system.rightbuttons.tpl.addonsinstall = Addon instalación en el sitio web
+admin.system.rightbuttons.tpl.tools = Herramientas
+admin.system.rightbuttons.tpl.protools = Funciones adicionales PRO 
+admin.system.rightbuttons.tpl.monitoring = Monitoreo de sitios web
+admin.system.rightbuttons.tpl.systemstats = Estadísticas del sistema
+admin.system.rightbuttons.tpl.rss = RSS	
+admin.system.rightbuttons.tpl.rsschan = Canal RSS
+admin.system.rightbuttons.tpl.seo = Seo
+admin.system.rightbuttons.tpl.errorredirect = 404 errores redirigen
+admin.system.rightbuttons.tpl.mailing = Mailing
+admin.system.rightbuttons.tpl.massmail = Masa de e-mail enviar correspondencia
+admin.system.rightbuttons.tpl.contacts = Contactos
+admin.system.rightbuttons.tpl.contactbase = Base de datos de contactos
+admin.system.rightbuttons.tpl.database = Base de datos
+admin.system.rightbuttons.tpl.tabellist = Lista de tablas en la base de datos
+admin.system.rightbuttons.tpl.viewdata = Resumen de datos en la base de datos
+admin.system.rightbuttons.tpl.config = Configuración
+admin.system.rightbuttons.tpl.gensettings = Ajustes generales
+admin.system.rightbuttons.tpl.generalconfig = Configuración General
+admin.system.rightbuttons.tpl.configcont = Configuración de contenido
+admin.system.rightbuttons.tpl.settingscont = Ajustes de contenido
+admin.system.rightbuttons.tpl.configusers = Ajustes de usuarios
+admin.system.rightbuttons.tpl.userpermits = Configuración de usuarios
+admin.system.rightbuttons.tpl.graphconfig = Configuración gráfica
+admin.system.rightbuttons.tpl.graphsetting = Ajustes de gráfica
+admin.system.rightbuttons.tpl.toolsconfig = Herramientas de configuración
+admin.system.rightbuttons.tpl.toolssetting = Tools settings
+admin.system.rightbuttons.tpl.systemconfig = Configuración del sistema
+admin.system.rightbuttons.tpl.systemsettings = Ajustes del sistema
+admin.system.rightbuttons.tpl.system = Sistema	
+admin.system.rightbuttons.tpl.stats = Estadísticas
+admin.system.rightbuttons.tpl.visits = Visitas
+admin.system.rightbuttons.tpl.entries = Número de visitas
+admin.system.rightbuttons.tpl.notice = Notificaciones
+admin.system.rightbuttons.tpl.backup = Copia de seguridad	
+admin.system.rightbuttons.tpl.backupcopy = Copia de copia de segurida
+admin.system.rightbuttons.tpl.systemcopy = Copias de sistema
+admin.system.rightbuttons.tpl.systemlogs = Registros del sistea
+admin.system.rightbuttons.tpl.404errors = Errores 404
+admin.system.rightbuttons.tpl.systemerrors = Los errores del sistema
+admin.system.rightbuttons.tpl.logins = Número de inicios de sesión
+admin.system.rightbuttons.tpl.updates = Actualizaciones
+admin.system.rightbuttons.tpl.cron = Cron
+admin.system.rightbuttons.tpl.systemtasks = Tareas de sistema
+admin.system.rightbuttons.tpl.firewall = Firewall
+admin.system.rightbuttons.tpl.systemfirewall = System firewall
+admin.system.rightbuttons.tpl.reqlog = Request Log
+admin.system.rightbuttons.tpl.references = Referencias al sitio web
+admin.system.rightbuttons.tpl.license = Licencia
+admin.system.rightbuttons.tpl.windupro = Windu Pro	
+admin.system.rightbuttons.tpl.winduplus = Windu Plus	
+admin.system.rightbuttons.tpl.keyactivation = Activación de la clave de licencia
+
+
+
+
+admin.forum.tpl.forums = Foros
+admin.forum.tpl.posts = Mensajes
+admin.forum.tpl.stats = Estadísticas
+admin.forum.tpl.forumlist = Lista de fotos
+admin.forum.tpl.addforum = Ańadir foro
+admin.forum.tpl.name = Nombre
+admin.forum.tpl.desc = Descripción
+admin.forum.tpl.groups = Grupo
+admin.forum.tpl.topics = Temas
+admin.forum.tpl.posts = Mensajes
+admin.forum.tpl.addedit = Agregar o foros o grupos de edición 
+admin.forum.tpl.posts.last90days = Número de mensajes los últimos 90 días
+admin.forum.tpl.posts.last3days = Mensajes Últimos 3 días
+admin.forum.tpl.threads.last3days = Temas duran 3 días
+admin.forum.tpl.posts.last30days = Mensajes últimos 30 días
+admin.forum.tpl.threads.last30days = Temas 30 días
+admin.forum.tpl.posts.popular30days = La mayoría de los temas populares de 30 días
+admin.forum.tpl.newusers.3days = Nuevos 3 días
+admin.forum.tpl.activeusers.3days= Activo 3 días
+admin.forum.tpl.newusers.30days = Nuevos 30 días
+admin.forum.tpl.activeusers.30days = Activo 30 días
+admin.forum.tpl.activeusers.most30days = Más activo 30 días
+
+admin.help.tpl.video = Video instructivo
+admin.help.tpl.guide = Guía
+
+admin.images.editor.tpl.prep = Preparar acoplamiento del cuadro
+
+admin.calendar.tpl.calendar = Calendario
+admin.calendar.tpl.addcalendar = Ańadir Calendario
+admin.calendar.tpl.events = Eventos
+admin.calendar.tpl.addevent = Ańadir un evento
+admin.calendar.tpl.eventsdata = Data de eventos
+
+
+admin.lang.tpl.edittrans = Editar traducción
+admin.lang.tpl.addlanguage = Agregar idioma
+admin.lang.tpl.phraselist = Lista de frase
+admin.lang.tpl.editphrase = Editar frase
+admin.lang.tpl.editlangphrase = Editar idioas
+admin.lang.tpl.key = Clave
+admin.lang.tpl.nodata = no hay data
+
+
+admin.rss.tpl.rsslist = Lista RSS de lectores
+admin.rss.tpl.noata = No hay data
+admin.rss.tpl.newrss = Ańadir un nuevo canal RSS
+
+
+
+
+
+admin.frontedit.tpl.color = Colores y tamańo
+admin.frontedit.tpl.frontedit = Windu frontEditor
+admin.frontedit.tpl.edit = "Editar contenido en el panel de los administradores"
+admin.frontedit.tpl.edittemplate = Editar plantilla  de páginas
+admin.frontedit.tpl.editcss = Editar CSS
+admin.frontedit.tpl.hide = Ocular página
+admin.frontedit.tpl.set = Establecer visibilidad de página
+admin.frontedit.tpl.refresh = Actualizar
+admin.frontedit.tpl.changessaved = Los cambios se han guardado
+admin.frontedit.tpl.save = Guardar
+admin.frontedit.tpl.cancel = Cancelar
+admin.frontedit.tpl.template = Plantillas gráficas
+admin.frontedit.tpl.addtemplate = Ańadir plantilla
+admin.frontedit.tpl.settings = Ajustes
+admin.frontedit.tpl.gallery = Galería
+admin.frontedit.tpl.news = Noticias
+admin.frontedit.tpl.images = Imagenes
+admin.frontedit.tpl.slider = Slider
+admin.frontedit.tpl.halp = Ayuda
+admin.frontedit.tpl.helpdep = Windu ayuda dep.
+admin.frontedit.tpl.forumwind = Foro Windu
+admin.frontedit.tpl.webdevport = Páginas de WebDevelopers
+admin.frontedit.tpl.editlvl = Editar desde el nivel del navegador
+admin.frontedit.tpl.showwdiget = Mostrat los widgets
+admin.frontedit.tpl.cacherec = Cache 
+admin.frontedit.tpl.cachetemps = Plantillas de cache
+admin.frontedit.tpl.clearcache = Borrar cache
+admin.frontedit.tpl.logout = Finalizar la sesión 
+admin.frontedit.tpl.images = Imagenes
+admin.frontedit.tpl.addelement = Ańadir elemento a la página
+
+
+
+
+admin.tools.tpl.banners.nodata = No hay data para mostrar 
+usertype.db.brak = Vacío
+admin.content.controller.nofields = No hay campos definibles
+search.results.filters = Filtros
+search.results.addfilter = Ańadir un filtro
+search.results.Nooffers = No hay ofertas
+search.results.auctionends = Fin de la subasta:
+search.results.noresultschoose =  No hay resultados, elija una categoría o definen un filtro !
+admin.content.controller.nofields = No hay campos definibles
+admin.content.controller.newfield = Nuevo campo definible
+search.results.currency = zĹ
+accesslog.filedb.logsmoved = "Registros trasladaron a la base de datos:"
+rss.class.update = Actualización de RSS feed
+rss.class.empty = RSS feed vacío
+admin.mailingdocontrollersendmailing = Enviar mensajes de correo electrónico de correo: 
+system.status.class.status = Estado guardado en la base de datos:
+firewall.class.firewallday = Archivos diarios de  borrados:
+firewall.class.month = Firewalls monthly files deleted:
+pages.backupsdb.class.pagever = Versión de la página estaba lleno
+
+
+core.cron.class.access = <span class="badge">H</span> Mover registro de acceso a la base de datos
+core.cron.class.feedup = <span class="badge">H</span>  Actualización RSS feed
+core.cron.class.smailing = <span class="badge">H</span> Enviar correos
+core.cron.class.writesys = <span class="badge badge-success">D</span> Guardar estado del sistema
+core.cron.class.cleanold = <span class="badge badge-success">D</span> Limpiar días de edad los archivos de servidor de seguridad
+core.cron.class.generate = <span class="badge badge-success">D</span> Generar sitemap real
+core.cron.class.pver = <span class="badge badge-info">W</span> Paquear  versiones de páginas
+core.cron.class.cleancache = <span class="badge badge-info">W</span> Limpiar cache
+core.cron.class.cleanold = <span class="badge badge-info">W</span> Limpiar registros de solicitudes viejas 
+core.cron.class.cleanologs = <span class="badge badge-info">W</span>  Limpiar registros antiguos 
+core.cron.class.database = <span class="badge badge-inverse">M</span> Vacum base de datos
+ore.cron.class.cleanfire = <span class="badge badge-inverse">M</span> Limpio archivos de registro de servidor de seguridad antiguas 
+core.cron.class.deleteall = <span class="badge badge-inverse">M</span> Eliminar todos thumbsnails 
+core.cron.class.deleteold = <span class="badge badge-inverse">M</span> Eliminar copias de seguridad antiguas 
+core.cron.class.backupsys = <span class="badge badge-inverse">M</span> Copia de seguridad del sistema
+
+
+core.cron.class.images = Miniaturas se han limpiado 
+core.cron.class.newsite = Escribir una nueva mapa del sitio 
+core.cron.class.allcache = Todos cache se ha limpiado 
+core.cron.class.oldrequest = Los registros de solicitud viejos eliminados 
+core.cron.class.oldlogs = Los registros borrados
+
+
+config.short.description.language-admin = Panel de administración de idioma
+config.short.description.language-front = Página principal de idioma
+config.short.description.day_clean_firewall = Firewall limpiando
+config.short.description.day_sitemap = Mapa del sitio de generación 
+config.short.description.day_write_system_status = Guardar el estado del sistema
+config.short.description.hour_move_acceslogs = Transferencia de registros
+config.short.description.hour_rss_update =  Actualización de RSS
+config.short.description.leftOpenMenu = Página principal
+config.short.description.month_backup = Copia de seguridad mensual
+config.short.description.month_clean_backups = Borrado viejas copias de seguridad de copias 
+config.short.description.month_clean_firewall = Limpieza Firewall mensual
+config.short.description.month_delete_thumbs = Limpieza de miniatura
+config.short.description.month_vacum = Limpieza de base de datos
+config.short.description.week_compact_versions = Compactación versiones del sitio
+config.short.description.week_delete_old_logs = Limpiar registros antiguos
+config.short.description.week_delete_old_requestlogs = Limpieza registros de solicitudes viejas
+config.short.description.week_flush_cache = Limpieza cache
+admin.menu.help = Ayuda
+config.long.description.day_clean_firewall = Limpieza diaria de los servidores de seguridad de archivos antiguos
+config.long.description.day_sitemap = Generando stiemaps para motores de búsqueda
+config.long.description.day_write_system_status = Ahorro sistema de diario utilizado para la herramienta de monitoreo
+config.long.description.hour_move_acceslogs = Por hora sitios móviles solicitan registros de base de datos
+config.long.description.hour_rss_update = Actualización por hora de los canales RSS conectado al sitio web
+config.long.description.leftOpenMenu = Indica si el menú en la parte izquierda de la principal Página está activado
+config.long.description.month_backup = Monthly backup copy of the whole system
+config.long.description.month_clean_backups = Limpieza de copias de seguridad a partir de los 3 últimos meses.
+config.long.description.month_clean_firewall = Limpieza mensual de los archivos de servidor de seguridad antiguas
+config.long.description.month_delete_thumbs = Limpieza mensual de las miniaturas
+config.long.description.month_vacum = Limpieza semanal de las bases de datos para reducir su tamańo
+config.long.description.week_compact_versions = Eliminación semanal de edad Páginas guardarán durante la edición .
+config.long.description.week_delete_old_logs = Limpieza semanal de los registros antiguos en la base de datos
+config.long.description.week_delete_old_requestlogs = Limpieza mensual de sitios web de registros de solicitudes
+config.long.description.week_flush_cache = Limpieza mensual de caché de sitios web entera
+config.short.description.sliderContentLength = Cantidad de caracteres en el slider
+
+
+
+
+creator.tpl.next = Siguiente
+creator.tpl.viewweb = Ver el sitio web
+creator.tpl.viewedit =  Ver y editar su sitio web. A la izquierda se puede ver el panel edición, puede cambiar la configuración y colores, y también activar el editor de línea
+creator.tpl.editpage = Editar páginas
+creator.tpl.editadminpanel = Editar Páginas en el panel de administración . También puede editar la página web a través InplaceEditor el página principal!
+creator.tpl.edittempl = Editar plantilla
+creator.tpl.editcode =  Editar plantillas gráficas código en el panel de administración. Plantilla consiste en docenas de archivos, que se pueden cambiar con un conocimiento de HTML / CSS.
+creator.tpl.sys = Sistema
+creator.tpl.thisplace = En este lugar se puede gestionar, revisar el estado del sistema, hacer cambios y comprobar lo que está pasando con su sitio web.
+creator.tpl.webst = Sitio web
+creator.tpl.simplepage = Sitio web normal que contiene los elementos básicos como meny, iniciando sesión y un control de slider.
+creator.tpl.blog = Blog
+creator.tpl.blogsite = Blog del sitio web, utilizado para ańadir mensajes en la página principal con comentarios y la tala pulg
+creator.tpl.portal = Portal
+creator.tpl.advsite = web avanzado con iniciar sesión, slider y noticias en la página principal.
+creator.tpl.forum = Foro
+creator.tpl.website = Sitio web ocupa un papel de un foro. Consiste en el registro en el panel y la estructura ideal para su propósito.
+
+
+
+admin.content.controller.websitelink = Enlace a página
+admin.content.controller.rating = Calificación
+admin.content.controller.datecrea = Fecha de creación
+admin.content.controller.datelastup = Fecha de la última actualización
+admin.content.controller.creatorip = Creadores IP
+admin.content.controller.iplastedit = IP del último editor
+admin.content.controller.codeinserted = Contenido código de inserción
+
+admin.content.tpl.bucketsystem = Sistema
+admin.content.tpl.bucketpages = Sitio web
+
+admin.system.common.tpl.monthlybackupcop = Copia de seguridad mensual automática
+
+
+admin.common.tpl.showall = Mostrar todo
+admin.common.tpl.showrecent = Mostrar reciente
+
+
+
+admin.content.controller.watermarkstatus = Marcas de agua de estado
+admin.content.controller.watermarkactive = Habilitado
+admin.content.controller.watermarkinactive = Desactivado
+
+
+admin.customfields.modal.tpl.addfields = Agregar campos definibles
+
+
+
+admin.common.conservation.tpl.migration = La migración a MySQL
+admin.common.conservation.tpl.stepone = Paso dos
+admin.common.conservation.tpl.setconn = Establecer conexión
+admin.common.conservation.tpl.targetmysql = Target MySQL server
+admin.common.conservation.tpl.completed = Completado
+admin.common.conservation.tpl.steptwo = Paso dos
+admin.common.conservation.tpl.transdata = Fecha de transferencia
+admin.common.conservation.tpl.checkbase = Comprobar la base de datos
+admin.common.conservation.tpl.tryagain = Reintentar
+admin.common.conservation.tpl.stepthree = Paso tres
+admin.common.conservation.tpl.finalization = Finalización de la configuración
+admin.common.conservation.tpl.checkingdatabases = Comprobarsi la base de datos está correcta
+admin.common.conservation.tpl.rundatabase = Ejecutar la base de datos
+
+
+admin.backupdb.class.php.oldbackups = Viejas copias de seguridad eliminadas antes
+admin.backupdb.class.php.backups = Copia de seguridad de datos acabada
+
+
+admin.frontedit.tpl.disableleftmenu = Editor del sitio
+admin.frontedit.tpl.editimages = Editar imágenes
+
+
+
+admin.templates.common.goprobanner.gopro = Go PRO
+admin.nodata = No hay datos para mostrar
+admin.common.conservation.tpl.yourwidgetuptodate = Todos los widgets hasta la fecha
+admin.index.tpl.forum = Aquí, puede administrar los foros y ver las estadísticas.
+admin.system.tpl.lastlogs = Registros recientes
+admin.system.tpl.crontasks = Tareas de cron
+admin.sidebar = Gire la barra lateral
+admin.content.controller.idnumb = Número ID
+admin.content.controller.numberdisp = Número de visitas
+admin.check.systemRun = A partir de los subsistemas
+config.long.description.license = Este es el tipo de licencia Windu, no lo cambie, el cambio se produce sólo después de la activación del sistema en la versión PRO.
+admin.frontedit.tpl.subtheme = Plantilla subpage
+core.cron.class.cleanoldrequest =   <span class="badge badge-info">W</span>Limpie los viejos registros de solicitudes
+core.cron.class.cleanfire = <span class="badge badge-inverse">M</span> I vecchi file di log del firewall pulite=  <span class="badge badge-inverse">M</span>Limpie viejos registros del firewall
+admin.templates.common.tabs.cleanpins = Limpie las clavijas
+admin.common.conservation.tpl.themes = Temas
+admin.common.conservation.tpl.database = Base de datos
+admin.common.conservation.tpl.backups = Las copias de seguridad
+admin.common.conservation.tpl.cache = Nascondiglio
+admin.common.conservation.tpl.others = Otros
+admin.do.controller.changes = Los cambios se han guardado
+admin.update.controller.tryagain = Inténtelo de nuevo
+admin.update.controller.upforyou = No hay ninguna actualización para usted
+admin.update.controller.adminpane = Panel de administración
+admin.system.rightbuttons.tpl.simplified = Simplificado
+admin.system.rightbuttons.tpl.basic = Básico
+admin.system.rightbuttons.tpl.advanced = Avanzado
+admin.system.rightbuttons.tpl.basicmod = Modo básico
+admin.system.rightbuttons.tpl.advmod = Modo avanzado
+admin.system.rightbuttons.tpl.simplifiedmod = Modo simplificado
+admin.content.controller.searchedphrase = Frase de la búsqueda
+admin.templates.common.goprobanner.buypro = Comprar una licencia PRO por $ 39
+admin.templates.common.goprobanner.gain = Obtenga acceso de por vida a un conjunto de herramientas avanzadas!

@@ -1,0 +1,12 @@
+comments.normal.content = contenido Comentarios
+comments.normal.givecontent = Escribir un comentario
+comments.normal.email = Email
+comments.normal.giveemail = Introduce una Email correcta
+comments.normal.loginemail = Inicia la sesión y luego añadir comentarios
+comments.normal.post = Publicar comentario
+comments.normal.comments = Comentarios
+comments.normal.addcomments = Añadir comentario
+comments.normal.mustlogin = Registrarse e iniciar sesión para poder añadir comentarios
+
+widgets.commentsNormal.smallhelp = Muestra los comentarios
+ 

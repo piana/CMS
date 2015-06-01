@@ -1,0 +1,1 @@
+ widgets.menuNormal.smallhelp = 生成标准的html菜单

@@ -1,0 +1,53 @@
+front.form.more = mehr
+front.form.project = Projekt und Ausführung:
+front.form.workon = na silniku:
+front.form.send = senden
+front.form.giveemail = richtige E-Mail-Adresse eingeben
+front.form.email = E-Mail-Adresse
+front.form.giveelement = Bitte Formularfeld ausfüllen
+front.form.contactformcontent = Nachrichteninhalt
+front.form.givecorrectemail = richtige E-Mail-Adresse eingeben
+
+validator.required = "Feld darf nicht leer bleiben"
+validator.email = "richtige E-Mail-Adresse eingeben"
+validator.number = "Nummer eigeben"
+validator.captcha = "Text vom Bild abschreiben"
+validator.captcha.error = "Abgeschriebener Kode ist falsch!"
+
+admin.message.error = "Es gibt Fehler in Formular"
+admin.message.success = "Operation ist richtig durchgeführt"
+
+news.gropu.id = 870
+
+editable.front.footer.terms = Alle Rechte vorbehalten, das lizenzwidersprüchliches Kopieren der Materiallen von der Seite ist verboten.
+editable.front.footer.designed = Projekt und Ausführung:
+editable.front.footer.engine = "Auf Motor:"
+editable.front.welcome = Willkommen
+editable.front.search = Suche
+editable.front.login = Anmelden
+editable.front.news = Nachrichten
+editable.front.logos = Beispielhafte Logotypen
+editable.front.tags = Tags
+
+
+register.mail.tpl.welcome = Willkommen
+register.mail.tpl.regged = Du wurdest auf der Seite reigistriert
+register.mail.tpl.tocont = Um das Konto zu aktivieren, klicke nachkommendes Link:
+register.mail.tpl.activate = Konto aktivieren!
+register.mail.tpl.iffor = Falls das Link nicht klickbar ist, kopiere es, klebe in Internetbrowserleiste ein und klicke Enter.
+register.mail.tpl.team = Team
+
+
+
+admin.pagesdb.class.php.save = Speichern
+admin.pagesdb.class.php.image = Bild
+admin.pagesdb.class.php.file = Datei
+admin.pagesdb.class.php.widget = Widget
+
+admin.menu.left.tpl.image = Bild zufügen
+admin.menu.left.tpl.widget = Widget zufügen
+admin.menu.left.tpl.file = Datei zufügen
+front.welcome = 
+front.footer.engine = 
+front.footer.designed = 
+%EF%BB%BFcontactform.message.positive = 

@@ -1,0 +1,4 @@
+contactform.message.positive = 该消息已发送，我们会尽快答复！
+contactform.message.negative = 填写所有表格字段！
+front.form.msgsent = 该消息已发送，我们会尽快答复！
+widgets.contactForm.smallhelp = 联系表格

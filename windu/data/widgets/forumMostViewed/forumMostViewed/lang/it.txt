@@ -1,0 +1,2 @@
+﻿widgets.mostViewed.smallhelp = Widget mostra i post più visti 
+mostViewed.title = Messaggi più visti

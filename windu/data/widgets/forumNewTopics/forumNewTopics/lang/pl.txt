@@ -1,0 +1,2 @@
+widgets.newTopics.smallhelp = Widget wyświetlający ostatnio dodane tematy
+newTopics.title = Ostatnio dodane tematy

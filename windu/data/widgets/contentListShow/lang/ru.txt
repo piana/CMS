@@ -1,0 +1,2 @@
+ content.list.show.noresults = Нет элементов для отображения
+widgets.contentListShow.smallhelp = Отображает список материалов

@@ -1,0 +1,1 @@
+ widgets.banner.smallhelp = Wird verwendet, um ein Banner einfügen

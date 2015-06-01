@@ -1,0 +1,1 @@
+ widgets.calendarList.smallhelp = Visualizza il calendario in forma di elenco

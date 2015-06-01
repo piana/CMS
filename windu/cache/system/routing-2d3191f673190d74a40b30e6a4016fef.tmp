@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:13:"/admin/login/";s:10:"parameters";a:2:{s:4:"name";s:11:"admin-login";s:10:"controller";s:20:"adminLoginController";}s:12:"variableName";a:0:{}s:6:"regexp";s:20:"/^\/admin\/login\/$/";}s:9:"variables";a:0:{}}

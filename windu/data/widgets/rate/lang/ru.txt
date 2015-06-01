@@ -1,0 +1,6 @@
+ rate.message.positive = Спасибо за оценку!
+rate.message.negative = Вы уже голосовали!
+rate.rates.positive = положительные отзывы
+rate.rates.negative = отрицательные отзывы
+rate.rates.befirst = Будьте первым!
+widgets.rate.smallhelp = Рейтинг панель

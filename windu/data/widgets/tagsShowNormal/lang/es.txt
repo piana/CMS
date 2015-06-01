@@ -1,0 +1,4 @@
+tags.show.noresults = No hay elementos etiquetados con esta etiqueta
+
+widgets.tagsShowNormal.smallhelp = Viendo materiales etiquetados con cierta etiqueta
+ 

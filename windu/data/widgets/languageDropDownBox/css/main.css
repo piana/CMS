@@ -1,0 +1,14 @@
+.language-select-box li{
+	display:inline-block;
+}
+.language-select-box{
+	list-style:none;
+}
+
+ul.languagedropdown {
+	min-width: 75px;
+	max-width: 75px;
+}
+ul.languagedropdown>li>a {
+	padding: 3px 12px;
+}

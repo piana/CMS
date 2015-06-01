@@ -1,0 +1,1 @@
+widgets.menuImagesHover.smallhelp = Generuje menu obrazkowe z opcją 2 obrazków na sobie

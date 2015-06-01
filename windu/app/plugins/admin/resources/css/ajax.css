@@ -1,0 +1,84 @@
+body{
+    background: none;
+    padding:0;
+	margin:0;
+	min-width:100%;
+}
+.image-box-modal{
+	display:inline-block;
+    padding: 2px 2px 8px;
+    text-align:center;
+}
+.image-box-modal img{
+	margin-bottom:4px;
+}
+.image-box-modal .label{
+    padding: 4px 5px 5px 4px;
+}
+.image-box-modal .label{
+	margin-right:4px;
+	margin-top:-1px;
+}
+.label-warning, .badge-warning {
+	background-color: #F89406!important;
+}
+.label-info, .badge-info {
+	background-color: #3A87AD!important;
+}
+.form-actions, form{
+	margin:0 !important;
+}
+.images-box-modal{
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:80px;
+}
+.progress {
+	margin-bottom: 0;
+}
+.pad-big .progress{
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.bottomForm .form-actions{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	padding:0;
+	text-align:center;
+}
+.bottomForm .form-horizontal{
+	padding-bottom:70px;
+}
+.bottomForm .form-actions input{
+    margin: 20px 0;
+}
+.bottomForm .form-actions .btn{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.widgetCode{
+	text-align:center;
+	margin-top:50px;
+}
+.form-actions {
+	padding: 17px 20px 4px;
+
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color:white;
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	text-align:center;
+
+}
+form{
+	padding-bottom:0;
+}
+.margin-right{
+	margin-right:5px;
+}

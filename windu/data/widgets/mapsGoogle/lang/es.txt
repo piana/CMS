@@ -1,0 +1,1 @@
+widgets.mapsGoogle.smallhelp = Muestra un mapa del lugar designado

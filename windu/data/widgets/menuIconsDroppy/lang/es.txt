@@ -1,0 +1,2 @@
+widgets.menuIconsDroppy.smallhelp = Genera Droppy desplegable de menú con iconos
+ 

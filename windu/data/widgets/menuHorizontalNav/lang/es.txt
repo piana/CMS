@@ -1,0 +1,1 @@
+widgets.menuHorizontalNav.smallhelp = Menú, que coincide con la anchura Genera

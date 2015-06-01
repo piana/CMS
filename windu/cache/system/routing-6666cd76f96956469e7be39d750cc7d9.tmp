@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:1:"/";s:10:"parameters";a:2:{s:4:"name";s:5:"front";s:10:"controller";s:15:"frontController";}s:12:"variableName";a:0:{}s:6:"regexp";s:6:"/^\/$/";}s:9:"variables";a:0:{}}

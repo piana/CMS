@@ -1,0 +1,3 @@
+news.normal.more = więcej
+
+widgets.newsNormal.smallhelp = Wyświetla aktualności

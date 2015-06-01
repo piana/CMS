@@ -1,0 +1,1 @@
+widgets.banner.smallhelp = Se utiliza para insertar una bandera

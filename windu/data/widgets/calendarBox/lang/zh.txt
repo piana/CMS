@@ -1,0 +1,1 @@
+ widgets.calendarBox.smallhelp = 以图形的形式显示日历

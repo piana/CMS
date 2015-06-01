@@ -1,0 +1,2 @@
+﻿widgets.hotTopics.smallhelp = 插件播放讨论最多的话题 
+hotTopics.title = 最热门的话题

@@ -1,0 +1,253 @@
+@e-color-basic: #428bca;
+@e-color-font_menu: #cdddeb;
+@e-color-bg: #fff;
+@e-color-font_content: #555;
+
+@color-basic-footer: difference(@e-color-bg, #222222);
+
+
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  line-height: 1.428571429;
+  color: @e-color-font_content;
+  background-color: @e-color-bg;
+  margin: 0;
+}
+.blog-footer {
+  padding-top: 150px;
+  text-align: center;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+.newsBlog {
+  color: @e-color-font_content;
+  list-style: none;
+  padding-left: 0px;
+}
+.newsBlog li {
+  color: @e-color-font_content;
+  padding-left: 0;
+  padding-bottom: 40px;
+}
+.newsBlog li:nth-child(odd) {
+  background-color: @e-color-bg;
+  border-bottom: none;
+  border-top: none;
+}
+.newsBlog li a {
+  color: @e-color-font_content;
+  font-size: 26px;
+  text-decoration: none;
+}
+.pad h2 {
+  padding-bottom: 50px;
+}
+.menu-normal {
+  color: @e-color-font_menu;
+  float:left;
+  width: 100%;
+  font-size: 16px;
+  font-weight: bold;  
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-bottom:0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.newsBlog li a img {
+  padding-bottom: 25px;
+  width: 100%;
+  }
+.menu-normal li {
+  color: @e-color-font_menu;
+  text-decoration: none;
+  display: inline-block;
+}
+.menu-normal li a {
+  color: @e-color-font_menu;
+}
+.background-footer .container-pad {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  color: #333;
+}
+h4 {
+  font-size: 26px;
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+.contact-box {
+  padding-left: 15px;
+}
+.blog-sidebar {
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.blog-masthead {
+  background-color: @e-color-basic;
+  box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+}
+.blog-nav {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-right: auto;
+  margin-left: auto;
+} 
+.blog-nav li a {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 500;
+  color: @e-color-font_menu;
+}
+.blog-nav li a:hover,
+.blog-nav li a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+.blog-nav .active {
+  color: #fff;
+}
+.blog-nav .active:after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-left: -5px;
+  vertical-align: middle;
+  content: " ";
+  border-right:  5px solid transparent;
+  border-bottom: 5px solid;
+  border-left:   5px solid transparent;
+}
+.blog-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.blog-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 60px;
+  font-weight: normal;
+}
+.blog-description {
+  font-size: 20px;
+  color: #999;
+}
+.blog-main {
+  font-size: 18px;
+  line-height: 1.5;
+}
+.box-silver {
+  margin-left: 25px;
+}
+.sidebar-module {
+
+  padding: 0;
+  margin: 0;
+}
+.sidebar-module-inset {
+  padding-top: 0px;
+  padding-bottom: 15px;
+
+  border-radius: 4px;
+}
+.sidebar-module-inset p:last-child,
+.sidebar-module-inset ul:last-child,
+.sidebar-module-inset ol:last-child {
+  margin-bottom: 0;
+}
+.pager {
+  margin-bottom: 60px;
+  text-align: left;
+}
+.pager > li > a {
+  width: 140px;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 30px;
+}
+.blog-post {
+  margin-bottom: 60px;
+}
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+.blog-post-meta {
+  margin-bottom: 20px;
+  color: #999;
+}
+
+.blog-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: @color-basic-footer;
+  border-top: 1px solid #e5e5e5;
+}
+.menu-dekoracja {
+  padding:0;
+  margin-bottom: 0;
+}
+.background-footer {
+  background-color: @e-color-bg;
+}
+.pad-bot {
+  padding-bottom: 50px;
+}
+.blog-main {
+  padding-left:0px;
+}
+.news-page ul{
+  padding-left: 0;
+}
+.newsNormal {
+  padding-left: 0;
+}
+.newsNormal li:nth-child(odd) {
+  background-color: @e-color-bg;
+  border-bottom: none;
+  border-top: none;
+}
+.newsNormal li {
+  padding-left: 0;
+}
+@media (max-width:991px) {
+  .mobile-row {
+    background-color:black;
+    text-align:center;
+  }
+  .blog-post {
+    padding-left: 20px;
+  }
+  .blog-post h4 {
+    text-align: center;
+  }
+  .newsBlog {
+    padding-left: 10px;
+  }
+  .blog-header {
+    text-align: center;
+  }
+  .menu-normal {
+    text-align: center;
+  }
+}

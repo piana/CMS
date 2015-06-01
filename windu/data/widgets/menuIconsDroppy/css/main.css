@@ -1,0 +1,21 @@
+/* Basic code - don't modify */
+ #iconsDroppy { display: block; margin: 0; padding: 0; position: relative; font-weight:bold;}
+  #iconsDroppy li { display: block; list-style: none; margin: 0; padding: 0; float: left; position: relative; }
+  #iconsDroppy a { display: block; }
+  #iconsDroppy a img { display: block; }
+  #iconsDroppy ul { display: none; position: absolute; left: 0; margin: 0; padding: 0; }
+  * html #iconsDroppy ul { line-height: 0; } /* IE6 "fix" */
+  	#iconsDroppy ul a { zoom: 1; } /* IE6/7 fix */
+    #iconsDroppy ul li { float: none; }
+    #iconsDroppy ul ul { top: 0; }
+	
+ /* Essentials - configure this */
+ 
+#iconsDroppy ul { width: 170px; }
+#iconsDroppy ul ul { left: 170px;}
+
+#iconsDroppy li a img{
+	margin:auto;
+	margin-bottom:5px;
+}
+

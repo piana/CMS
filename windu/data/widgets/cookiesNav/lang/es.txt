@@ -1,0 +1,6 @@
+cookies.nav.message = Este sitio utiliza cookies, por lo que nuestro servicio puede funcionar mejor.
+cookies.nav.accept = Entiendo
+cookies.nav.privacypolitics = Obtenga más información
+
+widgets.cookiesNav.smallhelp = Información sobre el uso de las cookies
+ 

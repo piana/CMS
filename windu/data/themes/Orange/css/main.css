@@ -1,0 +1,63 @@
+.alert{
+	text-align:center;
+	font-weight:bold;
+	
+	background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.20, rgba(255, 255, 255, 0.10)), color-stop(0.20, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.10)), color-stop(0.75, rgba(255, 255, 255, 0.10)), color-stop(0.75, transparent), to(transparent));
+	background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.10) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.10) 50%, rgba(255, 255, 255, 0.10) 75%, transparent 75%, transparent);
+	background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.10) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.10) 50%, rgba(255, 255, 255, 0.10) 75%, transparent 75%, transparent);
+	background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.10) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.10) 50%, rgba(255, 255, 255, 0.10) 75%, transparent 75%, transparent);
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.10) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.10) 50%, rgba(255, 255, 255, 0.10) 75%, transparent 75%, transparent);
+	
+	-webkit-background-size: 50px 50px;
+	-moz-background-size: 50px 50px;
+	-o-background-size: 50px 50px;
+	background-size: 50px 50px;
+	
+	margin-top:0px;
+	margin-bottom:0px;
+	
+	-webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+	-moz-box-shadow:    0px 1px 4px rgba(0, 0, 0, 0.09);
+	box-shadow:         0px 1px 4px rgba(0, 0, 0, 0.09);
+	
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;	
+	
+	border:0px;
+	padding:15px;
+}
+.alert-success{
+	background-color: #5e9b34;
+	border-color: #D6E9C6;
+	color: #fff;
+	border-top:0px;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+.alert-error{
+	background-color: #BA1D1A!important;
+	color:white;
+	border-color:#BA1D1A;
+	border-top:0px;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+.alert .close{
+	top:2px;
+	right:0px;
+}
+.language-select-box{
+	text-align:right;	
+	padding-right:20px;
+	padding-top:18px;
+}
+.carousel-control {
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	top: 46%;
+	color: #ffffff;
+	background: none;
+	border: 0px;
+}
+input, textarea, .uneditable-input {
+	width: 166px;
+}

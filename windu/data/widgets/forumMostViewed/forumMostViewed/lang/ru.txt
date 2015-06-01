@@ -1,0 +1,2 @@
+﻿widgets.mostViewed.smallhelp = Виджет отображает наиболее просматриваемые сообщения
+mostViewed.title = Самые популярные Сообщений

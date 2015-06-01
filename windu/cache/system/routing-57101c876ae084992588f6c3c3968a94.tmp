@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:8:"/#urlKey";s:10:"parameters";a:2:{s:4:"name";s:11:"indexUrlKey";s:10:"controller";s:15:"frontController";}s:12:"variableName";a:1:{i:0;s:6:"urlKey";}s:6:"regexp";s:14:"/^\/([^\/]+)$/";}s:9:"variables";a:1:{s:6:"urlKey";s:7:"galeria";}}

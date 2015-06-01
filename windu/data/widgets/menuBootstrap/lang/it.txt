@@ -1,0 +1,1 @@
+ widgets.menuBootstrap.smallhelp = Genera menu a discesa da Bootstrap

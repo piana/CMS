@@ -1,0 +1,69 @@
+.picons{
+  background-image: url("../img/picons.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  margin-bottom:-16px;
+  margin-right:10px;
+  margin-left:4px;
+  display: inline-block;
+}
+.picons-01{ background-position: 0 0; width: 34px; height: 35px; } 
+.picons-02{ background-position: 0 -85px; width: 34px; height: 35px; } 
+.picons-03{ background-position: 0 -170px; width: 34px; height: 35px; } 
+.picons-04{ background-position: 0 -255px; width: 34px; height: 35px; } 
+.picons-05{ background-position: 0 -340px; width: 34px; height: 35px; } 
+.picons-06{ background-position: 0 -425px; width: 34px; height: 35px; } 
+.picons-07{ background-position: 0 -510px; width: 34px; height: 35px; } 
+.picons-08{ background-position: 0 -595px; width: 34px; height: 35px; } 
+.picons-09{ background-position: 0 -680px; width: 34px; height: 35px; } 
+.picons-10{ background-position: 0 -765px; width: 34px; height: 35px; } 
+.picons-11{ background-position: 0 -850px; width: 34px; height: 35px; } 
+.picons-12{ background-position: 0 -935px; width: 34px; height: 35px; } 
+.picons-13{ background-position: 0 -1020px; width: 34px; height: 35px; } 
+.picons-14{ background-position: 0 -1105px; width: 34px; height: 35px; } 
+.picons-15{ background-position: 0 -1190px; width: 34px; height: 35px; } 
+.picons-16{ background-position: 0 -1275px; width: 34px; height: 35px; } 
+.picons-17{ background-position: 0 -1360px; width: 34px; height: 35px; } 
+.picons-18{ background-position: 0 -1445px; width: 34px; height: 35px; } 
+.picons-19{ background-position: 0 -1530px; width: 34px; height: 35px; } 
+.picons-20{ background-position: 0 -1615px; width: 34px; height: 35px; } 
+.picons-21{ background-position: 0 -1700px; width: 34px; height: 35px; } 
+.picons-22{ background-position: 0 -1785px; width: 34px; height: 35px; } 
+.picons-23{ background-position: 0 -1870px; width: 34px; height: 35px; } 
+.picons-24{ background-position: -84px 0; width: 34px; height: 35px; } 
+.picons-25{ background-position: -84px -85px; width: 34px; height: 35px; } 
+.picons-26{ background-position: -84px -170px; width: 34px; height: 35px; } 
+.picons-27{ background-position: -84px -255px; width: 34px; height: 35px; } 
+.picons-28{ background-position: -84px -340px; width: 34px; height: 35px; } 
+.picons-29{ background-position: -84px -425px; width: 34px; height: 35px; } 
+.picons-30{ background-position: -84px -510px; width: 34px; height: 35px; } 
+.picons-31{ background-position: -84px -595px; width: 34px; height: 35px; } 
+.picons-32{ background-position: -84px -680px; width: 34px; height: 35px; } 
+.picons-33{ background-position: -84px -765px; width: 34px; height: 35px; } 
+.picons-34{ background-position: -84px -850px; width: 34px; height: 35px; } 
+.picons-35{ background-position: -84px -935px; width: 34px; height: 35px; } 
+.picons-36{ background-position: -84px -1020px; width: 34px; height: 35px; } 
+.picons-37{ background-position: -84px -1105px; width: 34px; height: 35px; } 
+.picons-38{ background-position: -84px -1190px; width: 34px; height: 35px; } 
+.picons-39{ background-position: -84px -1275px; width: 34px; height: 35px; } 
+.picons-40{ background-position: -84px -1360px; width: 34px; height: 35px; } 
+.picons-41{ background-position: -84px -1445px; width: 34px; height: 35px; } 
+.picons-42{ background-position: -84px -1530px; width: 34px; height: 35px; } 
+.picons-43{ background-position: -84px -1615px; width: 34px; height: 35px; } 
+.picons-44{ background-position: -84px -1700px; width: 34px; height: 35px; } 
+.picons-45{ background-position: -84px -1785px; width: 34px; height: 35px; } 
+.picons-46{ background-position: -84px -1870px; width: 34px; height: 35px; } 
+.picons-47{ background-position: -168px 0; width: 34px; height: 35px; } 
+.picons-48{ background-position: -168px -85px; width: 33px; height: 35px; } 
+.picons-49{ background-position: -168px -170px; width: 33px; height: 35px; } 
+.picons-50{ background-position: -168px -255px; width: 34px; height: 35px; } 
+.picons-51{ background-position: -168px -340px; width: 34px; height: 35px; } 
+.picons-52{ background-position: -168px -425px; width: 34px; height: 35px; } 
+.picons-53{ background-position: -168px -510px; width: 34px; height: 35px; } 
+.picons-54{ background-position: -168px -595px; width: 34px; height: 35px; } 
+.picons-55{ background-position: -168px -680px; width: 34px; height: 35px; } 
+.picons-56{ background-position: -168px -765px; width: 34px; height: 35px; } 
+.picons-57{ background-position: -168px -850px; width: 33px; height: 35px; } 
+.picons-58{ background-position: -168px -935px; width: 34px; height: 35px; } 
+.picons-59{ background-position: -168px -1020px; width: 34px; height: 35px; } 
+.picons-60{ background-position: -168px -1105px; width: 33px; height: 35px; } 

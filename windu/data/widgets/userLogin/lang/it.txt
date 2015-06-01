@@ -1,0 +1,14 @@
+ userlogin.login = Entra
+userlogin.loggedin = Registrato in
+userlogin.register = Registro
+userlogin.addusername = Inserire nome utente
+userlogin.autogener = Sarà generato automaticamente se non dato
+userlogin.addpassword = Inserire la password
+userlogin.username = Nome utente (e-mail)
+userlogin.password = Password
+userlogin.rememberme = Ricordati di me
+userlogin.addcorectusername = Immettere il nome utente corretto
+userlogin.tpl.loggedas = Collegato come:
+userlogin.tpl.logout = Esci
+userlogin.tpl.accsettings = Impostazioni account
+widgets.userLogin.smallhelp = Pannello di login utente

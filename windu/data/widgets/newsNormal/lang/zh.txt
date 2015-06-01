@@ -1,0 +1,2 @@
+ news.normal.more = 更多
+widgets.newsNormal.smallhelp = 显示新闻

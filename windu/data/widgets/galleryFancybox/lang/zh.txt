@@ -1,0 +1,1 @@
+ widgets.galleryFancybox.smallhelp = 显示的fancybox图库

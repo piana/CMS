@@ -1,0 +1,26 @@
+.imghoverlist{
+	position:relative;
+    left:0;
+    top:0px;
+    display:inline-block;
+    width:100%;
+    height:300px;
+    margin:0px;
+    padding:0px;
+  
+}
+.imghoverlisthover{
+	position:relative;
+    left:0;
+    top:-300px;
+    display:inline-block;
+    width:100%;
+    height:300px;
+    margin:0px;
+    padding:0px;
+  
+}
+.imghoverlist h2{
+	background-color:white;
+    padding:15px;
+}

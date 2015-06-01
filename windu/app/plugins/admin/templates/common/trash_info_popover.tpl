@@ -1,0 +1,1 @@
+<div class='pad'>{$page->content|strip_tags|truncate:200}</div>

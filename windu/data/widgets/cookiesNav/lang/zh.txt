@@ -1,0 +1,4 @@
+ cookies.nav.message = 本站使用cookies，使我们的服务能够更好地工作。
+cookies.nav.accept = 我明白了
+cookies.nav.privacypolitics = 了解更多
+widgets.cookiesNav.smallhelp = 关于饼干的使用信息

@@ -1,0 +1,38 @@
+.simpleNewsListTop a{
+	margin-right:10px;
+}
+.newsNormal-meta{
+	color:silver;
+}
+.newsNormal{
+	margin:0px;
+}
+.newsNormal input[type=text]{
+	width:70%;
+}
+.newsNormal .input-append{
+	margin:0px;
+}
+.newsNormal{
+	list-style:none;
+	margin:0px;
+}
+.newsNormal li{
+	padding:20px;
+}
+.newsNormal li:nth-child(odd){
+	background-color: #F9F9F9;
+	border-bottom:1px #eee solid;
+	border-top:1px #eee solid;
+}
+.newsNormal li:last-child{
+	border-bottom:0px;
+}
+.newsNormal li:first{
+	border-top:4px;
+}
+.newsNormal h4{
+	margin-bottom:5px;
+	margin-top:0px;
+}
+

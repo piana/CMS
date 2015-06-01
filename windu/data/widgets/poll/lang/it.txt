@@ -1,0 +1,3 @@
+ widgets.poll.smallhelp = Genera un sondaggio
+widgets.poll.vote = Vota
+widgets.poll.noquestion = Non ci sono domande per questo sondaggio!

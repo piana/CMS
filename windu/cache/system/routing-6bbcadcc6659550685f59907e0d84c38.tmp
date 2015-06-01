@@ -1,0 +1,1 @@
+a:2:{s:5:"route";a:4:{s:7:"pattern";s:24:"/admin/content/#subpage/";s:10:"parameters";a:2:{s:4:"name";s:13:"admin-content";s:10:"controller";s:22:"adminContentController";}s:12:"variableName";a:1:{i:0;s:7:"subpage";}s:6:"regexp";s:32:"/^\/admin\/content\/([^\/]+)\/$/";}s:9:"variables";a:1:{s:7:"subpage";s:5:"pages";}}

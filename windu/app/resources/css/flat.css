@@ -1,0 +1,111 @@
+.flat-icon{
+  background-image: url("../img/flat.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  margin-bottom:-16px;
+  margin-right:10px;
+  margin-left:4px;
+  display: inline-block;
+}
+.flat-icon-01{ background-position: 0 0; width: 50px; height: 50px; } 
+.flat-icon-02{ background-position: 0 -100px; width: 50px; height: 50px; } 
+.flat-icon-03{ background-position: 0 -200px; width: 50px; height: 50px; } 
+.flat-icon-04{ background-position: 0 -300px; width: 50px; height: 50px; } 
+.flat-icon-08{ background-position: 0 -400px; width: 50px; height: 50px; } 
+.flat-icon-09{ background-position: 0 -500px; width: 50px; height: 50px; } 
+.flat-icon-10{ background-position: 0 -600px; width: 50px; height: 50px; } 
+.flat-icon-12{ background-position: 0 -700px; width: 50px; height: 50px; } 
+.flat-icon-15{ background-position: 0 -800px; width: 50px; height: 48px; } 
+.flat-icon-17{ background-position: 0 -898px; width: 48px; height: 50px; } 
+.flat-icon-18{ background-position: 0 -998px; width: 50px; height: 50px; } 
+.flat-icon-19{ background-position: 0 -1098px; width: 50px; height: 50px; } 
+.flat-icon-20{ background-position: 0 -1198px; width: 50px; height: 50px; } 
+.flat-icon-21{ background-position: 0 -1298px; width: 50px; height: 50px; } 
+.flat-icon-24{ background-position: 0 -1398px; width: 50px; height: 50px; } 
+.flat-icon-27{ background-position: 0 -1498px; width: 50px; height: 50px; } 
+.flat-icon-28{ background-position: 0 -1598px; width: 50px; height: 50px; } 
+.flat-icon-29{ background-position: 0 -1698px; width: 50px; height: 50px; } 
+.flat-icon-31{ background-position: 0 -1798px; width: 50px; height: 50px; } 
+.flat-icon-34{ background-position: 0 -1898px; width: 50px; height: 50px; } 
+.flat-icon-36{ background-position: -100px 0; width: 50px; height: 50px; } 
+.flat-icon-37{ background-position: -100px -100px; width: 50px; height: 50px; } 
+.flat-icon-38{ background-position: -100px -200px; width: 50px; height: 50px; } 
+.flat-icon-39{ background-position: -100px -300px; width: 50px; height: 50px; } 
+.flat-icon-40{ background-position: -100px -400px; width: 50px; height: 50px; } 
+.flat-icon-41{ background-position: -100px -500px; width: 50px; height: 50px; } 
+.flat-icon-42{ background-position: -100px -600px; width: 50px; height: 50px; } 
+.flat-icon-43{ background-position: -100px -700px; width: 50px; height: 50px; } 
+.flat-icon-45{ background-position: -100px -800px; width: 50px; height: 50px; } 
+.flat-icon-46{ background-position: -100px -900px; width: 50px; height: 50px; } 
+.flat-icon-47{ background-position: -100px -1000px; width: 50px; height: 50px; } 
+.flat-icon-48{ background-position: -100px -1100px; width: 50px; height: 50px; } 
+.flat-icon-49{ background-position: -100px -1200px; width: 50px; height: 50px; } 
+.flat-icon-51{ background-position: -100px -1300px; width: 50px; height: 50px; } 
+.flat-icon-52{ background-position: -100px -1400px; width: 50px; height: 50px; } 
+.flat-icon-53{ background-position: -100px -1500px; width: 50px; height: 50px; } 
+.flat-icon-54{ background-position: -100px -1600px; width: 50px; height: 50px; } 
+.flat-icon-55{ background-position: -100px -1700px; width: 50px; height: 50px; } 
+.flat-icon-56{ background-position: -100px -1800px; width: 50px; height: 50px; } 
+.flat-icon-57{ background-position: -100px -1900px; width: 50px; height: 50px; } 
+.flat-icon-58{ background-position: -200px 0; width: 50px; height: 50px; } 
+.flat-icon-59{ background-position: -200px -100px; width: 50px; height: 50px; } 
+.flat-icon-63{ background-position: -200px -200px; width: 50px; height: 50px; } 
+.flat-icon-64{ background-position: -200px -300px; width: 50px; height: 50px; } 
+
+
+.flat-icon-big{
+  background-image: url("../img/flat-big.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  margin-bottom:-16px;
+  margin-right:10px;
+  margin-left:4px;
+  display: inline-block;
+}
+.flat-icon-big-01{ background-position: 0 0; width: 112px; height: 112px; } 
+.flat-icon-big-02{ background-position: 0 -162px; width: 112px; height: 112px; } 
+.flat-icon-big-03{ background-position: 0 -324px; width: 112px; height: 112px; } 
+.flat-icon-big-04{ background-position: 0 -486px; width: 112px; height: 112px; } 
+.flat-icon-big-08{ background-position: 0 -648px; width: 112px; height: 112px; } 
+.flat-icon-big-09{ background-position: 0 -810px; width: 112px; height: 112px; } 
+.flat-icon-big-10{ background-position: 0 -972px; width: 112px; height: 112px; } 
+.flat-icon-big-12{ background-position: 0 -1134px; width: 112px; height: 112px; } 
+.flat-icon-big-15{ background-position: 0 -1296px; width: 112px; height: 109px; } 
+.flat-icon-big-17{ background-position: 0 -1455px; width: 107px; height: 112px; } 
+.flat-icon-big-18{ background-position: 0 -1617px; width: 112px; height: 112px; } 
+.flat-icon-big-19{ background-position: 0 -1779px; width: 112px; height: 112px; } 
+.flat-icon-big-20{ background-position: 0 -1941px; width: 112px; height: 112px; } 
+.flat-icon-big-21{ background-position: -162px 0; width: 112px; height: 112px; } 
+.flat-icon-big-24{ background-position: -162px -162px; width: 112px; height: 112px; } 
+.flat-icon-big-27{ background-position: -162px -324px; width: 112px; height: 112px; } 
+.flat-icon-big-28{ background-position: -162px -486px; width: 112px; height: 112px; } 
+.flat-icon-big-29{ background-position: -162px -648px; width: 112px; height: 112px; } 
+.flat-icon-big-31{ background-position: -162px -810px; width: 112px; height: 112px; } 
+.flat-icon-big-34{ background-position: -162px -972px; width: 112px; height: 112px; } 
+.flat-icon-big-36{ background-position: -162px -1134px; width: 112px; height: 112px; } 
+.flat-icon-big-37{ background-position: -162px -1296px; width: 112px; height: 112px; } 
+.flat-icon-big-38{ background-position: -162px -1458px; width: 112px; height: 112px; } 
+.flat-icon-big-39{ background-position: -162px -1620px; width: 112px; height: 112px; } 
+.flat-icon-big-40{ background-position: -162px -1782px; width: 112px; height: 112px; } 
+.flat-icon-big-41{ background-position: -162px -1944px; width: 112px; height: 112px; } 
+.flat-icon-big-42{ background-position: -324px 0; width: 112px; height: 112px; } 
+.flat-icon-big-43{ background-position: -324px -162px; width: 112px; height: 112px; } 
+.flat-icon-big-45{ background-position: -324px -324px; width: 112px; height: 112px; } 
+.flat-icon-big-46{ background-position: -324px -486px; width: 112px; height: 112px; } 
+.flat-icon-big-47{ background-position: -324px -648px; width: 112px; height: 112px; } 
+.flat-icon-big-48{ background-position: -324px -810px; width: 112px; height: 112px; } 
+.flat-icon-big-49{ background-position: -324px -972px; width: 112px; height: 112px; } 
+.flat-icon-big-51{ background-position: -324px -1134px; width: 112px; height: 112px; } 
+.flat-icon-big-52{ background-position: -324px -1296px; width: 112px; height: 112px; } 
+.flat-icon-big-53{ background-position: -324px -1458px; width: 112px; height: 112px; } 
+.flat-icon-big-54{ background-position: -324px -1620px; width: 112px; height: 112px; } 
+.flat-icon-big-55{ background-position: -324px -1782px; width: 112px; height: 112px; } 
+.flat-icon-big-56{ background-position: -324px -1944px; width: 112px; height: 112px; } 
+.flat-icon-big-57{ background-position: -486px 0; width: 112px; height: 112px; } 
+.flat-icon-big-58{ background-position: -486px -162px; width: 112px; height: 112px; } 
+.flat-icon-big-59{ background-position: -486px -324px; width: 112px; height: 112px; } 
+.flat-icon-big-63{ background-position: -486px -486px; width: 112px; height: 112px; } 
+.flat-icon-big-64{ background-position: -486px -648px; width: 112px; height: 112px; } 
+
+
+

@@ -1,0 +1,2 @@
+widgets.newTopics.smallhelp = Widget che visualizza i temi aggiunti di recente 
+newTopics.title = Argomenti aggiunti di recente

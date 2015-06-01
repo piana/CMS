@@ -1,0 +1,1 @@
+widgets.sliderBootstrap.smallhelp = Slider ze zdjęciami z Bootstrapa

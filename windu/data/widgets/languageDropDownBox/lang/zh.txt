@@ -1,0 +1,1 @@
+ widgets.languageSelectBox.smallhelp = 语言选择面板

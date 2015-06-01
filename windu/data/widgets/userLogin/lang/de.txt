@@ -1,0 +1,14 @@
+ userlogin.login = Anmelden
+userlogin.loggedin = Angemeldet
+userlogin.register = Registrieren
+userlogin.addusername = Geben Sie Benutzername
+userlogin.autogener = Wird automatisch generiert, wenn nicht gegeben werden
+userlogin.addpassword = Geben Sie das Passwort
+userlogin.username = Benutzername (E-Mail)
+userlogin.password = Passwort
+userlogin.rememberme = Angemeldet bleiben
+userlogin.addcorectusername = Geben Sie die richtige Benutzername
+userlogin.tpl.loggedas = Angemeldet als:
+userlogin.tpl.logout = Ausloggen
+userlogin.tpl.accsettings = Account-Einstellungen
+widgets.userLogin.smallhelp = Benutzeranmeldung Tafel

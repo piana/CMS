@@ -1,0 +1,1 @@
+ widgets.galleryFancybox.smallhelp = Отображает ГАЛЕРЕИ Fancybox

@@ -1,0 +1,2 @@
+ search.show.noresults = Keine passenden Materialien gefunden
+widgets.searchShowNormal.smallhelp = Zeigt Suchergebnisse

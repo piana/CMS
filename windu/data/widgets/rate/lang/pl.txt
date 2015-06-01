@@ -1,0 +1,7 @@
+rate.message.positive = Dziękujemy za ocenę!
+rate.message.negative = Już oceniałeś!
+rate.rates.positive = Głosy pozytywne
+rate.rates.negative = Głosy negatywne
+rate.rates.befirst = Oceń jako pierwszy!
+
+widgets.rate.smallhelp = Panel oceniania

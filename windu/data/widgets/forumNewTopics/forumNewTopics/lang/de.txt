@@ -1,0 +1,2 @@
+widgets.newTopics.smallhelp = Widget, das vor kurzem aufgenommen Themen zeigt
+newTopics.title = Kürzlich hinzugefügt Themen

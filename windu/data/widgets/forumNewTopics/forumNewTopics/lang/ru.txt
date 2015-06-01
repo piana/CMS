@@ -1,0 +1,2 @@
+﻿widgets.newTopics.smallhelp = Виджет, который отображает последние добавленные темы 
+newTopics.title = Последние темы

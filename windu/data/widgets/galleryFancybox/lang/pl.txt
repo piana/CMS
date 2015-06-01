@@ -1,0 +1,1 @@
+widgets.galleryFancybox.smallhelp = Pokazuje galerię z Fancybox

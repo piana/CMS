@@ -1,0 +1,2 @@
+widgets.hotTopics.smallhelp = Widget displays the most discussed topics
+hotTopics.title = The most popular topics

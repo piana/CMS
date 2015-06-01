@@ -1,0 +1,55 @@
+front.form.more = "Más"
+front.form.project = "Creado y diseńado por:"
+front.form.workon = Ejecutar en el motor:
+front.form.send = Enviar
+front.form.giveemail = "Introduzca un correo electrónico válido"
+front.form.email = "Correo electrónico"
+front.form.giveelement = "Por favor rellene el campo de formulario"
+front.form.contactformcontent = "Mensaje"
+front.form.givecorrectemail = "Introduzca un correo electrónico válido"
+
+validator.required = "El campo no puede estar vacío"
+validator.email = "Por favor introduce un correo electrónico correcta"
+validator.number = "Por favor introduzca un número"
+validator.captcha = "Por favor introduce el texto de la imagen"
+validator.captcha.error = "Código refundido está mal!"
+
+admin.message.error = "Se han detectado errores en el formulario"
+admin.message.success = "Los cambios fueron exitosos"
+
+news.gropu.id = 879
+
+
+//editable/////////////////////
+editable.front.footer.terms = Todos los derechos reservados , materiales de copiado contenidas en el sitio web de conformidad con la licencia Windu está prohibido.
+editable.front.footer.designed = Diseńado por:
+editable.front.footer.engine = Trabaja sobre:
+editable.front.welcome = Bienvenido
+editable.front.search = Buscar
+editable.front.login = Usuario
+editable.front.news = Noticias
+editable.front.logos = Logos
+editable.front.tags = Etiquetas
+
+
+register.mail.tpl.welcome = Bienvenido
+register.mail.tpl.regged = Se ha registrado a
+register.mail.tpl.tocont = Para activar su cuenta , haga clic en el enlace de abajo:
+register.mail.tpl.activate = Activar cuenta!
+register.mail.tpl.iffor = Si por alguna razón no es enlace puede hacer clic, copiarlo y pegarlo en su navegador web y luego presione Intro.
+register.mail.tpl.team = Equipo
+
+
+
+admin.pagesdb.class.php.save = Guardar
+admin.pagesdb.class.php.image = Imagen
+admin.pagesdb.class.php.file = Archivo
+admin.pagesdb.class.php.widget = Widget
+
+
+
+
+admin.menu.left.tpl.image = Ańadir imagen
+admin.menu.left.tpl.widget = Ańadir tu currículum
+admin.menu.left.tpl.file = Agregar archivo
+%EF%BB%BFcontactform.message.positive = 

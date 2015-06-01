@@ -1,0 +1,1 @@
+widgets.menuHorizontalNav.smallhelp = Generates menu, that matches the width

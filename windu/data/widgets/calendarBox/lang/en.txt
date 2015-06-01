@@ -1,0 +1,1 @@
+widgets.calendarBox.smallhelp = Displays calendar in a graphic form
